@@ -1,0 +1,369 @@
+.consulting_stocks_box {
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    width: 32px;
+    height: 32px;
+    margin: -16px 0 0 -16px;
+    background-color: $stm_base_color;
+    border-radius: 50%;
+    -webkit-animation: scaleout 0.5s infinite ease-in-out;
+    animation: scaleout 1.0s infinite ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+  }
+  div {
+    visibility: hidden !important;
+    opacity: 0 !important;
+  }
+  &.hide_preloader {
+    &:before {
+      display: none;
+    }
+    div {
+      visibility: visible !important;
+      opacity: 1 !important;
+    }
+  }
+  .stocks_list {
+    .owl-stage-outer {
+      z-index: 10;
+      border-right: 1px solid rgba(#ffffff, 0.12);
+      &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 1px;
+        height: 100%;
+        background: rgba(#ffffff, 0.12);
+      }
+      .owl-stage {
+        margin-left: -1px;
+      }
+    }
+    .single-item {
+      display: table;
+      width: 100%;
+      padding: 10px 26px;
+      border-left: 1px solid rgba(#ffffff, 0.12);
+      font-size: 13px;
+      .currency_column {
+        display: table-cell;
+        vertical-align: top;
+        &:nth-child(2) {
+          text-align: right;
+        }
+      }
+      .stock-exchange {
+        margin-bottom: 8px;
+        font-weight: 700;
+        color: $stm_secondary_color;
+      }
+      .regular-price {
+        margin-bottom: 4px;
+        font-weight: 400;
+        color: #ffffff;
+      }
+      .regular-change {
+        font-weight: 700;
+        font-size: 11px;
+        &.positive {
+          color: #66cdbc;
+          span {
+            &:before {
+              content: "+";
+            }
+          }
+        }
+        &.negative {
+          color: #d62a3a;
+        }
+      }
+    }
+  }
+}
+
+.consulting_stocks_box {
+  &.with_arrows {
+    .stocks_list {
+      padding: 0 30px;
+    }
+  }
+
+}
+
+.owl-controls {
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  right: -30px;
+  bottom: 0;
+  left: -30px;
+  .owl-nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    .owl-prev,
+    .owl-next {
+      font-size: 0;
+      margin-left: 4px;
+      visibility: hidden;
+      &:before {
+        content: "\f053";
+        font-family: FontAwesome;
+        position: relative;
+        visibility: visible;
+        font-size: 18px;
+        color: $stm_secondary_color;
+      }
+    }
+
+    .owl-next {
+      margin-left: auto;
+      margin-right: 4px;
+      border-left: 1px solid rgba(#ffffff, 0.12);
+      &:before {
+        content: "\f054";
+        font-family: FontAwesome;
+      }
+    }
+  }
+}
+
+.stm-header {
+  .consulting_stocks_box {
+    margin: 0 -5000px;
+    padding: 6px 5000px 6px 4985px;
+    position: relative;
+    background-color: $stm_base_color;
+    .stocks_list {
+      padding: 0 30px;
+    }
+    @media only screen and (max-width: 1023px) {
+      margin: 0 -15px -30px;
+      padding: 6px 15px;
+      background-color: $stm_base_color;
+    }
+  }
+}
+
+.header_transparent {
+  .stm-header {
+    .consulting_stocks_box {
+      background-color: rgba($stm_base_color, 0.20);
+      @media only screen and (max-width: 1023px) {
+        margin: 0 0 -30px;
+        padding: 6px 0;
+        background-color: transparent;
+      }
+    }
+  }
+}
+
+div [class^="stm-header"], div [class*=" stm-header"],
+div [class^="stm-header"] div, div [class*=" stm-header"] div {
+  font-family: inherit !important;
+}
+
+.vc_tta-style-flat {
+  &.vc_tta-tabs {
+    .vc_tta-panels {
+      .vc_tta-panel-body {
+        padding: 0 !important;
+      }
+    }
+  }
+}
+
+//Stock table
+.stocks_table {
+  display: flex;
+  flex-direction: column;
+  .single-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 20px;
+    border: 2px solid rgba($stm_base_color, 0.10);
+    border-top: 0;
+    &:first-child {
+      border-top: 2px solid rgba($stm_base_color, 0.10);
+    }
+    div {
+      display: block;
+      &.arrow {
+        margin-right: 20px;
+        i {
+          display: none;
+        }
+      }
+      &.exchange_box {
+        .stock-exchange {
+          text-transform: uppercase;
+          line-height: 16px;
+          font-weight: 600;
+          font-size: 16px;
+          color: #243238;
+        }
+        .stock-full-exchange {
+          font-size: 13px;
+          color: #777777;
+        }
+      }
+      &.prices_box {
+        margin-right: 0;
+        margin-left: auto;
+        text-align: right;
+        .regular-change {
+          span {
+            color: #777777;
+          }
+        }
+        .regular-price {
+          color: #2f3c42;
+        }
+      }
+    }
+    &.negative {
+      .arrow {
+        i:last-child {
+          display: block;
+          color: #ec7974;
+        }
+      }
+      .regular-change {
+        span:first-child {
+          color: #ec7974;
+        }
+      }
+    }
+    &.positive {
+      .arrow {
+        i:first-child {
+          display: block;
+          color: #56c897;
+        }
+      }
+      .regular-change {
+        span:first-child {
+          color: #56c897;
+        }
+      }
+    }
+  }
+}
+
+.stocks-tabs {
+  &.vc_tta-style-flat{
+    &.vc_tta-tabs {
+      .vc_tta-tabs-container {
+        margin-right: 0 !important;
+        .vc_tta-tabs-list {
+          display: flex;
+          width: 100%;
+          margin-top: 0 !important;
+          margin-left: 0 !important;
+          .vc_tta-tab {
+            flex: 50;
+            margin-left: 0 !important;
+            > a {
+              border-radius: 0 !important;
+              border: 2px solid rgba($stm_base_color, 0.10) !important;
+              border-left: 0 !important;
+              padding: 12px 20px 11px;
+              text-align: center;
+              font-weight: 600;
+              font-size: 15px;
+            }
+            &:first-child {
+              margin-left: 1px !important;
+              > a {
+                border-left: 2px solid rgba($stm_base_color, 0.10) !important;
+              }
+            }
+            &.vc_active {
+              > a {
+                background-color: $stm_base_color;
+                color: #fff !important;
+              }
+            }
+          }
+        }
+      }
+      .vc_tta-panels {
+        .vc_tta-panel-body {
+          padding: 0 !important;
+          border-radius: 0 !important;
+          border: 2px solid rgba($stm_base_color, 0.10) !important;
+          border-top: 0 !important;
+        }
+      }
+      @media only screen and (max-width: 767px) {
+        .vc_tta-panels {
+          .vc_tta-panel {
+            .vc_tta-panel-heading {
+              background-color: $stm_secondary_color;
+              border-radius: 0 !important;
+              h4 {
+                a {
+                  color: #fff;
+                }
+                &:after {
+                  background-color: transparent;
+                }
+              }
+            }
+            &.vc_active {
+              .vc_tta-panel-heading {
+                background-color: $stm_base_color;
+                h4 {
+                  a {
+                    color: #fff;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .stocks_table {
+    .single-item {
+      border-bottom: 2px solid rgba($stm_base_color, 0.10) !important;
+      border-right: 0;
+      border-left: 0;
+      &:first-child {
+        border-top: 0 !important;
+      }
+      &:last-child {
+        border-bottom: 0 !important;
+      }
+    }
+  }
+}
+
+.consulting_stocks_box {
+  .labels_box {
+    display: flex;
+    div {
+      margin-bottom: 15px;
+      font-size: 12px;
+      color: #243238;
+      span {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 5px;
+        margin-left: 10px;
+        width: 30px;
+        padding: 2px;
+      }
+    }
+  }
+}

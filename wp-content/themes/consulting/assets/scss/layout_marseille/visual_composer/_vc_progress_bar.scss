@@ -1,0 +1,18 @@
+body .vc_progress_bar {
+  .vc_label {
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: 17px;
+    .vc_label_units {
+      float: right;
+    }
+  }
+  .vc_single_bar {
+    height: 4px;
+  }
+
+  .vc_single_bar  {
+    margin-bottom: 36px;
+  }
+}

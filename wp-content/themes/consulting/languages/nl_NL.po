@@ -1,0 +1,2679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-07 10:38+0000\n"
+"PO-Revision-Date: 2017-12-02 20:38+0100\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+"Language: nl\n"
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "De pagina die u zoekt bestaat niet."
+
+#: 404.php:15
+msgid "homepage"
+msgstr "startpagina"
+
+#: functions.php:55
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: functions.php:56
+msgid "Sidebar Menu 1"
+msgstr "Zijbalk Menu 1"
+
+#: functions.php:57
+msgid "Sidebar Menu 2"
+msgstr "Zijbalk Menu 2"
+
+#: functions.php:58
+msgid "Sidebar Menu 3"
+msgstr "Zijbalk Menu 3"
+
+#: functions.php:70
+msgid "Right Sidebar"
+msgstr "Rechterzijbalk"
+
+#: functions.php:79
+msgid "Left Sidebar"
+msgstr "Linkerzijbalk"
+
+#: functions.php:89
+msgid "Shop Sidebar"
+msgstr "Winkel Zijbalk"
+
+#: functions.php:101
+msgid "Footer "
+msgstr "voettekst"
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr "Opmerking navigatie"
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr "Oudere Opmerkingen"
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr "Nieuwere Opmerkingen"
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Opmerkingen is gesloten."
+
+#: footer.php:21 inc/customizer/registration.php:941
+#: inc/customizer/registration.php:942
+msgid ""
+"Copyright &copy; 2012-2016 Consulting Theme by <a href='http://"
+"stylemixthemes.com/' target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+"Copyright &copy; 2012-2016 Consulting Thema door <a href=‘http://"
+"stylemixthemes.com/' target=‘_blank’>Stylemix Thema’s</a>. Alle rechten "
+"voorbehouden"
+
+#: footer.php:73
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+
+#: header.php:60 header.php:123 inc/customizer/registration.php:286
+msgid "1010 Avenue of the Moon New York, NY 10018 US."
+msgstr "1010 Avenue of the Moon New York, NY 10018 VS."
+
+#: header.php:64 header.php:127 inc/customizer/registration.php:312
+msgid "Call free: <strong>212 386 5575</strong>"
+msgstr "Bel gratis: <strong>212 386 5575</strong>"
+
+#: header.php:165 inc/customizer/registration.php:239
+msgid "Mon - Sat 8.00 - 18.00. Sunday CLOSED"
+msgstr "Ma - Za 8:00 - 18:00. Zondag GESLOTEN"
+
+#: header.php:286 inc/customizer/registration.php:511
+msgid ""
+"1010 Avenue of the Moon\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+"1010 Avenue of the Moon\n"
+"<span>New York, NY 10018 VS.</span>"
+
+#: header.php:294 inc/customizer/registration.php:524
+msgid "Write us <a href=\"mailto:info@consulting.com\">info@consulting.com"
+msgstr "Schrijf ons <a href=“mailto:info@consulting.com”>info@consulting.com"
+
+#: header.php:302
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-"
+"back>Request call back</span>>Request call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong><span data-scroll-to=“request-call-"
+"back>Terugbellen aanvragen</span>>Terugbellen aanvragen</span>"
+
+#: header.php:309 header.php:346 header.php:424 header.php:678
+#: inc/customizer/registration.php:446
+msgid ""
+"<strong>212 714 0177</strong>\n"
+"<span>Free call</span>"
+msgstr ""
+"<strong>212 714 0177</strong>\n"
+"<span>Gratis gesprek</span>"
+
+#: header.php:315 header.php:679 inc/customizer/registration.php:433
+#: partials/headers/l14-hs5.php:135
+msgid ""
+"<strong>Mon - Sat 8.00 - 18.00</strong>\n"
+"<span>Sunday CLOSED</span>"
+msgstr ""
+"<strong>Ma - Za 8:00 - 18:00</strong>\n"
+"<span>Zondag GESLOTEN</span>"
+
+#: header.php:323
+msgid ""
+"<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 US.</"
+"span>"
+msgstr ""
+"<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 VS.</"
+"span>"
+
+#: header.php:358 searchform.php:2
+msgid "Search..."
+msgstr "Zoeken…"
+
+#: header.php:584 header.php:640 inc/customizer/registration.php:461
+#: inc/customizer/registration.php:462 inc/customizer/registration.php:554
+#: inc/customizer/registration.php:555
+msgid ""
+"Theme by <a href='http://stylemixthemes.com/' target='_blank'>Stylemix "
+"Themes</a> <br>2016 &copy; All rights reserved."
+msgstr ""
+"Thema door <a href=‘http://stylemixthemes.com/' target=‘_blank’>Stylemix "
+"Themes</a> <br>2016 &copy; All rights reserved."
+
+#: header.php:680 inc/customizer/registration.php:420
+#: partials/headers/l14-hs5.php:152
+msgid ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 VS.</span>"
+
+#: inc/extras.php:85
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: inc/extras.php:89
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Waardering %d van de 5"
+
+#: inc/extras.php:91
+msgid "out of 5"
+msgstr "van de 5"
+
+#: inc/extras.php:95
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=“fa fa-reply”></i> Beantwoorden"
+
+#: inc/extras.php:100
+msgid "Edit"
+msgstr "Wijzig"
+
+#: inc/extras.php:107
+msgid "Your comment is awaiting moderation."
+msgstr "Uw opmerking wacht op moderatie."
+
+#: inc/extras.php:130 inc/post_types-config.php:400
+msgid "Name"
+msgstr "Naam"
+
+#: inc/extras.php:135
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/extras.php:140 vc_templates/stm_portfolio_information.php:43
+msgid "Website"
+msgstr "Website"
+
+#: inc/extras.php:154
+msgctxt "noun"
+msgid "Message"
+msgstr "Bericht"
+
+#: inc/extras.php:157
+msgid "post a comment"
+msgstr "Plaats een reactie"
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:369
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/extras.php:374
+msgid "Page not found"
+msgstr "Pagina is niet gevonden"
+
+#: inc/extras.php:390 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: inc/extras.php:1103
+msgid "New request for event - "
+msgstr "Nieuwe aanvraag voor evenement"
+
+#: inc/extras.php:1117
+msgid "Your request was sent"
+msgstr "Uw verzoek is verzonden"
+
+#: inc/extras.php:1121
+msgid "Please fill all fields"
+msgstr "Gelieve alle velden in te vullen"
+
+#: inc/extras.php:1129
+msgid "Please prove you're not a robot"
+msgstr "Bevestig alsjeblieft dat u geen robot bent"
+
+#: inc/extras.php:1136
+msgid "New Event Member"
+msgstr "Nieuw Evenement Lid"
+
+#: inc/extras.php:1137
+msgid "Name: "
+msgstr "Naam:"
+
+#: inc/extras.php:1138 vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr "E-mail:"
+
+#: inc/extras.php:1139
+msgid "Phone: "
+msgstr "Telefoonnummer:"
+
+#: inc/extras.php:1140
+msgid "Company: "
+msgstr "Bedrijf:"
+
+#: inc/extras.php:1232 inc/extras.php:1250
+msgid "Please, check yor email"
+msgstr "Controleer uw e-mail"
+
+#: inc/extras.php:1235
+msgid "Registration completed successfully"
+msgstr "Registratie met succes voltooid."
+
+#: inc/extras.php:1236
+msgid "Your login: "
+msgstr "Uw login:"
+
+#: inc/extras.php:1236
+msgid "Your password: "
+msgstr "Uw wachtwoord:"
+
+#: inc/extras.php:1236
+msgid "Website: "
+msgstr "Website:"
+
+#: inc/extras.php:1242 inc/extras.php:1253
+msgid "Your download is available"
+msgstr "Uw download is beschikbaar"
+
+#: inc/extras.php:1243 inc/extras.php:1254
+msgid "Download link: "
+msgstr "Download link:"
+
+#: inc/post_types-config.php:5
+msgid "Event"
+msgstr "Evenement"
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:723
+#: inc/customizer/registration.php:729 inc/customizer/registration.php:734
+msgid "Events"
+msgstr "Evenementen"
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:739
+msgid "All Events"
+msgstr "Alle Evenementen"
+
+#: inc/post_types-config.php:13
+msgid "Member"
+msgstr "Lid"
+
+#: inc/post_types-config.php:20 inc/customizer/registration.php:569
+msgid "Service"
+msgstr "Dienst"
+
+#: inc/post_types-config.php:21 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:563 inc/customizer/registration.php:574
+msgid "Services"
+msgstr "Diensten"
+
+#: inc/post_types-config.php:22 inc/customizer/registration.php:579
+msgid "All Services"
+msgstr "Alle Diensten"
+
+#: inc/post_types-config.php:28 inc/customizer/registration.php:601
+msgid "Vacancy"
+msgstr "Vacature"
+
+#: inc/post_types-config.php:29 inc/customizer/registration.php:595
+#: inc/customizer/registration.php:606
+msgid "Vacancies"
+msgstr "Vacatures"
+
+#: inc/post_types-config.php:30 inc/customizer/registration.php:611
+msgid "All Vacancies"
+msgstr "Alle vacatures"
+
+#: inc/post_types-config.php:36 inc/post_types-config.php:37
+#: inc/customizer/registration.php:627 inc/customizer/registration.php:633
+#: inc/customizer/registration.php:638
+msgid "Staff"
+msgstr "Medewerkers"
+
+#: inc/post_types-config.php:38 inc/customizer/registration.php:643
+msgid "All Staff"
+msgstr "Alle Medewerkers"
+
+#: inc/post_types-config.php:44 inc/customizer/registration.php:665
+msgid "Work"
+msgstr "Werk"
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:659
+#: inc/customizer/registration.php:670
+msgid "Works"
+msgstr "Werkzaamheden:"
+
+#: inc/post_types-config.php:46 inc/customizer/registration.php:675
+msgid "All Works"
+msgstr "Alle Werkzaamheden:"
+
+#: inc/post_types-config.php:52 inc/customizer/registration.php:697
+msgid "Testimonial"
+msgstr "Getuigenis"
+
+#: inc/post_types-config.php:53 inc/customizer/registration.php:691
+#: inc/customizer/registration.php:702
+msgid "Testimonials"
+msgstr "Getuigenissen"
+
+#: inc/post_types-config.php:54 inc/customizer/registration.php:707
+msgid "All Testimonials"
+msgstr "Alle Getuigenissen"
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:1286
+#: inc/customizer/registration.php:1331 inc/customizer/registration.php:1372
+msgid "VC Sidebar"
+msgstr "VC Zijbalk"
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:1270
+#: inc/customizer/registration.php:1315 inc/customizer/registration.php:1356
+msgid "VC Sidebars"
+msgstr "VC Zijbalken"
+
+#: inc/post_types-config.php:64
+msgid "All Sidebars"
+msgstr "Alle Zijbalken"
+
+#: inc/post_types-config.php:72 inc/post_types-config.php:73
+#: inc/customizer/registration.php:755 inc/customizer/registration.php:761
+#: inc/customizer/registration.php:766
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/post_types-config.php:74 inc/customizer/registration.php:771
+msgid "All Portfolio"
+msgstr "Alle Portfolio"
+
+#: inc/post_types-config.php:111 inc/post_types-config.php:112
+#: inc/post_types-config.php:113 inc/post_types-config.php:114
+#: inc/post_types-config.php:115 inc/post_types-config.php:116
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/post_types-config.php:138 inc/customizer/registration.php:787
+msgid "Page Setup"
+msgstr "Pagina Instelling…"
+
+#: inc/post_types-config.php:141
+msgid "Header Options"
+msgstr "Koptekst Opties"
+
+#: inc/post_types-config.php:145 inc/customizer/registration.php:791
+msgid "Style - Inverse"
+msgstr "Stijl - Omdraaien"
+
+#: inc/post_types-config.php:150
+msgid "Title Box Options"
+msgstr "Titel Veld Opties"
+
+#: inc/post_types-config.php:154 inc/customizer/registration.php:799
+msgid "Disable Title Box"
+msgstr "Titel Veld Uitschakelen"
+
+#: inc/post_types-config.php:159 inc/customizer/registration.php:804
+msgid "Enable Transparent"
+msgstr "Transparante Inschakelen"
+
+#: inc/post_types-config.php:164 inc/customizer/registration.php:809
+msgid "Title Color"
+msgstr "Titel Kleur"
+
+#: inc/post_types-config.php:169 inc/customizer/registration.php:813
+msgid "Title Line Color"
+msgstr "Titel Lijn Kleur"
+
+#: inc/post_types-config.php:174
+msgid "Title Background Color"
+msgstr "Titel Achtergrond Kleur"
+
+#: inc/post_types-config.php:179 inc/post_types-config.php:250
+#: partials/frontend_customizer.php:260 inc/customizer/registration.php:180
+#: inc/customizer/registration.php:817
+msgid "Background Image"
+msgstr "Achtergrond Afbeelding"
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:821
+msgid "Background Position"
+msgstr "Achtergrond Positie"
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:825
+msgid "Background Size"
+msgstr "Achtergrond Formaat"
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:829
+msgid "Background Repeat"
+msgstr "Achtergrond Herhalen"
+
+#: inc/post_types-config.php:197 inc/customizer/registration.php:833
+msgid "Repeat"
+msgstr "Herhalen"
+
+#: inc/post_types-config.php:198 inc/customizer/registration.php:834
+msgid "No Repeat"
+msgstr "Niet Herhalen"
+
+#: inc/post_types-config.php:199 inc/customizer/registration.php:835
+msgid "Repeat-X"
+msgstr "Herhaal-X"
+
+#: inc/post_types-config.php:200 inc/customizer/registration.php:836
+msgid "Repeat-Y"
+msgstr "Herhaal-Y"
+
+#: inc/post_types-config.php:205 inc/customizer/registration.php:840
+msgid "Disable Title"
+msgstr "Titel Uitschakelen"
+
+#: inc/post_types-config.php:210 inc/customizer/registration.php:845
+msgid "Disable Breadcrumbs"
+msgstr "Breadcrumbs Uitschakelen"
+
+#: inc/post_types-config.php:215 inc/customizer/registration.php:850
+msgid "Enable Header Transparent"
+msgstr "Inschakelen Transparante Koptekst"
+
+#: inc/post_types-config.php:220
+msgid "Content Options"
+msgstr "Inhoud Opties"
+
+#: inc/post_types-config.php:224
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr "Achtergrond - Transparant (werk alleen bij “Omkaderde Modus”)"
+
+#: inc/post_types-config.php:229
+msgid "Footer Options"
+msgstr "Voettekst Opties"
+
+#: inc/post_types-config.php:233 inc/customizer/registration.php:860
+msgid "Border Top - Hide"
+msgstr "Bovenrand - Verbergen"
+
+#: inc/post_types-config.php:242
+msgid "Position"
+msgstr "Positie"
+
+#: inc/post_types-config.php:246 inc/post_types-config.php:412
+msgid "Company"
+msgstr "Bedrijf"
+
+#: inc/post_types-config.php:257
+msgid "Video url"
+msgstr "Video url"
+
+#: inc/post_types-config.php:262 inc/post_types-config.php:266
+#: inc/post_types-config.php:291 inc/post_types-config.php:347
+#: inc/post_types-config.php:436 inc/customizer/registration.php:499
+#: inc/customizer/registration.php:505
+msgid "Information"
+msgstr "Informatie"
+
+#: inc/post_types-config.php:269 inc/post_types-config.php:294
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr "Afdeling"
+
+#: inc/post_types-config.php:273 vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr "Locatie"
+
+#: inc/post_types-config.php:277
+msgid "Education"
+msgstr "Opleiding"
+
+#: inc/post_types-config.php:281
+msgid "Compensation"
+msgstr "Compensatie"
+
+#: inc/post_types-config.php:285
+msgid "Contact Us Link"
+msgstr "Neem Contact Met Ons Op Link"
+
+#: inc/post_types-config.php:298 inc/customizer/registration.php:284
+#: inc/customizer/registration.php:331 inc/customizer/registration.php:418
+#: inc/customizer/registration.php:509
+msgid "Address"
+msgstr "Adres"
+
+#: inc/post_types-config.php:302 inc/post_types-config.php:408
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: inc/post_types-config.php:306 inc/customizer/registration.php:32
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/post_types-config.php:310 inc/post_types-config.php:404
+#: inc/customizer/registration.php:297
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/post_types-config.php:314 inc/customizer/registration.php:15
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/post_types-config.php:318 inc/customizer/registration.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/post_types-config.php:322 inc/customizer/registration.php:18
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/post_types-config.php:326 inc/customizer/registration.php:20
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/post_types-config.php:338
+msgid "None"
+msgstr "Geen"
+
+#: inc/post_types-config.php:350
+msgid "Speaker"
+msgstr "Spreker"
+
+#: inc/post_types-config.php:355
+msgid "Max Participants:"
+msgstr "Max. Deelnemers:"
+
+#: inc/post_types-config.php:359
+msgid "Date - Start:"
+msgstr "Datum - Start:"
+
+#: inc/post_types-config.php:363
+msgid "Date - End:"
+msgstr "Datum - Einde:"
+
+#: inc/post_types-config.php:367
+msgid "Time - Text:"
+msgstr "Tijd - Tekst:"
+
+#: inc/post_types-config.php:371
+msgid "Time - Start:"
+msgstr "Tijd - Start:"
+
+#: inc/post_types-config.php:375
+msgid "Time - End:"
+msgstr "Tijd - Einde:"
+
+#: inc/post_types-config.php:379
+msgid "Venue:"
+msgstr "Locatie:"
+
+#: inc/post_types-config.php:383
+msgid "Latitude:"
+msgstr "Breedtegraad:"
+
+#: inc/post_types-config.php:387
+msgid "Longitude:"
+msgstr "Lengtegraad:"
+
+#: inc/post_types-config.php:391
+msgid "Telephone:"
+msgstr "Telefoonnummer:"
+
+#: inc/post_types-config.php:397
+msgid "Contact Info"
+msgstr "Contactinformatie"
+
+#: inc/post_types-config.php:416
+msgid "Member ID"
+msgstr "Lidmaatschap-ID"
+
+#: inc/post_types-config.php:422
+msgid "Portfolio image size"
+msgstr "Portefeuille afbeeldingsgrootte?"
+
+#: inc/post_types-config.php:425
+msgid "Size"
+msgstr "Formaat"
+
+#: inc/post_types-config.php:428 inc/customizer/registration.php:130
+#: inc/customizer/registration.php:138
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/post_types-config.php:429 partials/frontend_customizer.php:253
+msgid "Wide"
+msgstr "Breedte"
+
+#: inc/post_types-config.php:430
+msgid "High"
+msgstr "Hoogte"
+
+#: inc/post_types-config.php:439
+msgid "Label"
+msgstr "Label"
+
+#: inc/post_types-config.php:443
+msgid "Cost"
+msgstr "Kosten"
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr "door"
+
+#: partials/content-post_bottom.php:10 partials/content-vacancy_bottom.php:13
+msgid "Share"
+msgstr "Deel"
+
+#: partials/content-event-form.php:12
+msgid "SHARE"
+msgstr "DEEL"
+
+#: partials/content-event-form.php:74
+msgid "Europe/London"
+msgstr "Europa/Londen"
+
+#: partials/content-event-form.php:77
+msgid "Not indicated"
+msgstr "Niet aangegeven"
+
+#: partials/content-event-form.php:79
+msgid "save event to calendar"
+msgstr "Sla Evenement op in Agenda"
+
+#: partials/content-event-form.php:90 partials/content-event-classic.php:93
+msgid "past event"
+msgstr "Vorige evenement"
+
+#: partials/content-event-form.php:96 partials/content-event-classic.php:99
+msgid "i am going"
+msgstr "ik ga"
+
+#: partials/content-event-form.php:102 partials/content-event-classic.php:105
+msgid "fully booked"
+msgstr "volgeboekt"
+
+#: partials/content-event-form.php:118 partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:78
+msgid "register"
+msgstr "registreer"
+
+#: partials/content-event-form.php:121 partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "* Alle velden zijn verplicht"
+
+#: partials/content-event-form.php:129
+#: woocommerce/single-product-reviews.php:73
+msgid "Name *"
+msgstr "Naam *"
+
+#: partials/content-event-form.php:134
+msgid "Email *"
+msgstr "E-mail*"
+
+#: partials/content-event-form.php:141
+msgid "Phone *"
+msgstr "Telefoonnummer *"
+
+#: partials/content-event-form.php:146
+msgid "Company Name *"
+msgstr "Bedrijfsnaam *"
+
+#: partials/content-event-form.php:157 partials/content-event-form.php:186
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82
+msgid ""
+"I agree with all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+"Ik ga akkoord met de aanvullende <a href='http://stylemixthemes.com/' "
+"target='_blank'>Algemene Voorwaarden</a>"
+
+#: partials/content-event-form.php:174 partials/content-event-list-form.php:70
+msgid "join"
+msgstr "aanmelden"
+
+#: partials/content-event-form.php:180 partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr "U heeft zich al aangemeld voor dit evenement."
+
+#: partials/content-event-info.php:70 partials/content-event-widgets.php:29
+#: partials/content-event-classic.php:43 partials/content-event-grid.php:47
+msgid "to"
+msgstr "naar"
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr "Meld u nu aan"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om uw eerste bericht te plaatsen? <a href=\\”%1$s\\”>Ga hier aan de "
+"slag</a>."
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar niets voldoet aan uw zoekopdracht. Probeer het opnieuw met "
+"andere trefwoorden."
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het ziet er naar uit dat wat u zoekt, niet te vinden is. Wellicht kan de "
+"zoekfunctie helpen."
+
+#: partials/frontend_customizer.php:185
+msgid "Demos"
+msgstr "Demo’s"
+
+#: partials/frontend_customizer.php:188
+msgid "New York"
+msgstr "New York"
+
+#: partials/frontend_customizer.php:212
+msgid "Color Skin"
+msgstr "Kleur "
+
+#: partials/frontend_customizer.php:222 inc/customizer/registration.php:380
+msgid "Header Style"
+msgstr "Header Stijl"
+
+#: partials/frontend_customizer.php:225 inc/customizer/registration.php:232
+#: inc/customizer/registration.php:385 inc/customizer/registration.php:885
+msgid "Style 2"
+msgstr "Stijl 2"
+
+#: partials/frontend_customizer.php:239
+msgid "Nav Mode"
+msgstr "Navigatie Modus"
+
+#: partials/frontend_customizer.php:242
+msgid "Static"
+msgstr "Statisch"
+
+#: partials/frontend_customizer.php:244
+msgid "Sticky"
+msgstr "Sticky"
+
+#: partials/frontend_customizer.php:250 inc/customizer/registration.php:959
+#: inc/customizer/registration.php:1255
+msgid "Layout"
+msgstr "Lay-out"
+
+#: partials/frontend_customizer.php:255
+msgid "Boxed"
+msgstr "Omkaderd"
+
+#: partials/content-loop_list.php:11 partials/content-post_details.php:8
+msgid "Posted by:"
+msgstr "Gepost door:"
+
+#: partials/content-loop_list.php:12 partials/content-post_details.php:11
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "Categorie:"
+
+#: partials/content-loop_list.php:30 partials/content-event-classic.php:81
+#: vc_templates/stm_services.php:50
+msgid "read more"
+msgstr "lees verder"
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "contactgegevens"
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "Sociale Profielen"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "nu aanvragen"
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "Auteur:"
+
+#: partials/content.php:90 partials/content-page.php:20
+msgid "Pages:"
+msgstr "Pagina’s:"
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr "Pagina"
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "News"
+msgstr "Nieuws"
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "Careers"
+msgstr "Carrièremogelijkheden"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "Afdeling:"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "Project Locatie(s):"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "Opleiding:"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "Compensatie"
+
+#: vc_templates/stm_staff_list.php:105 vc_templates/stm_info_box.php:74
+#: vc_templates/stm_works.php:285 vc_templates/stm_news.php:66
+msgid "Read more"
+msgstr "Lees verder"
+
+#: vc_templates/stm_staff_list.php:135 vc_templates/stm_staff_list.php:138
+msgid "view profile"
+msgstr "profiel bekijken"
+
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+#: vc_templates/stm_events.php:84 vc_templates/stm_events.php:89
+msgid "loading..."
+msgstr "laden…"
+
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+msgid "load more"
+msgstr "meer laden"
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr "vorige"
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr "volgende"
+
+#: vc_templates/stm_gmap_l14.php:90 woocommerce/cart/shipping-calculator.php:38
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land&hellip;"
+
+#: vc_templates/stm_gmap_l14.php:98 woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr "Selecteer een provincie&hellip;"
+
+#: vc_templates/stm_info_box.php:137
+msgid "Read More"
+msgstr "Lees Verder"
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr "Voer uw e-mailadres in"
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr "Nu downloaden"
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr "bezoek website"
+
+#: vc_templates/stm_works.php:72
+msgid "All"
+msgstr "Alle"
+
+#: vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr "Klant"
+
+#: vc_templates/stm_portfolio_information.php:31
+#: vc_templates/stm_vacancies.php:22 woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "Datum"
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr "Onze Rol"
+
+#: vc_templates/stm_news.php:82
+msgid ", "
+msgstr ","
+
+#: vc_templates/stm_news.php:90
+msgid "in"
+msgstr "in"
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr "Skype:"
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr "Vacature Titel"
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr "Er zijn nog geen beoordelingen."
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Add a review"
+msgstr "Voeg een beoordeling toe"
+
+#: woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Wees de eerste om &ldquo;%s&rdquo; te beoordelen;"
+
+#: woocommerce/single-product-reviews.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laat een Reactie achter aan %s"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: woocommerce/single-product-reviews.php:83 admin/screens/startup.php:58
+msgid "Submit"
+msgstr "Verzenden"
+
+#: woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"U moet als <a href=“%s”>ingelogd zijn </a> om een beoordeling te plaatsen."
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Rating"
+msgstr "Uw Waardering"
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr "Beoordeel &hellip;"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr "Perfect"
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr "Goed"
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr "Gemiddeld"
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr "Matig"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr "Slecht"
+
+#: woocommerce/single-product-reviews.php:104
+msgctxt "noun"
+msgid "Your Review"
+msgstr "Uw Beoordeling"
+
+#: woocommerce/single-product-reviews.php:106
+msgid "add review"
+msgstr "beoordeling toevoegen"
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Alleen ingelogde klanten, die dit product hebben gekocht, kunnen een "
+"beoordeling achterlaten."
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Voer uw Envato Marktplaats Gebruikersnaam in."
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Voer uw Envato Marktplaats API Sleutel in."
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "De API “set” is een vereiste parameter."
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "De Envato Marktplaats “Item ID” is een vereiste parameter."
+
+#. Base ID
+#: inc/widgets/socials.php:11 inc/customizer/registration.php:868
+#: inc/customizer/registration.php:1444
+msgid "Socials"
+msgstr "Sociale media"
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr "Sociaal Netwerk"
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr "Titel:"
+
+#. Base ID
+#: inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "Contacten"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "Contacten widget"
+
+#: inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr "Adres:"
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr "Telefoonnummer:"
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr "Fax:"
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr "E-mail:"
+
+#: inc/customizer/registration.php:17
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/registration.php:19
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/registration.php:21
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer/registration.php:22
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/registration.php:23
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/registration.php:24
+msgid "Git"
+msgstr "Git"
+
+#: inc/customizer/registration.php:25
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/registration.php:26
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/customizer/registration.php:27
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/registration.php:28
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: inc/customizer/registration.php:29
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer/registration.php:30
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/customizer/registration.php:31
+msgid "Google"
+msgstr "Google"
+
+#: inc/customizer/registration.php:33
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer/registration.php:34
+msgid "Youtube Play"
+msgstr "YouTube Play"
+
+#: inc/customizer/registration.php:35
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/registration.php:36
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+#: inc/customizer/registration.php:37
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: inc/customizer/registration.php:38
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/customizer/registration.php:39
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/registration.php:45
+msgid "Site Settings"
+msgstr "Site-instellingen"
+
+#: inc/customizer/registration.php:49
+msgid "Header"
+msgstr "Koptekst"
+
+#: inc/customizer/registration.php:53
+msgid "Footer"
+msgstr "Voettekst"
+
+#: inc/customizer/registration.php:57
+msgid "Post Types"
+msgstr "Berichtsoorten"
+
+#: inc/customizer/registration.php:61
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer/registration.php:65
+msgid "Default Settings"
+msgstr "Standaardinstellingen"
+
+#: inc/customizer/registration.php:71
+msgid "Logo &amp; Title"
+msgstr "Logo &amp; Titel"
+
+#: inc/customizer/registration.php:79 inc/customizer/registration.php:889
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/registration.php:83
+msgid "Dark Logo"
+msgstr "Donker Logo"
+
+#: inc/customizer/registration.php:87 inc/customizer/registration.php:893
+msgid "Width"
+msgstr "Breedte"
+
+#: inc/customizer/registration.php:94 inc/customizer/registration.php:900
+msgid "Height"
+msgstr "Hoogte"
+
+#: inc/customizer/registration.php:101
+msgid "Margin Top"
+msgstr "Marge Boven"
+
+#: inc/customizer/registration.php:108
+msgid "Margin Bottom"
+msgstr "Marge Onder"
+
+#: inc/customizer/registration.php:121
+msgid "Static Front Page"
+msgstr "Statische startpagina"
+
+#: inc/customizer/registration.php:131
+msgid "Turquoise"
+msgstr "Turkoois"
+
+#: inc/customizer/registration.php:132
+msgid "Dark Denim"
+msgstr "Donker Denim"
+
+#: inc/customizer/registration.php:133
+msgid "Arctic &amp; Black"
+msgstr "Arctic &amp; Zwart"
+
+#: inc/customizer/registration.php:134 inc/customizer/registration.php:139
+msgid "Custom Colors"
+msgstr "Aangepaste Kleuren"
+
+#: inc/customizer/registration.php:145
+msgid "Skin"
+msgstr "Skin"
+
+#: inc/customizer/registration.php:150
+msgid "Custom Base Color"
+msgstr "Aangepaste Basis Color"
+
+#: inc/customizer/registration.php:155
+msgid "Custom Secondary Color"
+msgstr "Aangepaste Secundaire Kleur"
+
+#: inc/customizer/registration.php:160
+msgid "Custom Third Color"
+msgstr "Aangepaste Derde Kleur"
+
+#: inc/customizer/registration.php:165
+msgid "Frontend Customizer"
+msgstr "Frontend Customizer"
+
+#: inc/customizer/registration.php:170
+msgid "Enable Boxed Layout"
+msgstr "Omlijnde Lay-out Inschakelen"
+
+#: inc/customizer/registration.php:175
+msgid "Enable Preloader"
+msgstr "Preloader Inschakelen"
+
+#: inc/customizer/registration.php:190
+msgid "Custom Bg Image"
+msgstr "Aangepaste Bg Afbeelding"
+
+#: inc/customizer/registration.php:197
+msgid "Enable Page Scroll"
+msgstr "Pagina Scrollen inschakelen"
+
+#: inc/customizer/registration.php:204
+msgid "Style &amp; Settings"
+msgstr "Stijl &amp; Instellingen"
+
+#: inc/customizer/registration.php:210
+msgid "Enable Top Bar"
+msgstr "Bovenste Balk Inschakelen"
+
+#: inc/customizer/registration.php:217 inc/customizer/registration.php:488
+msgid "Button label"
+msgstr "Knop label"
+
+#: inc/customizer/registration.php:221 inc/customizer/registration.php:492
+msgid "Button link"
+msgstr "Knop link"
+
+#: inc/customizer/registration.php:228
+msgid "Top bar style"
+msgstr "Bovenste balk stijl"
+
+#: inc/customizer/registration.php:231 inc/customizer/registration.php:384
+#: inc/customizer/registration.php:884
+msgid "Style 1"
+msgstr "Stijl 1"
+
+#: inc/customizer/registration.php:237 inc/customizer/registration.php:340
+#: inc/customizer/registration.php:431 inc/customizer/registration.php:522
+msgid "Working Hours"
+msgstr "Werktijden"
+
+#: inc/customizer/registration.php:242 inc/customizer/registration.php:344
+msgid "Hours Icon"
+msgstr "Uren Pictogram"
+
+#: inc/customizer/registration.php:247
+msgid "Enable Search"
+msgstr "Zoeken Inschakelen"
+
+#: inc/customizer/registration.php:258
+msgid "Enable WPML Switcher"
+msgstr "WPML Switcher Inschakelen"
+
+#: inc/customizer/registration.php:264
+msgid "WPML Switcher Style"
+msgstr "WPML Switcher Stijl"
+
+#: inc/customizer/registration.php:267
+msgid "Theme"
+msgstr "Thema"
+
+#: inc/customizer/registration.php:268
+msgid "Default (WPML)"
+msgstr "Standaard (WPML)"
+
+#: inc/customizer/registration.php:274
+msgid "Disable WooCommerce Cart"
+msgstr "WooCommerce Winkelmandje Uitschakelen"
+
+#: inc/customizer/registration.php:289 inc/customizer/registration.php:335
+#: inc/customizer/registration.php:423 inc/customizer/registration.php:514
+msgid "Address Icon"
+msgstr "Adres Pictogram"
+
+#: inc/customizer/registration.php:302
+msgid "Email Icon"
+msgstr "E-mail Pictogram"
+
+#: inc/customizer/registration.php:310 inc/customizer/registration.php:349
+#: inc/customizer/registration.php:444 inc/customizer/registration.php:537
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: inc/customizer/registration.php:315 inc/customizer/registration.php:452
+#: inc/customizer/registration.php:545
+msgid "Phone number Icon"
+msgstr "Telefoonnummer Pictogram"
+
+#: inc/customizer/registration.php:328
+msgid "for dropdown options"
+msgstr "voor dropdown opties"
+
+#: inc/customizer/registration.php:353
+msgid "Phone Icon"
+msgstr "Telefoonpictogram"
+
+#: inc/customizer/registration.php:370
+msgid "Top Bar"
+msgstr "Bovenste Balk"
+
+#: inc/customizer/registration.php:376
+msgid "Header Appearance"
+msgstr "Koptekst Uiterlijk"
+
+#: inc/customizer/registration.php:386
+msgid "Style 3"
+msgstr "Stijl 3"
+
+#: inc/customizer/registration.php:387
+msgid "Style 4"
+msgstr "Stijl 4"
+
+#: inc/customizer/registration.php:388
+msgid "Style 5"
+msgstr "Stijl 5"
+
+#: inc/customizer/registration.php:389
+msgid "Style 6"
+msgstr "Stijl 6"
+
+#: inc/customizer/registration.php:390
+msgid "Style 7"
+msgstr "Stijl 7"
+
+#: inc/customizer/registration.php:391
+msgid "Style 8"
+msgstr "Stijl 8"
+
+#: inc/customizer/registration.php:395
+msgid "Sticky Menu"
+msgstr "Sticky Menu"
+
+#: inc/customizer/registration.php:400
+msgid "WooCommerce Cart - Hide"
+msgstr "WooCommerce Cart - Verbergen"
+
+#: inc/customizer/registration.php:406
+msgid "Start mobile menu from:"
+msgstr "Start Mobiele menu vanaf:"
+
+#: inc/customizer/registration.php:408
+msgid "Tablet landscape"
+msgstr "Tablet landschapsmodus"
+
+#: inc/customizer/registration.php:409
+msgid "Tablet portrait"
+msgstr "Tablet portretmodus"
+
+#: inc/customizer/registration.php:436 inc/customizer/registration.php:529
+msgid "Working Hours Icon"
+msgstr "Werkuren Pictogram"
+
+#: inc/customizer/registration.php:460 inc/customizer/registration.php:553
+#: inc/customizer/registration.php:940
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/registration.php:470
+msgid "Choose contact form"
+msgstr "Kies contactformulier"
+
+#: inc/customizer/registration.php:479
+msgid "Contact form(popup)"
+msgstr "Contactformulier(popup)"
+
+#: inc/customizer/registration.php:539
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back"
+"\">Request call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong> <span data-scroll-to=“request-call-"
+"back”>Aanvraag terugbellen</span>"
+
+#: inc/customizer/registration.php:567 inc/customizer/registration.php:599
+#: inc/customizer/registration.php:631 inc/customizer/registration.php:663
+#: inc/customizer/registration.php:695 inc/customizer/registration.php:727
+#: inc/customizer/registration.php:759
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer/registration.php:572 inc/customizer/registration.php:604
+#: inc/customizer/registration.php:636 inc/customizer/registration.php:668
+#: inc/customizer/registration.php:700 inc/customizer/registration.php:732
+#: inc/customizer/registration.php:764
+msgid "Plural Title"
+msgstr "Meervoud Titel"
+
+#: inc/customizer/registration.php:577 inc/customizer/registration.php:609
+#: inc/customizer/registration.php:641 inc/customizer/registration.php:673
+#: inc/customizer/registration.php:705 inc/customizer/registration.php:737
+#: inc/customizer/registration.php:769
+msgid "All Items"
+msgstr "Alle Items"
+
+#: inc/customizer/registration.php:582 inc/customizer/registration.php:614
+#: inc/customizer/registration.php:646 inc/customizer/registration.php:678
+#: inc/customizer/registration.php:710 inc/customizer/registration.php:742
+#: inc/customizer/registration.php:774
+msgid "Rewrite (URL text)"
+msgstr "Herschrijven (URL-tekst)"
+
+#: inc/customizer/registration.php:587 inc/customizer/registration.php:619
+#: inc/customizer/registration.php:651 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:715 inc/customizer/registration.php:747
+#: inc/customizer/registration.php:779
+msgid "Icon"
+msgstr "Pictogram"
+
+#: inc/customizer/registration.php:855
+msgid "Content Background - Transparent"
+msgstr "Inhoud Achtergrond - Transparant"
+
+#: inc/customizer/registration.php:880
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/customizer/registration.php:907
+msgid "Hide Logo"
+msgstr "Verberg Logo"
+
+#: inc/customizer/registration.php:912
+msgid "Hide Footer"
+msgstr "Verberg Voettekst"
+
+#: inc/customizer/registration.php:920
+msgid "Additional Widget Areas"
+msgstr "Extra Widget Gebieden"
+
+#: inc/customizer/registration.php:924
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: inc/customizer/registration.php:935
+msgid "Footer Text"
+msgstr "Voettekst"
+
+#: inc/customizer/registration.php:937
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: inc/customizer/registration.php:952
+msgid "Show Menu"
+msgstr "Toon Menu"
+
+#: inc/customizer/registration.php:965
+msgid "Footer Socials"
+msgstr "Voettekst Sociale Media"
+
+#: inc/customizer/registration.php:978
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/registration.php:982
+msgid "Base Font Family"
+msgstr "Basis Lettertype Familie"
+
+#: inc/customizer/registration.php:988
+msgid "Secondary Font Family"
+msgstr "Secondaire Lettertype Familie"
+
+#: inc/customizer/registration.php:994 inc/customizer/registration.php:1015
+#: inc/customizer/registration.php:1044 inc/customizer/registration.php:1079
+#: inc/customizer/registration.php:1114 inc/customizer/registration.php:1149
+#: inc/customizer/registration.php:1184 inc/customizer/registration.php:1219
+msgid "Font Weight"
+msgstr "Dikte van de Letters"
+
+#: inc/customizer/registration.php:1000 inc/customizer/registration.php:1021
+#: inc/customizer/registration.php:1050 inc/customizer/registration.php:1085
+#: inc/customizer/registration.php:1120 inc/customizer/registration.php:1155
+#: inc/customizer/registration.php:1190 inc/customizer/registration.php:1225
+msgid "Font Size"
+msgstr "Font Grootte"
+
+#: inc/customizer/registration.php:1011
+msgid "Paragraph"
+msgstr "Paragraaf"
+
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1058
+#: inc/customizer/registration.php:1093 inc/customizer/registration.php:1128
+#: inc/customizer/registration.php:1163 inc/customizer/registration.php:1198
+#: inc/customizer/registration.php:1233
+msgid "Line Height"
+msgstr "Regelhoogte"
+
+#: inc/customizer/registration.php:1040
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/registration.php:1066 inc/customizer/registration.php:1101
+#: inc/customizer/registration.php:1136 inc/customizer/registration.php:1171
+#: inc/customizer/registration.php:1206 inc/customizer/registration.php:1241
+msgid "Text Transform"
+msgstr "Teksttransformatie"
+
+#: inc/customizer/registration.php:1075
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/registration.php:1110
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/registration.php:1145
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/registration.php:1180
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/registration.php:1215
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/registration.php:1250
+msgid "Archive Pages"
+msgstr "Archiefpagina’s"
+
+#: inc/customizer/registration.php:1257
+msgid "Grid View"
+msgstr "Roosterweergave"
+
+#: inc/customizer/registration.php:1258
+msgid "List View"
+msgstr "Lijst Weergave"
+
+#: inc/customizer/registration.php:1267 inc/customizer/registration.php:1312
+#: inc/customizer/registration.php:1353
+msgid "Sidebar Type"
+msgstr "Zijbalk Type"
+
+#: inc/customizer/registration.php:1269 inc/customizer/registration.php:1314
+#: inc/customizer/registration.php:1355
+msgid "Wordpress Sidebars"
+msgstr "Wordpress Zijbalken"
+
+#: inc/customizer/registration.php:1280 inc/customizer/registration.php:1325
+#: inc/customizer/registration.php:1366
+msgid "Wordpress Sidebar"
+msgstr "WordPress zijbalk"
+
+#: inc/customizer/registration.php:1293 inc/customizer/registration.php:1379
+msgid "Sidebar - Position"
+msgstr "Zijbalk - Positie"
+
+#: inc/customizer/registration.php:1295 inc/customizer/registration.php:1381
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/registration.php:1296 inc/customizer/registration.php:1382
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/registration.php:1307
+msgid "Event Pages"
+msgstr "Evenementenpagina’s"
+
+#: inc/customizer/registration.php:1337
+msgid "Terms and Conditions Page Link"
+msgstr "Algemene Voorwaarden Pagina Link"
+
+#: inc/customizer/registration.php:1348
+msgid "Shop Pages"
+msgstr "Winkel Pagina ‘s"
+
+#: inc/customizer/registration.php:1390
+msgid "Products Per Page"
+msgstr "Producten Per Pagina"
+
+#: inc/customizer/registration.php:1401
+msgid "Google Map Api Settings"
+msgstr "Google Map Api Instellingen"
+
+#: inc/customizer/registration.php:1406
+msgid "Google Map API Key"
+msgstr "Google Map API Sleutel"
+
+#: inc/customizer/registration.php:1408
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+"Voer hier de geheime api-sleutel in die u aangemaakt heeft op Google APIs. U "
+"kunt de MAP API in Google APIs inschakelen > Google Maps API’s > Google Maps "
+"JavaScript API."
+
+#: inc/customizer/registration.php:1423
+msgid "Google Recaptcha API Settings"
+msgstr "Google Recaptcha API Instellingen"
+
+#: inc/customizer/registration.php:1428
+msgid "Recaptcha"
+msgstr "ReCaptcha"
+
+#: inc/customizer/registration.php:1433
+msgid "Public key"
+msgstr "Openbare sleutel"
+
+#: inc/customizer/registration.php:1437
+msgid "Secret key"
+msgstr "Geheime sleutel"
+
+#: inc/customizer/registration.php:1455
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: partials/headers/l14-hs5.php:31
+msgid "Write us<a href=\"mailto:info@consulting.com\">info@consulting.com</a>"
+msgstr ""
+"Schrijf ons<a href=“mailto:info@consulting.com”>info@consulting.com</a>"
+
+#: partials/headers/l14-hs5.php:33
+msgid ""
+"<strong>212 386 5575</strong><span data-popup=\"request-call-back\">Request "
+"a call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong> <span data-scroll-to=“request-call-"
+"back”>Aanvraag terugbellen</span>"
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr "Laat het enige resultaat zien"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "Laat alle <strong>%d</strong> resultaten zien"
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+"Laat <strong>%1$d&ndash;%2$d</strong> van <strong>%3$d</strong> resultaten "
+"zien"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr "Facturering &amp; Verzending"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr "Factuurgegevens"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "Een account aanmaken?"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Maak een account aan door onderstaande informatie in te vullen. Als u een "
+"terugkerende klant bent log dan a.u.b. in bovenaan de pagina."
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Terugkerende klant?"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "Klik hier om in te loggen"
+
+#: woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Als u eerder bij ons gewinkeld hebt, vul dan hieronder uw gegevens in. Bent "
+"u een nieuwe klant ga dan verder naar het betaal- en verzendgedeelte."
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr "Heeft u een kortingscode?"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr "Klik hier om uw code in te voeren"
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "Couponcode"
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr "Korting toepassen"
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr "betaling"
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Sorry, het lijkt erop dat er geen betaalmethoden beschikbaar zijn voor uw "
+"locatie. Neem contact met ons op als u hulp nodig heeft of op zoek bent naar "
+"alternatieve mogelijkheden."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Vul uw details hierboven in om de beschikbare betalingsmethodes te zien."
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Omdat uw browser geen JavaScript ondersteunt, of het is uitgeschakeld, klikt "
+"u op <em>Totalen Bijwerken</em> voor het plaatsen van uw bestelling. Als u "
+"dit niet doet wordt er mogelijk meer in rekening gebracht dan hierboven is "
+"vermeld."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "Totalen bijwerken"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr "uw bestelling"
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr "Product"
+
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110
+#: woocommerce/myaccount/my-orders.php:28 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr "Totaal"
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "U moet ingelogd zijn om de bestelling te kunnen plaatsen."
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr "Verzenden naar ander adres?"
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr "Aanvullende informatie"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:95
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:55
+msgid "Login"
+msgstr "Inloggen"
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: woocommerce/global/quantity-input.php:27
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Stuks"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "Artikelnummer:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] "Nvt"
+msgstr[1] "Categoriën"
+
+#: woocommerce/single-product/related.php:27
+msgid "related products"
+msgstr "aanverwante producten"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "Bestel"
+
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr "Status"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "Recente bestellingen"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s voor %s item"
+msgstr[1] "%s voor %s items"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Betaal"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "Bekijken"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"De volgende adressen zullen standaard worden gebruikt op de betaalpagina."
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "bewerken"
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "U heeft dit type adres nog niet ingesteld."
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr "inloggen"
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Username or email address"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Email address"
+msgstr "E-mailadres:"
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "Registreren"
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr "productnaam"
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr "prijs"
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr "aantal"
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr "totaal"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "Beschikbaar als nabestelling"
+
+#: woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr "Prijs"
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "Aantal"
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr "Verwijder dit item"
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon"
+msgstr "Korting"
+
+#: woocommerce/cart/cart.php:138
+msgid "update cart"
+msgstr "Werk winkelmandje bij"
+
+#: woocommerce/cart/shipping-calculator.php:32
+msgid "Calculate Shipping"
+msgstr "Verzendkosten Berekenen"
+
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:61
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr "Staat / Provincie"
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr "Woonplaats"
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr "Postcode"
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr "Totalen bijwerken"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "Verder naar afrekenen"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Winkelmandje totalen"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "Verzendkosten"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "geschat voor %s"
+
+#: admin/includes/theme.php:183
+msgid "Install"
+msgstr "Installeer"
+
+#: admin/includes/theme.php:185
+msgid "Activate"
+msgstr "Activeren"
+
+#: admin/includes/admin_screens.php:32 admin/includes/admin_screens.php:33
+#: admin/includes/admin_screens.php:129
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/includes/admin_screens.php:42 admin/includes/admin_screens.php:43
+#: admin/includes/admin_screens.php:130
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/includes/admin_screens.php:52 admin/includes/admin_screens.php:53
+msgid "Demo import"
+msgstr "Demo importeren"
+
+#: admin/includes/admin_screens.php:62 admin/includes/admin_screens.php:63
+msgid "System status"
+msgstr "Systeemstatus"
+
+#: admin/includes/admin_screens.php:121
+#, php-format
+msgid "Welcome to %s"
+msgstr "Welkom bij %s"
+
+#: admin/includes/admin_screens.php:123
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something "
+"beautiful. Please register your purchase to get automatic theme updates, "
+"import %1$s demos and install premium plugins. Read below for additional "
+"information. We hope you enjoy it! %s"
+msgstr ""
+"%s is nu geïnstalleerd en klaar voor gebruik! Wees klaar om iets moois te "
+"bouwen. Registreer uw aankoop om automatische thema updates te ontvangen, "
+"importeer %1$s demo’s en installeer premium plugins. Lees hieronder voor u "
+"meer informatie. We hopen dat u er blij van wordt! %s"
+
+#: admin/includes/admin_screens.php:123
+msgid "Watch Our Quick Guided Tour!"
+msgstr "Bekijk onze Korte Rondleiding!"
+
+#: admin/includes/admin_screens.php:128
+msgid "Product Registration"
+msgstr "Product Registratie"
+
+#: admin/includes/admin_screens.php:131
+msgid "Install Demos"
+msgstr "Installeer Demo’s"
+
+#: admin/includes/admin_screens.php:132
+msgid "System Status"
+msgstr "Systeem Status"
+
+#: admin/includes/admin_screens.php:133
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: admin/screens/startup.php:21 admin/screens/install_demo.php:25
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Zorg ervoor dat u dit thema hebt gekocht met het account dat u heeft "
+"geregistreerd met de actuele Token."
+
+#: admin/screens/startup.php:40
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"Bedankt voor het kiezen van %s! Registreer alstublieft om de %1$s demo’s en "
+"automatische thema updates in te schakelen. De onderstaande instructies "
+"moeten precies opgevolgd worden."
+
+#: admin/screens/startup.php:65
+msgid "Instructions For Generating A Token"
+msgstr "Instructies Voor Het Genereren Van Een Token"
+
+#: admin/screens/startup.php:67
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged "
+"in, you will be directed to login then directed back to the Create A Token "
+"Page."
+msgstr ""
+"Klik op deze link <a href=“%s” target=“_blank”>Genereer een Persoonlijke "
+"Token</a>. <strong>BELANGRIJK:</strong> U moet ingelogd zijn in hetzelfde "
+"Themeforest account dat%s heeft gekocht. Als u al ingelogd bent, kijk dan in "
+"de bovenste menubalk om te verzekeren dat het de juiste account is. Als u "
+"niet ingelogd bent, wordt u doorgestuurd om in te loggen en vervolgens terug "
+"te keren naar de pagina Aanmaken Token."
+
+#: admin/screens/startup.php:68
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"Voer een naam in voor uw token en vink dan de vakjes met <strong> Bekijk uw "
+"Envato Account Gebruikersnaam, Download Uw Aangeschafte Items, Controleer Uw "
+"Aankopen</strong> en <strong>Maak Een Lijst Van Uw Aankopen</strong> in het "
+"toestemming nodig gedeelte. Vink het vakje om akkoord te gaan met de "
+"voorwaarden en klik dan op De <strong> Maak Token</strong> knop"
+
+#: admin/screens/startup.php:69
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Een nieuwe pagina wordt geladen met een token nummer in een venster. Kopieer "
+"het token nummer keer terug naar deze registratiepagina en plak deze in het "
+"onderstaande veld en klik op de knop <strong>Verzenden</strong>."
+
+#: admin/screens/startup.php:70
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"U ziet een groen vinkje als het gelukt is of een foutbericht als er iets "
+"fout is gegaan. Als het mislukt, controleert u of de bovenstaande stappen "
+"correct zijn gevolgd."
+
+#: admin/screens/system_status.php:11 admin/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "Wordpress Omgeving"
+
+#: admin/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "Home URL:"
+
+#: admin/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "De URL van de startpagina van uw site."
+
+#: admin/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "Website URL:"
+
+#: admin/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "De root-URL van uw website."
+
+#: admin/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "WP Versie:"
+
+#: admin/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "De Wordpress versie van uw website."
+
+#: admin/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WP Multisite:"
+
+#: admin/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Of u Wordpress Multisite ingeschakeld hebt of niet."
+
+#: admin/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "WP Geheugen Limiet:"
+
+#: admin/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Het Maximale RAM geheugen wat de website in één keer kan gebruiken."
+
+#: admin/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br /"
+"> To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</"
+"strong> file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+"%1$s - We raden aan om het geheugen minimaal in te stellen op <strong>128MB</"
+"strong>. <br /> Om de klassieke demo te importeren, heeft u <strong>256MB</"
+"strong> aan geheugen nodig. <br /> Pas het geheugen limiet aan in het "
+"<strong>wp-config.php</strong> bestand. Wilt u leren hoe, kijk dan op: <a "
+"href=“%2$s” target=“_blank” rel=“naopener noreferrer”>Vergroten geheugen "
+"toegewezen aan PHP.</a>"
+
+#: admin/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"Uw huidige geheugenlimiet is voldoende, maar als u de klassieke demo inhoud "
+"wilt importeren is het vereiste geheugenlimiet  <strong>256MB.</strong>"
+
+#: admin/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "WP Debug Modus:"
+
+#: admin/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Toont of Wordpress in Debug Modus staat of niet."
+
+#: admin/screens/system_status.php:68
+msgid "Language:"
+msgstr "Taal:"
+
+#: admin/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "De huidige taal die wordt gebruikt door Wordpress. Standaard = Engels"
+
+#: admin/screens/system_status.php:75 admin/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "Serveromgeving"
+
+#: admin/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "Server Info:"
+
+#: admin/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Informatie over de wegserver die momenteel uw site host."
+
+#: admin/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr "PHP versie:"
+
+#: admin/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr "De PHP versie die geïnstalleerd is op uw hosting server."
+
+#: admin/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr "PHP Post Max Grootte:"
+
+#: admin/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr "Het grootste bestandsformaat dat kan worden opgenomen in 1 post."
+
+#: admin/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr "PHP Tijdslimiet:"
+
+#: admin/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"De hoeveelheid tijd (in seconden) die uw site aan 1 enkele operatie mag "
+"besteden, voordat er een timing out optreedt (om vastlopen van de server te "
+"voorkomen)."
+
+#: admin/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - We raden u aan om de max executie tijd op tenminste 180 te zetten. "
+"<br />Om de klassieke demo inhoud te importeren is er <strong>300</strong> "
+"seconden max executie tijd nodig.<br />Zie: <a href=“%2$s” target=“_blank” "
+"rel=“noopener noreferrer”>Verhogen van max executie naar PHP</a>"
+
+#: admin/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"Huidige tijdslimiet is voldoende, maar als u de demo inhoud wilt importeren "
+"dan is de vereiste tijd <strong>300</strong>."
+
+#: admin/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr "PHP Max Input Vars:"
+
+#: admin/screens/system_status.php:119 admin/screens/system_status.php:155
+#: admin/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Het maximaal aantal variabelen dat uw server mag gebruiken voor 1 enkele "
+"functie (om overload te voorkomen)."
+
+#: admin/screens/system_status.php:139 admin/screens/system_status.php:175
+#: admin/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - Aanbevolen Waarde: %2$s.<br />Max input vars gelimiteerd  zal POST "
+"data afkappen, zoals menu’s. Zie: <a href=“%3$s” target=“_blank” "
+"rel=“noopener noreferrer”>Verhogen van limiet max input vars.</a>"
+
+#: admin/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN geïnstalleerd:"
+
+#: admin/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin is een geavanceerd beveiligingssysteem voor PHP installaties. Het "
+"werd ontworpen om uw servers enerzijds te beschermen tegen een aantal "
+"bekende problemen in PHP-applicaties en anderzijds tegen potentiële "
+"onbekende kwetsbaarheden binnen deze toepassingen of de PHP kern zelf.\n"
+"\t\t\tAls dit is ingeschakeld op uw server, kan Suhosin worden "
+"geconfigureerd om de data indienlimieten te verhogen."
+
+#: admin/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin Post Max Vars:"
+
+#: admin/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosin Aanvraag Max Vars:"
+
+#: admin/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhosin Post Max Vars:"
+
+#: admin/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+"Definieert de maximumlengte van een variabele die is geregistreerd via een "
+"POST aanvraag."
+
+#: admin/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - Aanbevolen Waarde: %2$s.<br />Post Max Waarde Lengte beperking kan "
+"het opslaan van de Thema Opties data naar uw database verhinderen . Zie: <a "
+"href=“%3$s” target=“_blank” rel=“noopener noreferrer”>Suhosin Configuratie "
+"Info</a>."
+
+#: admin/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr "ZipArchief:"
+
+#: admin/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"ZipArchief is nodig voor het importeren van demo’s. Ze worden, specifiek "
+"voor sliders, gebruikt voor het importeren en exporteren van ZIP-bestanden."
+
+#: admin/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr "MySQL Versie:"
+
+#: admin/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr "De versie van MySQL geïnstalleerd op uw hosting server."
+
+#: admin/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr "Max Upload Grootte:"
+
+#: admin/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+"Het grootste bestandsformaat dat kan worden geüpload naar uw Wordpress "
+"installatie."
+
+#: admin/screens/system_status.php:251 admin/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr "Actieve Plugins"
+
+#: admin/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr "Bezoek de plugin homepagina"
+
+#: admin/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "door %s"
+
+#: admin/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"%s wordt geleverd met 6 maanden gratis ondersteuning voor elke licentie die "
+"u koopt. Ondersteuning kan uitgebreid worden via abonnementen via "
+"ThemeForest."
+
+#: admin/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "Maak Een Ondersteuningsaccount aan"
+
+#: admin/screens/support.php:30
+msgid "Ticket System"
+msgstr "Ticketsysteem"
+
+#: admin/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"We bieden uitstekende ondersteuning via ons geavanceerde ticket systeem. "
+"Registreer uw aankoop om toegang te krijgen tot onze ondersteunende diensten "
+"en andere middelen."
+
+#: admin/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "Ticket indienen"
+
+#: admin/screens/support.php:47
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: admin/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"Onze online documentatie is een nuttige bron voor het leren van alle "
+"aspecten en kenmerken van%s."
+
+#: admin/screens/support.php:53
+msgid "Learn more"
+msgstr "Lees verder"
+
+#: admin/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: admin/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"We raden u aan om naar te kijken naar de video tutorials voordat u het thema "
+"aanpast. Onze video tutorials kunnen u de verschillende aspecten van het "
+"gebruik van %s leren."
+
+#: admin/screens/support.php:73
+msgid "Watch Videos"
+msgstr "Bekijk video’s"
+
+#: admin/screens/support.php:84
+msgid "Community Forum"
+msgstr "Gemeenschap forum"
+
+#: admin/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Ons forum is de beste plek voor gebruiker tot gebruiker interactie. Vraag "
+"een andere %s gebruiker of deel uw ervaring met de gemeenschap om anderen te "
+"helpen."
+
+#: admin/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "Bezoek Ons Forum"
+
+#: inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr "— Standaard —"
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr "Ultra Light"
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr "Ultra licht cursief"
+
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr "Light"
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr "Light Italic"
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr "Book"
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr "Boek cursief"
+
+#: inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr "Regular"
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr "Regular Italic"
+
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr "Medium Italic"
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr "Semi-Bold"
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr "Semi-Bols Cursief"
+
+#: inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr "Vet"
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr "Vet Cursief"
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr "Extra Vet"
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr "Extra Vet Cursief"
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr "Ultra Vet"
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr "Ultra Vet Cursief"
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr "Kapitaliseren"
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr "Normaal"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "Productbeschrijving"
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dit product is momenteel niet op voorraad en niet beschikbaar."
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr "Leeg maken"
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Sorry, dit product is helaas niet beschikbaar. Kies a.u.b. een andere "
+"combinatie."
+
+#. Name of the theme
+msgid "Consulting"
+msgstr "Consulting"
+
+#. Description of the theme
+msgid ""
+"Consulting - Business and Finance WordPress theme. Using Consluting you can "
+"easily create a modern website with real content. Easily edit the real "
+"content and compose the page layout with drag &amp; drop page builder "
+"Consulting is the best ever finance, consulting, brokerage WordPress theme. "
+"It’s fully Responsive and Easy to Customize using intuitive Drag &amp; Drop "
+"Visual Composer and Theme Options panel in WordPress Customizer."
+msgstr ""
+"Consulting - Bedrijfs en Financiën Wordpress thema. Met Consulting kunt u "
+"gemakkelijk een moderne website maken met echte inhoud. De echte inhoud "
+"gemakkelijk bewerken en het componeren van de pagina-indeling met drag &amp; "
+"drop pagina bouwer. Consulting is de beste financiën, advies, makelaardij "
+"Wordpress thema. Het is volledig Responsive en gemakkelijk aan te passen met "
+"behulp van de intuïtieve Drag &amp; Drop Visuele Composer en het Thema "
+"Opties paneel in Wordpress Customizer."
+
+#. URI of the theme
+msgid "http://consulting.stylemixthemes.com/"
+msgstr "http://Consulting.stylemixthemes.com/"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Author URI of the theme
+msgid "http://stylemixthemes.com/"
+msgstr "http://stylemixthemes.com/"

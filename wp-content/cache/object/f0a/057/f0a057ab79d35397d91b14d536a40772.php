@@ -1,0 +1,31 @@
+�O_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1123;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-10-11 14:58:20";s:13:"post_date_gmt";s:19:"2019-10-11 14:58:20";s:12:"post_content";s:5458:"<img src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/services-2_01-1.png" alt="services-2_01-1" />
+                        <img src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/services-2_01-2.png" alt="services-2_01-2" />
+			popular faq                <h3>Quick and modern
+design solution                 </h3>        		
+                    <h4 id="wgl-accordion_header-1551" data-default="yes">
+                                                        1.Can you deliver me shirt if i local?
+                                            </h4>
+                    <p>It has survived not only five centuries. When an unknown printer took a galley of type and scrambled it to make a type specimen unknown printer scrambled it to make book.</p>
+                    <h4 id="wgl-accordion_header-1552" data-default="">
+                                                        2.How is my price determined?
+                                            </h4>
+                    <p>It has survived not only five centuries. When an unknown printer took a galley of type and scrambled it to make a type specimen unknown printer scrambled it to make book.</p>
+                    <h4 id="wgl-accordion_header-1553" data-default="">
+                                                        3.Can i get my order sooner?
+                                            </h4>
+                    <p>It has survived not only five centuries. When an unknown printer took a galley of type and scrambled it to make a type specimen unknown printer scrambled it to make book.</p>
+                            <figure><img width="81" height="14" src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/service-number-1.png" alt="" /></figure>                                
+                    <h3>Product 
+Engineering</h3>                    <a href="#" target="_self" rel="noopener noreferrer">product development</a><a href="#" target="_self" rel="noopener noreferrer">Product consultation</a><a href="#" target="_self" rel="noopener noreferrer">architecture design</a>                    
+                            <figure><img width="81" height="14" src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/service-number-2.png" alt="" /></figure>                                
+                    <h3>UI/UX Strategy</h3>                    <a href="#" target="_self" rel="noopener noreferrer">Brand development</a><a href="#" target="_self" rel="noopener noreferrer">Technology prototyping</a><a href="#" target="_self" rel="noopener noreferrer">Brand integration</a>                    
+                            <figure><img width="81" height="14" src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/service-number-3.png" alt="" /></figure>                                
+                    <h3>Big Data 
+&amp; Analytics</h3>                    <a href="#" target="_self" rel="noopener noreferrer">ETL/data management</a><a href="#" target="_self" rel="noopener noreferrer">analytical development</a><a href="#" target="_self" rel="noopener noreferrer">Stream processing</a>                    
+			out features                <h3>GREAT SERVICE &
+PROFESSIONAL SUPPORT                 </h3>        		
+                                <img src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/services-2_02-1.jpg" alt="services-2_02-1" />                                                <h3>MIND WORKING</h3>                                        <a href="http://localhost/xcaliburdigital/2019/10/03/big-data-tools-frameworks/" target="_self" rel="noopener noreferrer"></a>            
+                                <img src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/services-2_02-2.jpg" alt="services-2_02-2" />                                                <h3>personal settings</h3>                                        <a href="http://localhost/xcaliburdigital/2019/10/03/branding-into-your-events/" target="_self" rel="noopener noreferrer"></a>            
+                                <img src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/services-2_02-3.jpg" alt="services-2_02-3" />                                                <h3>SKETCHING</h3>                                        <a href="http://localhost/xcaliburdigital/2019/10/03/cross-industry-expertise/" target="_self" rel="noopener noreferrer"></a>            
+			<p>“ There are no secrets to success. It is the result of preparation, hard work, and learning failure ”</p><h3>Tina Retina, Smashingmagazine</h3><p>“ There are no secrets to success. It is the result of preparation, hard work, and learning failure ”</p><h3>Tina Retina, Smashingmagazine</h3>		
+										<img width="370" height="370" src="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2.png" alt="" srcset="http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2.png 370w, http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2-150x150.png 150w, http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2-300x300.png 300w, http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2-180x180.png 180w, http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2-120x120.png 120w, http://localhost/xcaliburdigital/wp-content/uploads/2019/10/section-bg_2-240x240.png 240w" sizes="(max-width: 370px) 100vw, 370px" />";s:10:"post_title";s:10:"Services 2";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:12:"services-2-2";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-10-11 14:58:20";s:17:"post_modified_gmt";s:19:"2019-10-11 14:58:20";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:41:"http://inpulse.wgl-demo.net/?page_id=1123";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

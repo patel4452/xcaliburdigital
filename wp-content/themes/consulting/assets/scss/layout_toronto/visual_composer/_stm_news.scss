@@ -1,0 +1,196 @@
+.stm_news{
+  position: relative;
+  .news_list{
+    list-style: none;
+    padding: 0;
+    margin: 0 -15px;
+    font-size: 0;
+    &.posts_per_row_3{
+      li{
+        width: 33.333%;
+      }
+    }
+    &.posts_per_row_2{
+      li{
+        width: 50%;
+      }
+    }
+    &.posts_per_row_1{
+      li{
+        width: 100%;
+      }
+    }
+    li{
+      display: inline-block;
+      vertical-align: top;
+      width: 25%;
+      padding: 0 15px;
+      margin-bottom: 50px;
+      font-size: 13px;
+      .image{
+        position: relative;
+        border-radius: 7px 7px 0 0;
+        img{
+          display: block;
+          border-radius: 7px 7px 0 0;
+          transition: all 0.4s;
+          max-width: 100%;
+          height: auto;
+        }
+        a{
+          position: relative;
+          display: block;
+          z-index: 2;
+          &:before{
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 7px 7px 0 0;
+            background: rgba(#000, .9);
+            @include transition();
+            opacity: 0;
+          }
+          &:after{
+            content: "\e920";
+            @include theme_icons();
+            @include transition();
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -15px 0 0 -15px;
+            color: #fff;
+            font-size: 30px;
+            opacity: 0;
+          }
+          &:hover{
+            &:before, &:after{
+              opacity: 1;
+            }
+            img {
+              opacity: 0.4;
+            }
+          }
+        }
+      }
+      .stm_news_unit-block {
+        background-color: #fff;
+        @include transition();
+        position: relative;
+        padding: 30px 30px 30px;
+        border: 1px solid #e5e7f2;
+        border-top: 0;
+        &:before {
+          display: none;
+        }
+      }
+      h5{
+        margin-bottom: 14px;
+        line-height: 30px;
+        padding-top: 0;
+        font-weight: 700;
+        font-size: 24px;
+        a{
+          transition: all 0.3s;
+          color: #222;
+          &:hover{
+            color: $stm_secondary_color;
+            text-decoration: none;
+          }
+        }
+      }
+      .stm_the_excerpt {
+        display: block;
+        position: relative;
+        overflow: hidden;
+        max-height: 86px;
+        margin-bottom: 10px;
+        transition: all 0.3s;
+        line-height: 18px;
+        font-size: 13px;
+        p {
+          line-height: 22px;
+        }
+      }
+      .date {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+        font-size: 14px;
+        .the_date {
+          &:before {
+            content: "\f017";
+            margin-right: 8px;
+            font-family: FontAwesome;
+            font-size: 18px;
+            color: $stm_secondary_color;
+          }
+        }
+        @media (max-width: 420px) {
+          display: block;
+          .the_date {
+            display: block;
+            margin-bottom: 25px;
+          }
+        }
+      }
+      .button {
+        display: inline-block !important;
+        margin-right: 0;
+        margin-left: auto;
+        border-radius: 4px;
+        border-width: 1px;
+        border-color: $stm_secondary_color;
+        background-color: transparent;
+        text-transform: uppercase;
+        color: $stm_secondary_color;
+        font-size: 12px;
+        cursor: pointer;
+        &:hover {
+          background-color: $stm_secondary_color;
+          color: #fff;
+        }
+        @media (max-width: 1199px) and (min-width: 992px) {
+          padding: 10px 15px;
+        }
+      }
+      .stm_link_bordered {
+        transition: all 0.3s;
+        font-size: 14px;
+        color: $stm_secondary_color;
+        span {
+          position: relative;
+          &:after {
+            content: "\e981";
+            @include theme_icons();
+            position: absolute;
+            top: 6px;
+            right: -20px;
+            font-size: 9px;
+          }
+        }
+        &:hover {
+          text-decoration: none;
+          color: $stm_third_color;
+        }
+      }
+      @media only screen and (max-width: 992px) {
+        width: 50%;
+      }
+      &:hover {
+        .image{
+          a{
+            &:before, &:after{
+              opacity: 1;
+            }
+            img {
+              opacity: 0.4;
+            }
+          }
+        }
+      }
+    }
+  }
+}

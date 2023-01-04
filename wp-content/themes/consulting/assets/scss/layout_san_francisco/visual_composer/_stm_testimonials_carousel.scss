@@ -1,0 +1,376 @@
+.testimonials_carousel{
+  position: relative;
+  margin: 0 -20px;
+  &.disable_carousel{
+    font-size: 0;
+    .testimonial{
+      padding: 0 20px;
+      margin: 0 0 90px;
+      display: inline-block;
+      vertical-align: top;
+      font-size: 14px;
+    }
+    &.per_row_2{
+      .testimonial{
+        width: 50%;
+      }
+    }
+    &.per_row_3{
+      .testimonial{
+        width: 33%;
+        .image{
+          float: none;
+          max-width: inherit;
+          margin: 0 0 20px;
+        }
+      }
+    }
+  }
+  .testimonial{
+    position: relative;
+    padding: 0 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    &:after {
+      content: "\e939";
+      position: absolute;
+      bottom: -46px;
+      left: 0;
+      right: 0;
+      @include theme_icons;
+      color: $stm_secondary_color;
+      font-size: 27px;
+    }
+    .image{
+      margin-bottom: 18px;
+      img {
+        margin: 0 auto;
+        border-radius: 50%;
+      }
+      a{
+        position: relative;
+        display: block;
+        &:before{
+          content: '';
+          position: absolute;
+          left: 0;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          background: rgba(#000, .6);
+          @include transition();
+          opacity: 0;
+        }
+        &:after{
+          content: "\e920";
+          @include theme_icons();
+          @include transition();
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          margin: -12px 0 0 -15px;
+          color: #fff;
+          font-size: 30px;
+          opacity: 0;
+        }
+        &:hover{
+          &:before, &:after{
+            opacity: 1;
+          }
+        }
+      }
+      img{
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
+    }
+    .info{
+      overflow: hidden;
+      h4{
+        color: $stm_base_color;
+        margin-bottom: 7px;
+        line-height: 22px;
+        text-transform: none;
+        font-weight: 700;
+        font-size: 18px;
+        padding-top: 0;
+        letter-spacing: -.01em;
+        a{
+          color: $stm_base_color;
+          @include transition();
+          &:hover{
+            color: #222;
+            text-decoration: none;
+          }
+        }
+      }
+      .position, .company{
+        display: inline-block;
+        line-height: 20px;
+        font-family: inherit !important;
+        color: $stm_secondary_color;
+        font-size: 13px;
+        text-transform: none;
+        margin-bottom: 9px;
+      }
+      p{
+        color: #888888;
+        line-height: 20px;
+        margin: 0;
+      }
+    }
+  }
+}
+
+.testimonials_carousel {
+  &.style_2 {
+    margin: 0 -15px;
+    .item {
+      position: relative;
+      padding: 0 15px;
+
+      .testimonial{
+        background: #f5f5f5;
+        position: relative;
+        text-align: left;
+        padding: 28px 28px 27px;
+        margin: 0 0 21px;
+        &:before{
+          display: none;
+          content: "\e90b";
+          @include theme_icons();
+          font-size: 48px;
+          color: $stm_third_color;
+          position: absolute;
+          right: 0;
+          bottom: 0;
+          width: 60px;
+          height: 40px;
+          overflow: hidden;
+        }
+        &:after{
+          content: '';
+          position: absolute;
+          left: 65px;
+          bottom: -30px;
+          width: 30px;
+          height: 33px;
+          background: url("../../images/testimonials_before.png") no-repeat 0 0;
+          background-size: 15px 18px;
+        }
+        p{
+          margin: 0;
+          font: {
+            size: 14px;
+          }
+          line-height: 26px;
+          color: #222;
+        }
+
+        &:before{
+          bottom: 0;
+          right: 1px;
+        }
+
+        &:after{
+          background-image: url("../../images/testimonials_before_2.png");
+        }
+      }
+
+      .testimonial-info{
+        position: relative;
+        @include cleaner();
+        .testimonial-image{
+          max-width: 50px;
+          display: table-cell;
+          vertical-align: middle;
+          img{
+            max-width: 100%;
+            height: auto;
+            overflow: hidden;
+            @include border-radius(100%);
+          }
+        }
+        .testimonial-text{
+          display: table-cell;
+          vertical-align: middle;
+          padding: 0 0 0 15px;
+          .name{
+            color: #222;
+            line-height: 20px;
+            font: {
+              font-family: "Muli", sans-serif;
+              size: 14px;
+              weight: 700;
+            }
+          }
+          .company{
+            font-size: 14px;
+            color: #808080;
+            line-height: 20px;
+            font-style: normal;
+          }
+        }
+      }
+    }
+  }
+}
+
+.testimonials_carousel {
+  &.style_3 {
+    .testimonial {
+      text-align: left;
+      margin-bottom: 24px;
+      .testimonial_inner {
+        display: flex;
+        flex-direction: row;
+        @include cleaner;
+
+        .image {
+          margin: 0 30px 20px 0;
+          flex: 40%;
+          img {
+            border-radius: 0;
+          }
+        }
+
+        .info {
+          flex: 60%;
+          overflow: inherit;
+          margin-top: -6px;
+          .stm_testimonials_content_unit {
+            position: relative;
+          }
+        }
+
+        p {
+          margin-bottom: 24px;
+          line-height: 24px;
+          font-size: 16px;
+          color: rgba($stm_base_color, 0.6);
+        }
+
+        h6 {
+          padding-top: 0;
+          margin-bottom: 6px;
+          letter-spacing: 0;
+          font-weight: 700;
+          font-size: 24px;
+          color: $stm_base_color;
+
+          a {
+            color: $stm_base_color;
+            @include transition(color);
+
+            &:hover,
+            &:focus {
+              text-decoration: none;
+            }
+
+            &:hover {
+              color: #243238;
+            }
+          }
+        }
+
+        .position {
+          font-size: 16px;
+          font-style: italic;
+          font-weight: 400;
+          color: $stm_base_color;
+        }
+
+        @media (max-width: 480px) {
+          display: block;
+        }
+      }
+      &:after {
+        display: none;
+      }
+    }
+    .slick_prev, .slick_next {
+      position: relative;
+      float: right;
+      left: auto !important;
+      right: auto;
+      width: 50px;
+      height: 50px;
+      line-height: 46px;
+      margin-top: 0 !important;
+      border: 1px solid $stm_secondary_color !important;
+      display: inline-block;
+      vertical-align: top;
+      background-color: transparent;
+      border-radius: 4px;
+      font-size: 21px;
+      color: $stm_secondary_color;
+      &:hover {
+        background-color: $stm_secondary_color;
+        color: $stm_base_color;
+      }
+
+      @media (max-width: 991px) {
+        margin-right: 20px;
+      }
+    }
+    .slick_prev {
+      right: 66px;
+      i {
+        &:before {
+          content: "\f104";
+          font-family: 'FontAwesome';
+        }
+      }
+      @media (max-width: 991px) {
+        right: 90px;
+      }
+    }
+    .slick_next {
+      margin-left: 0;
+      right: -44px !important;
+      i {
+        &:before {
+          content: "\f105";
+          font-family: 'FontAwesome';
+        }
+      }
+    }
+
+    @media (max-width: 480px) {
+      padding: 0 0 90px !important;
+      .slick_prev {
+        float: none !important;
+        right: auto !important;
+        left: 50% !important;
+        margin: 0 0 0 -55px !important;
+      }
+      .slick_next {
+        float: none !important;
+        right: auto !important;
+        left: 50% !important;
+        margin: 0 0 0 15px !important;
+      }
+    }
+  }
+}
+
+.testimonials_box_white {
+  .testimonials_carousel {
+    &.style_3 {
+      .testimonial {
+        .testimonial_inner {
+          p {
+            color: rgba(255,255,255, 0.6);
+          }
+          h6 {
+            color: #ffffff;
+          }
+          .position {
+            color: #ffffff;
+          }
+        }
+      }
+    }
+  }
+}

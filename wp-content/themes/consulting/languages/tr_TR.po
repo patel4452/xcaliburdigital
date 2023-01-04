@@ -1,0 +1,2662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-07 10:38+0000\n"
+"PO-Revision-Date: 2017-12-06 13:40+0500\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "Aradığınız sayfaya ulaşılamıyor."
+
+#: 404.php:15
+msgid "homepage"
+msgstr "ana sayfa"
+
+#: functions.php:55
+msgid "Top Menu"
+msgstr "Ana Menü"
+
+#: functions.php:56
+msgid "Sidebar Menu 1"
+msgstr "Menü 1"
+
+#: functions.php:57
+msgid "Sidebar Menu 2"
+msgstr "Menü 2"
+
+#: functions.php:58
+msgid "Sidebar Menu 3"
+msgstr "Menü 3"
+
+#: functions.php:70
+msgid "Right Sidebar"
+msgstr "Sağ Kenar Çubuğu"
+
+#: functions.php:79
+msgid "Left Sidebar"
+msgstr "Sol Kenar Çubuğu"
+
+#: functions.php:89
+msgid "Shop Sidebar"
+msgstr "Kenar Çubuğu"
+
+#: functions.php:101
+msgid "Footer "
+msgstr "Alt bilgi "
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr "Yorum navigasyonu"
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr "Eski Yorumlar"
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr "Yeni Yorumlar"
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Yorumlar kapatılmıştır."
+
+#: footer.php:21 inc/customizer/registration.php:941
+#: inc/customizer/registration.php:942
+msgid ""
+"Copyright &copy; 2012-2016 Consulting Theme by <a href='http://"
+"stylemixthemes.com/' target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+"Telif hakları; 2012-2016 Consulting Teması <a href='http://stylemixthemes."
+"com/' target='_blank'>Stylemix Themes</a>. Tüm hakları saklıdır"
+
+#: footer.php:73
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+
+#: header.php:60 header.php:123 inc/customizer/registration.php:286
+msgid "1010 Avenue of the Moon New York, NY 10018 US."
+msgstr "1010 Avenue of the Moon New York, NY 10018 US."
+
+#: header.php:64 header.php:127 inc/customizer/registration.php:312
+msgid "Call free: <strong>212 386 5575</strong>"
+msgstr "Ücretsiz arayın: <strong>212 386 5575</strong>"
+
+#: header.php:165 inc/customizer/registration.php:239
+msgid "Mon - Sat 8.00 - 18.00. Sunday CLOSED"
+msgstr "Pzt - Cmt 8.00 -18.00. Pazar KAPALI"
+
+#: header.php:286 inc/customizer/registration.php:511
+msgid ""
+"1010 Avenue of the Moon\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+"1010 Avenue of the Moon\n"
+"<span>New York, NY 10018 US.</span>"
+
+#: header.php:294 inc/customizer/registration.php:524
+msgid "Write us <a href=\"mailto:info@consulting.com\">info@consulting.com"
+msgstr ""
+"Bize buradan ulaşın <a href=\"mailto:info@consulting.com\">info@consulting."
+"com"
+
+#: header.php:302
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-"
+"back>Request call back</span>>Request call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back>Geri "
+"arama talep edin</span>>Geri arama talep edin</span>"
+
+#: header.php:309 header.php:346 header.php:424 header.php:678
+#: inc/customizer/registration.php:446
+msgid ""
+"<strong>212 714 0177</strong>\n"
+"<span>Free call</span>"
+msgstr ""
+"<strong>212 714 0177</strong>\n"
+"<span>Ücretsiz aramal</span>"
+
+#: header.php:315 header.php:679 inc/customizer/registration.php:433
+#: partials/headers/l14-hs5.php:135
+msgid ""
+"<strong>Mon - Sat 8.00 - 18.00</strong>\n"
+"<span>Sunday CLOSED</span>"
+msgstr ""
+"<strong>Pzt - Cmt 8.00 - 18.00</strong>\n"
+"<span>Pazar KAPALI</span>"
+
+#: header.php:323
+msgid ""
+"<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 US.</"
+"span>"
+msgstr ""
+"<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 US.</"
+"span>"
+
+#: header.php:358 searchform.php:2
+msgid "Search..."
+msgstr "Arama..."
+
+#: header.php:584 header.php:640 inc/customizer/registration.php:461
+#: inc/customizer/registration.php:462 inc/customizer/registration.php:554
+#: inc/customizer/registration.php:555
+msgid ""
+"Theme by <a href='http://stylemixthemes.com/' target='_blank'>Stylemix "
+"Themes</a> <br>2016 &copy; All rights reserved."
+msgstr ""
+"Tema <a href='http://stylemixthemes.com/' target='_blank'>Stylemix Themes</"
+"a> <br>2016 &telif; Tüm hakları saklıdır."
+
+#: header.php:680 inc/customizer/registration.php:420
+#: partials/headers/l14-hs5.php:152
+msgid ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 US.</span>"
+
+#: inc/extras.php:85
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s  %2$s 'da"
+
+#: inc/extras.php:89
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "5 üzerinden %d oylandı"
+
+#: inc/extras.php:91
+msgid "out of 5"
+msgstr "5 üzerinden"
+
+#: inc/extras.php:95
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=\"fa fa-reply\"></i> Yanıtla"
+
+#: inc/extras.php:100
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/extras.php:107
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumuzun modaretörü bekliyor."
+
+#: inc/extras.php:130 inc/post_types-config.php:400
+msgid "Name"
+msgstr "İsim"
+
+#: inc/extras.php:135
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/extras.php:140 vc_templates/stm_portfolio_information.php:43
+msgid "Website"
+msgstr "Web Sitesi"
+
+#: inc/extras.php:154
+msgctxt "noun"
+msgid "Message"
+msgstr "Mesaj"
+
+#: inc/extras.php:157
+msgid "post a comment"
+msgstr "bir yorum yaz"
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:369
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: inc/extras.php:374
+msgid "Page not found"
+msgstr "Sayfa bulunamadı"
+
+#: inc/extras.php:390 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: inc/extras.php:1103
+msgid "New request for event - "
+msgstr "Yeni talep - "
+
+#: inc/extras.php:1117
+msgid "Your request was sent"
+msgstr "Talebiniz gönderildi"
+
+#: inc/extras.php:1121
+msgid "Please fill all fields"
+msgstr "Lütfen tüm alanları doldurun"
+
+#: inc/extras.php:1129
+msgid "Please prove you're not a robot"
+msgstr "Lütfen robot olmadığınızı kanıtlayın"
+
+#: inc/extras.php:1136
+msgid "New Event Member"
+msgstr "Yeni Kullanıcı"
+
+#: inc/extras.php:1137
+msgid "Name: "
+msgstr "İsim: "
+
+#: inc/extras.php:1138 vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr "Email: "
+
+#: inc/extras.php:1139
+msgid "Phone: "
+msgstr "Telefon: "
+
+#: inc/extras.php:1140
+msgid "Company: "
+msgstr "Şirket "
+
+#: inc/extras.php:1232 inc/extras.php:1250
+msgid "Please, check yor email"
+msgstr "Lütfen emailinizi kontrol edin"
+
+#: inc/extras.php:1235
+msgid "Registration completed successfully"
+msgstr "Kaydınız başarıyla oluşturuldu"
+
+#: inc/extras.php:1236
+msgid "Your login: "
+msgstr "Kullanıcı adı: "
+
+#: inc/extras.php:1236
+msgid "Your password: "
+msgstr "Şifre: "
+
+#: inc/extras.php:1236
+msgid "Website: "
+msgstr "Web Sitesi: "
+
+#: inc/extras.php:1242 inc/extras.php:1253
+msgid "Your download is available"
+msgstr "Yüklemeniz hazır"
+
+#: inc/extras.php:1243 inc/extras.php:1254
+msgid "Download link: "
+msgstr "Yükleme linki: "
+
+#: inc/post_types-config.php:5
+msgid "Event"
+msgstr "Etkinlik"
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:723
+#: inc/customizer/registration.php:729 inc/customizer/registration.php:734
+msgid "Events"
+msgstr "Etkinlikler"
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:739
+msgid "All Events"
+msgstr "Bütün Etkinlikler"
+
+#: inc/post_types-config.php:13
+msgid "Member"
+msgstr "Üye"
+
+#: inc/post_types-config.php:20 inc/customizer/registration.php:569
+msgid "Service"
+msgstr "Servis"
+
+#: inc/post_types-config.php:21 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:563 inc/customizer/registration.php:574
+msgid "Services"
+msgstr "Servisler"
+
+#: inc/post_types-config.php:22 inc/customizer/registration.php:579
+msgid "All Services"
+msgstr "Bütün Servisler"
+
+#: inc/post_types-config.php:28 inc/customizer/registration.php:601
+msgid "Vacancy"
+msgstr "Boşluk"
+
+#: inc/post_types-config.php:29 inc/customizer/registration.php:595
+#: inc/customizer/registration.php:606
+msgid "Vacancies"
+msgstr "Boşluklar"
+
+#: inc/post_types-config.php:30 inc/customizer/registration.php:611
+msgid "All Vacancies"
+msgstr "Bütün Boşluklar"
+
+#: inc/post_types-config.php:36 inc/post_types-config.php:37
+#: inc/customizer/registration.php:627 inc/customizer/registration.php:633
+#: inc/customizer/registration.php:638
+msgid "Staff"
+msgstr "Personel"
+
+#: inc/post_types-config.php:38 inc/customizer/registration.php:643
+msgid "All Staff"
+msgstr "Bütün Personel"
+
+#: inc/post_types-config.php:44 inc/customizer/registration.php:665
+msgid "Work"
+msgstr "İş"
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:659
+#: inc/customizer/registration.php:670
+msgid "Works"
+msgstr "İşler"
+
+#: inc/post_types-config.php:46 inc/customizer/registration.php:675
+msgid "All Works"
+msgstr "Bütün İşler"
+
+#: inc/post_types-config.php:52 inc/customizer/registration.php:697
+msgid "Testimonial"
+msgstr "Yorum"
+
+#: inc/post_types-config.php:53 inc/customizer/registration.php:691
+#: inc/customizer/registration.php:702
+msgid "Testimonials"
+msgstr "Yorumlar"
+
+#: inc/post_types-config.php:54 inc/customizer/registration.php:707
+msgid "All Testimonials"
+msgstr "Bütün Yorumlar"
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:1286
+#: inc/customizer/registration.php:1331 inc/customizer/registration.php:1372
+msgid "VC Sidebar"
+msgstr "VC Kenar Çubuğu"
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:1270
+#: inc/customizer/registration.php:1315 inc/customizer/registration.php:1356
+msgid "VC Sidebars"
+msgstr "VC Kenar Çubukları"
+
+#: inc/post_types-config.php:64
+msgid "All Sidebars"
+msgstr "Bütün Kenar Çubukları"
+
+#: inc/post_types-config.php:72 inc/post_types-config.php:73
+#: inc/customizer/registration.php:755 inc/customizer/registration.php:761
+#: inc/customizer/registration.php:766
+msgid "Portfolio"
+msgstr "Portfolyo"
+
+#: inc/post_types-config.php:74 inc/customizer/registration.php:771
+msgid "All Portfolio"
+msgstr "Bütün Portfolyolar"
+
+#: inc/post_types-config.php:111 inc/post_types-config.php:112
+#: inc/post_types-config.php:113 inc/post_types-config.php:114
+#: inc/post_types-config.php:115 inc/post_types-config.php:116
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: inc/post_types-config.php:138 inc/customizer/registration.php:787
+msgid "Page Setup"
+msgstr "Sayfa Kurulum"
+
+#: inc/post_types-config.php:141
+msgid "Header Options"
+msgstr "Başlık Opsiyonları"
+
+#: inc/post_types-config.php:145 inc/customizer/registration.php:791
+msgid "Style - Inverse"
+msgstr "Stil- Tersi"
+
+#: inc/post_types-config.php:150
+msgid "Title Box Options"
+msgstr "Başlık Kutusu Opsiyonları"
+
+#: inc/post_types-config.php:154 inc/customizer/registration.php:799
+msgid "Disable Title Box"
+msgstr "Başlık Kutusunu Devre Dışı Bırak"
+
+#: inc/post_types-config.php:159 inc/customizer/registration.php:804
+msgid "Enable Transparent"
+msgstr "Transparanlığı Aktive Et"
+
+#: inc/post_types-config.php:164 inc/customizer/registration.php:809
+msgid "Title Color"
+msgstr "Başlık Rengi"
+
+#: inc/post_types-config.php:169 inc/customizer/registration.php:813
+msgid "Title Line Color"
+msgstr "Başlık Çizgi Rengi"
+
+#: inc/post_types-config.php:174
+msgid "Title Background Color"
+msgstr "Başlık Arkaplan Rengi"
+
+#: inc/post_types-config.php:179 inc/post_types-config.php:250
+#: partials/frontend_customizer.php:260 inc/customizer/registration.php:180
+#: inc/customizer/registration.php:817
+msgid "Background Image"
+msgstr "Arkaplan Görseli"
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:821
+msgid "Background Position"
+msgstr "Arkaplan Pozisyonu"
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:825
+msgid "Background Size"
+msgstr "Arkaplan Büyüklüğü"
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:829
+msgid "Background Repeat"
+msgstr "Arkaplan Tekrarla"
+
+#: inc/post_types-config.php:197 inc/customizer/registration.php:833
+msgid "Repeat"
+msgstr "Tekrarla"
+
+#: inc/post_types-config.php:198 inc/customizer/registration.php:834
+msgid "No Repeat"
+msgstr "Tekrarlama"
+
+#: inc/post_types-config.php:199 inc/customizer/registration.php:835
+msgid "Repeat-X"
+msgstr "Tekrarla-X"
+
+#: inc/post_types-config.php:200 inc/customizer/registration.php:836
+msgid "Repeat-Y"
+msgstr "Tekrarla-Y"
+
+#: inc/post_types-config.php:205 inc/customizer/registration.php:840
+msgid "Disable Title"
+msgstr "Başlığı Devre Dışı Bırak"
+
+#: inc/post_types-config.php:210 inc/customizer/registration.php:845
+msgid "Disable Breadcrumbs"
+msgstr "İçerik Haritasını Devre Dışı Bırak"
+
+#: inc/post_types-config.php:215 inc/customizer/registration.php:850
+msgid "Enable Header Transparent"
+msgstr "Transparan Başlığı Aktive Et"
+
+#: inc/post_types-config.php:220
+msgid "Content Options"
+msgstr "İçerik Opsiyonları"
+
+#: inc/post_types-config.php:224
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr "Arkaplan- Transparan ( Sadece Boxed modunda çalışır)"
+
+#: inc/post_types-config.php:229
+msgid "Footer Options"
+msgstr "Alt Bilgi Opsiyonları"
+
+#: inc/post_types-config.php:233 inc/customizer/registration.php:860
+msgid "Border Top - Hide"
+msgstr "Sınır Üstü-Gizle"
+
+#: inc/post_types-config.php:242
+msgid "Position"
+msgstr "Pozisyon"
+
+#: inc/post_types-config.php:246 inc/post_types-config.php:412
+msgid "Company"
+msgstr "Şirket"
+
+#: inc/post_types-config.php:257
+msgid "Video url"
+msgstr "Video URL'si"
+
+#: inc/post_types-config.php:262 inc/post_types-config.php:266
+#: inc/post_types-config.php:291 inc/post_types-config.php:347
+#: inc/post_types-config.php:436 inc/customizer/registration.php:499
+#: inc/customizer/registration.php:505
+msgid "Information"
+msgstr "Bilgi"
+
+#: inc/post_types-config.php:269 inc/post_types-config.php:294
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr "Departman"
+
+#: inc/post_types-config.php:273 vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr "Lokasyon"
+
+#: inc/post_types-config.php:277
+msgid "Education"
+msgstr "Eğitim"
+
+#: inc/post_types-config.php:281
+msgid "Compensation"
+msgstr "Yan Haklar"
+
+#: inc/post_types-config.php:285
+msgid "Contact Us Link"
+msgstr "Bize Ulaşın Linki"
+
+#: inc/post_types-config.php:298 inc/customizer/registration.php:284
+#: inc/customizer/registration.php:331 inc/customizer/registration.php:418
+#: inc/customizer/registration.php:509
+msgid "Address"
+msgstr "Adres"
+
+#: inc/post_types-config.php:302 inc/post_types-config.php:408
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/post_types-config.php:306 inc/customizer/registration.php:32
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/post_types-config.php:310 inc/post_types-config.php:404
+#: inc/customizer/registration.php:297
+msgid "Email"
+msgstr "Email"
+
+#: inc/post_types-config.php:314 inc/customizer/registration.php:15
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/post_types-config.php:318 inc/customizer/registration.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/post_types-config.php:322 inc/customizer/registration.php:18
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/post_types-config.php:326 inc/customizer/registration.php:20
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/post_types-config.php:338
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/post_types-config.php:350
+msgid "Speaker"
+msgstr "Hoparlör"
+
+#: inc/post_types-config.php:355
+msgid "Max Participants:"
+msgstr "Maksimum Katılımcı:"
+
+#: inc/post_types-config.php:359
+msgid "Date - Start:"
+msgstr "Tarih-Başlangıç:"
+
+#: inc/post_types-config.php:363
+msgid "Date - End:"
+msgstr "Tarih-Bitiş:"
+
+#: inc/post_types-config.php:367
+msgid "Time - Text:"
+msgstr "Zaman-Text:"
+
+#: inc/post_types-config.php:371
+msgid "Time - Start:"
+msgstr "Zaman-Başlangıç:"
+
+#: inc/post_types-config.php:375
+msgid "Time - End:"
+msgstr "Zaman-Bitiş:"
+
+#: inc/post_types-config.php:379
+msgid "Venue:"
+msgstr "Mekan:"
+
+#: inc/post_types-config.php:383
+msgid "Latitude:"
+msgstr "Enlem:"
+
+#: inc/post_types-config.php:387
+msgid "Longitude:"
+msgstr "Boylam:"
+
+#: inc/post_types-config.php:391
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: inc/post_types-config.php:397
+msgid "Contact Info"
+msgstr "Kontakt Bilgileri"
+
+#: inc/post_types-config.php:416
+msgid "Member ID"
+msgstr "Kullanıcı ID"
+
+#: inc/post_types-config.php:422
+msgid "Portfolio image size"
+msgstr "Portfolyo Görsel Boyutu"
+
+#: inc/post_types-config.php:425
+msgid "Size"
+msgstr "Boyut"
+
+#: inc/post_types-config.php:428 inc/customizer/registration.php:130
+#: inc/customizer/registration.php:138
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/post_types-config.php:429 partials/frontend_customizer.php:253
+msgid "Wide"
+msgstr "Genişlik"
+
+#: inc/post_types-config.php:430
+msgid "High"
+msgstr "Yükseklik"
+
+#: inc/post_types-config.php:439
+msgid "Label"
+msgstr "Etiket"
+
+#: inc/post_types-config.php:443
+msgid "Cost"
+msgstr "Maliyet"
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr "tarafından"
+
+#: partials/content-post_bottom.php:10 partials/content-vacancy_bottom.php:13
+msgid "Share"
+msgstr "Paylaş"
+
+#: partials/content-event-form.php:12
+msgid "SHARE"
+msgstr "PAYLAŞ"
+
+#: partials/content-event-form.php:74
+msgid "Europe/London"
+msgstr "Avrupa/ Londra"
+
+#: partials/content-event-form.php:77
+msgid "Not indicated"
+msgstr "Belirtilmemiş"
+
+#: partials/content-event-form.php:79
+msgid "save event to calendar"
+msgstr "etkinliği takvime kaydet"
+
+#: partials/content-event-form.php:90 partials/content-event-classic.php:93
+msgid "past event"
+msgstr "geçmiş etkinlik"
+
+#: partials/content-event-form.php:96 partials/content-event-classic.php:99
+msgid "i am going"
+msgstr "gidiyorum"
+
+#: partials/content-event-form.php:102 partials/content-event-classic.php:105
+msgid "fully booked"
+msgstr "tümü rezerve"
+
+#: partials/content-event-form.php:118 partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:78
+msgid "register"
+msgstr "kayıt yap"
+
+#: partials/content-event-form.php:121 partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "*Tüm alanlar zorunludur"
+
+#: partials/content-event-form.php:129
+#: woocommerce/single-product-reviews.php:73
+msgid "Name *"
+msgstr "İsim*"
+
+#: partials/content-event-form.php:134
+msgid "Email *"
+msgstr "Email*"
+
+#: partials/content-event-form.php:141
+msgid "Phone *"
+msgstr "Telefon*"
+
+#: partials/content-event-form.php:146
+msgid "Company Name *"
+msgstr "Şirket Adı*"
+
+#: partials/content-event-form.php:157 partials/content-event-form.php:186
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82
+msgid ""
+"I agree with all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+"Ek olarak belirtilen <a href='http://stylemixthemes.com/' "
+"target='_blank'>Kapsam ve Kullanım Koşullarını</a> kabul ediyorum"
+
+#: partials/content-event-form.php:174 partials/content-event-list-form.php:70
+msgid "join"
+msgstr "katıl"
+
+#: partials/content-event-form.php:180 partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr "Bu etkinliğe daha önce katıldınız."
+
+#: partials/content-event-info.php:70 partials/content-event-widgets.php:29
+#: partials/content-event-classic.php:43 partials/content-event-grid.php:47
+msgid "to"
+msgstr "ona"
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr "şimdi katıl"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"İlk postu yayınlamaya hazır mısınız <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz ama arama kriterlerinize uygun sonuç bulamadık. Lütfen farklı "
+"kelimelerle tekrar deneyin."
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Görünüşe göre can&rsquo;t işlemini yaptığımızda, &rsquo;re aramanızı "
+"bulamadık. Belki aramak yardımcı olabilir."
+
+#: partials/frontend_customizer.php:185
+msgid "Demos"
+msgstr "Demolar"
+
+#: partials/frontend_customizer.php:188
+msgid "New York"
+msgstr "New York"
+
+#: partials/frontend_customizer.php:212
+msgid "Color Skin"
+msgstr "Ten Rengi"
+
+#: partials/frontend_customizer.php:222 inc/customizer/registration.php:380
+msgid "Header Style"
+msgstr "Başlık Stili"
+
+#: partials/frontend_customizer.php:225 inc/customizer/registration.php:232
+#: inc/customizer/registration.php:385 inc/customizer/registration.php:885
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: partials/frontend_customizer.php:239
+msgid "Nav Mode"
+msgstr "Navigasyon Modu"
+
+#: partials/frontend_customizer.php:242
+msgid "Static"
+msgstr "Statik"
+
+#: partials/frontend_customizer.php:244
+msgid "Sticky"
+msgstr "Not"
+
+#: partials/frontend_customizer.php:250 inc/customizer/registration.php:959
+#: inc/customizer/registration.php:1255
+msgid "Layout"
+msgstr "Sayfa Düzeni"
+
+#: partials/frontend_customizer.php:255
+msgid "Boxed"
+msgstr "Kutulu"
+
+#: partials/content-loop_list.php:11 partials/content-post_details.php:8
+msgid "Posted by:"
+msgstr "Yayınlayan:"
+
+#: partials/content-loop_list.php:12 partials/content-post_details.php:11
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "Kategori:"
+
+#: partials/content-loop_list.php:30 partials/content-event-classic.php:81
+#: vc_templates/stm_services.php:50
+msgid "read more"
+msgstr "daha fazla oku"
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "iletişim bilgileri"
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "Sosyal profiller"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "şimdi başvur"
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "Yazar:"
+
+#: partials/content.php:90 partials/content-page.php:20
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr "Sayfa"
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "News"
+msgstr "Haberler"
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "Careers"
+msgstr "Kariyer"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "Departman:"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "Proje Lokasyonları:"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "Eğitim:"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "Yan Haklar:"
+
+#: vc_templates/stm_staff_list.php:105 vc_templates/stm_info_box.php:74
+#: vc_templates/stm_works.php:285 vc_templates/stm_news.php:66
+msgid "Read more"
+msgstr "Daha fazla oku"
+
+#: vc_templates/stm_staff_list.php:135 vc_templates/stm_staff_list.php:138
+msgid "view profile"
+msgstr "profili görüntüle"
+
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+#: vc_templates/stm_events.php:84 vc_templates/stm_events.php:89
+msgid "loading..."
+msgstr "yükleniyor..."
+
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+msgid "load more"
+msgstr "daha fazla yükle"
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr "önceki"
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr "sıradaki"
+
+#: vc_templates/stm_gmap_l14.php:90 woocommerce/cart/shipping-calculator.php:38
+msgid "Select a country&hellip;"
+msgstr "Bir ülke seçin&hellip;"
+
+#: vc_templates/stm_gmap_l14.php:98 woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr "Bir eyalet seçin&hellip;"
+
+#: vc_templates/stm_info_box.php:137
+msgid "Read More"
+msgstr "Daha Fazla Oku"
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr "Email adresinizi girin"
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr "Şimdi yükle"
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr "web sitesini ziyaret et"
+
+#: vc_templates/stm_works.php:72
+msgid "All"
+msgstr "Hepsi"
+
+#: vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr "Müşteri"
+
+#: vc_templates/stm_portfolio_information.php:31
+#: vc_templates/stm_vacancies.php:22 woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "Tarih"
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr "Rolümüz"
+
+#: vc_templates/stm_news.php:82
+msgid ", "
+msgstr ", "
+
+#: vc_templates/stm_news.php:90
+msgid "in"
+msgstr "içinde"
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr "Skype: "
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr "İş İlanı Başlığı"
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr "Henüz görüntüleme yok."
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Add a review"
+msgstr "Yorum ekle"
+
+#: woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; ilk inceleyen olun;"
+
+#: woocommerce/single-product-reviews.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s 'e yanıt bırakın"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "E-mail *"
+msgstr "E-mail*"
+
+#: woocommerce/single-product-reviews.php:83 admin/screens/startup.php:58
+msgid "Submit"
+msgstr "Gönder"
+
+#: woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Bir yorum bırakabilmek için <a href=\"%s\">giriş yapmış</a> olmalısınız."
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Rating"
+msgstr "Puanınız"
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr "Puanla&hellip;"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr "Mükemmel"
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr "İyi"
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr "Ortalama"
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr "Fena Değil"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr "Çok kötü"
+
+#: woocommerce/single-product-reviews.php:104
+msgctxt "noun"
+msgid "Your Review"
+msgstr "Yorumunuz"
+
+#: woocommerce/single-product-reviews.php:106
+msgid "add review"
+msgstr "yorum ekle"
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Sadece giriş yapmış ve bu ürünü satın almış kullanıcılar yorum bırakabilir."
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Lütfen Envato Pazaryeri kullanıcı adınızı girin."
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Lütfen Envato Pazaryeri API anahtarını girin."
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "\"kur\" API'si gerekli bir parametredir."
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Pazaryeri \"ürün ID\" gerekli bir parametredir."
+
+#. Base ID
+#: inc/widgets/socials.php:11 inc/customizer/registration.php:868
+#: inc/customizer/registration.php:1444
+msgid "Socials"
+msgstr "Topluluklar"
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr "Sosyal Ağlar"
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr "Başlık:"
+
+#. Base ID
+#: inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "Kontaktlar"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "Kontakt listesi"
+
+#: inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr "Adres:"
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr "Faks:"
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr "Email:"
+
+#: inc/customizer/registration.php:17
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/registration.php:19
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/registration.php:21
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer/registration.php:22
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/registration.php:23
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/registration.php:24
+msgid "Git"
+msgstr "Git"
+
+#: inc/customizer/registration.php:25
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/registration.php:26
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/customizer/registration.php:27
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/registration.php:28
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: inc/customizer/registration.php:29
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer/registration.php:30
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/customizer/registration.php:31
+msgid "Google"
+msgstr "Google"
+
+#: inc/customizer/registration.php:33
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/customizer/registration.php:34
+msgid "Youtube Play"
+msgstr "Youtube Play"
+
+#: inc/customizer/registration.php:35
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/registration.php:36
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: inc/customizer/registration.php:37
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: inc/customizer/registration.php:38
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/customizer/registration.php:39
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/registration.php:45
+msgid "Site Settings"
+msgstr "Site Ayarları"
+
+#: inc/customizer/registration.php:49
+msgid "Header"
+msgstr "Başlık"
+
+#: inc/customizer/registration.php:53
+msgid "Footer"
+msgstr "Alt bilgi"
+
+#: inc/customizer/registration.php:57
+msgid "Post Types"
+msgstr "Post Türleri"
+
+#: inc/customizer/registration.php:61
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer/registration.php:65
+msgid "Default Settings"
+msgstr "Varsayılan Ayarlar"
+
+#: inc/customizer/registration.php:71
+msgid "Logo &amp; Title"
+msgstr "Logo &amp; Başlık"
+
+#: inc/customizer/registration.php:79 inc/customizer/registration.php:889
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/registration.php:83
+msgid "Dark Logo"
+msgstr "Koyu Logo"
+
+#: inc/customizer/registration.php:87 inc/customizer/registration.php:893
+msgid "Width"
+msgstr "Genişlik"
+
+#: inc/customizer/registration.php:94 inc/customizer/registration.php:900
+msgid "Height"
+msgstr "Yükseklik"
+
+#: inc/customizer/registration.php:101
+msgid "Margin Top"
+msgstr "Üst Şerit"
+
+#: inc/customizer/registration.php:108
+msgid "Margin Bottom"
+msgstr "Alt Şerit"
+
+#: inc/customizer/registration.php:121
+msgid "Static Front Page"
+msgstr "Statik Font Sayfası"
+
+#: inc/customizer/registration.php:131
+msgid "Turquoise"
+msgstr "Turkuaz"
+
+#: inc/customizer/registration.php:132
+msgid "Dark Denim"
+msgstr "Koyu Kot"
+
+#: inc/customizer/registration.php:133
+msgid "Arctic &amp; Black"
+msgstr "Kutup &amp;Siyah"
+
+#: inc/customizer/registration.php:134 inc/customizer/registration.php:139
+msgid "Custom Colors"
+msgstr "Özel Renkler"
+
+#: inc/customizer/registration.php:145
+msgid "Skin"
+msgstr "Ten"
+
+#: inc/customizer/registration.php:150
+msgid "Custom Base Color"
+msgstr "Özel Zemin Rengi"
+
+#: inc/customizer/registration.php:155
+msgid "Custom Secondary Color"
+msgstr "Özel İkinci Renk"
+
+#: inc/customizer/registration.php:160
+msgid "Custom Third Color"
+msgstr "Özel Üçüncü Renk"
+
+#: inc/customizer/registration.php:165
+msgid "Frontend Customizer"
+msgstr "Önyüz Özelleştirme"
+
+#: inc/customizer/registration.php:170
+msgid "Enable Boxed Layout"
+msgstr "Kutulu Düzeni Aktive Et"
+
+#: inc/customizer/registration.php:175
+msgid "Enable Preloader"
+msgstr "Yükleyiciyi Aktive Et"
+
+#: inc/customizer/registration.php:190
+msgid "Custom Bg Image"
+msgstr "Özel Bg Görseli"
+
+#: inc/customizer/registration.php:197
+msgid "Enable Page Scroll"
+msgstr "Sayfa Kaydırmayı Aktive Et"
+
+#: inc/customizer/registration.php:204
+msgid "Style &amp; Settings"
+msgstr "Stil &amp; Ayarlar"
+
+#: inc/customizer/registration.php:210
+msgid "Enable Top Bar"
+msgstr "Üst Çubuğu Aktive Et"
+
+#: inc/customizer/registration.php:217 inc/customizer/registration.php:488
+msgid "Button label"
+msgstr "Buton etiketi"
+
+#: inc/customizer/registration.php:221 inc/customizer/registration.php:492
+msgid "Button link"
+msgstr "Buton linki"
+
+#: inc/customizer/registration.php:228
+msgid "Top bar style"
+msgstr "Üst Çubuk Stili"
+
+#: inc/customizer/registration.php:231 inc/customizer/registration.php:384
+#: inc/customizer/registration.php:884
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: inc/customizer/registration.php:237 inc/customizer/registration.php:340
+#: inc/customizer/registration.php:431 inc/customizer/registration.php:522
+msgid "Working Hours"
+msgstr "Çalışma Saatleri"
+
+#: inc/customizer/registration.php:242 inc/customizer/registration.php:344
+msgid "Hours Icon"
+msgstr "Saat İkonu"
+
+#: inc/customizer/registration.php:247
+msgid "Enable Search"
+msgstr "Aramayı Aktive Et"
+
+#: inc/customizer/registration.php:258
+msgid "Enable WPML Switcher"
+msgstr "WPML Switcher'ı Aktive Et"
+
+#: inc/customizer/registration.php:264
+msgid "WPML Switcher Style"
+msgstr "WPML Switcher Stili"
+
+#: inc/customizer/registration.php:267
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/customizer/registration.php:268
+msgid "Default (WPML)"
+msgstr "Varsayılan (WPML)"
+
+#: inc/customizer/registration.php:274
+msgid "Disable WooCommerce Cart"
+msgstr "WooCommerce  sepetini devre dışı bırak"
+
+#: inc/customizer/registration.php:289 inc/customizer/registration.php:335
+#: inc/customizer/registration.php:423 inc/customizer/registration.php:514
+msgid "Address Icon"
+msgstr "Adress İkonu"
+
+#: inc/customizer/registration.php:302
+msgid "Email Icon"
+msgstr "Email İkonu"
+
+#: inc/customizer/registration.php:310 inc/customizer/registration.php:349
+#: inc/customizer/registration.php:444 inc/customizer/registration.php:537
+msgid "Phone number"
+msgstr "Telefon numarası"
+
+#: inc/customizer/registration.php:315 inc/customizer/registration.php:452
+#: inc/customizer/registration.php:545
+msgid "Phone number Icon"
+msgstr "Telefon numarası İkonu"
+
+#: inc/customizer/registration.php:328
+msgid "for dropdown options"
+msgstr "dropdown opsiyonları için"
+
+#: inc/customizer/registration.php:353
+msgid "Phone Icon"
+msgstr "Telefonu İkonu"
+
+#: inc/customizer/registration.php:370
+msgid "Top Bar"
+msgstr "Üst Çubuk"
+
+#: inc/customizer/registration.php:376
+msgid "Header Appearance"
+msgstr "Başlık Görüntüsü"
+
+#: inc/customizer/registration.php:386
+msgid "Style 3"
+msgstr "Stil 3"
+
+#: inc/customizer/registration.php:387
+msgid "Style 4"
+msgstr "Stil 4"
+
+#: inc/customizer/registration.php:388
+msgid "Style 5"
+msgstr "Stil 5"
+
+#: inc/customizer/registration.php:389
+msgid "Style 6"
+msgstr "Stil 6"
+
+#: inc/customizer/registration.php:390
+msgid "Style 7"
+msgstr "Stil 7"
+
+#: inc/customizer/registration.php:391
+msgid "Style 8"
+msgstr "Stil 8"
+
+#: inc/customizer/registration.php:395
+msgid "Sticky Menu"
+msgstr "Not Menüsü"
+
+#: inc/customizer/registration.php:400
+msgid "WooCommerce Cart - Hide"
+msgstr "WooCommerce Sepeti- Gizle"
+
+#: inc/customizer/registration.php:406
+msgid "Start mobile menu from:"
+msgstr "Mobil menüyü buradan başlat:"
+
+#: inc/customizer/registration.php:408
+msgid "Tablet landscape"
+msgstr "Tablet görünümü"
+
+#: inc/customizer/registration.php:409
+msgid "Tablet portrait"
+msgstr "Tablet portresi"
+
+#: inc/customizer/registration.php:436 inc/customizer/registration.php:529
+msgid "Working Hours Icon"
+msgstr "Çalışma Saatleri İkonu"
+
+#: inc/customizer/registration.php:460 inc/customizer/registration.php:553
+#: inc/customizer/registration.php:940
+msgid "Copyright"
+msgstr "Telif Hakları"
+
+#: inc/customizer/registration.php:470
+msgid "Choose contact form"
+msgstr "Buradan kontakt seç"
+
+#: inc/customizer/registration.php:479
+msgid "Contact form(popup)"
+msgstr "Kontakt formu(popup)"
+
+#: inc/customizer/registration.php:539
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back"
+"\">Request call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back\">Geri "
+"arama talep et</span>"
+
+#: inc/customizer/registration.php:567 inc/customizer/registration.php:599
+#: inc/customizer/registration.php:631 inc/customizer/registration.php:663
+#: inc/customizer/registration.php:695 inc/customizer/registration.php:727
+#: inc/customizer/registration.php:759
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer/registration.php:572 inc/customizer/registration.php:604
+#: inc/customizer/registration.php:636 inc/customizer/registration.php:668
+#: inc/customizer/registration.php:700 inc/customizer/registration.php:732
+#: inc/customizer/registration.php:764
+msgid "Plural Title"
+msgstr "Çoğul Başlık"
+
+#: inc/customizer/registration.php:577 inc/customizer/registration.php:609
+#: inc/customizer/registration.php:641 inc/customizer/registration.php:673
+#: inc/customizer/registration.php:705 inc/customizer/registration.php:737
+#: inc/customizer/registration.php:769
+msgid "All Items"
+msgstr "Tüm maddeler"
+
+#: inc/customizer/registration.php:582 inc/customizer/registration.php:614
+#: inc/customizer/registration.php:646 inc/customizer/registration.php:678
+#: inc/customizer/registration.php:710 inc/customizer/registration.php:742
+#: inc/customizer/registration.php:774
+msgid "Rewrite (URL text)"
+msgstr "Tekrar yaz ( URL text)"
+
+#: inc/customizer/registration.php:587 inc/customizer/registration.php:619
+#: inc/customizer/registration.php:651 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:715 inc/customizer/registration.php:747
+#: inc/customizer/registration.php:779
+msgid "Icon"
+msgstr "İkon"
+
+#: inc/customizer/registration.php:855
+msgid "Content Background - Transparent"
+msgstr "İçerik Arkaplanı-Transparan"
+
+#: inc/customizer/registration.php:880
+msgid "Style"
+msgstr "Stil"
+
+#: inc/customizer/registration.php:907
+msgid "Hide Logo"
+msgstr "Logoyu Sakla"
+
+#: inc/customizer/registration.php:912
+msgid "Hide Footer"
+msgstr "Alt Bilgiyi Sakla"
+
+#: inc/customizer/registration.php:920
+msgid "Additional Widget Areas"
+msgstr "Ek Listeleme Alanları"
+
+#: inc/customizer/registration.php:924
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#: inc/customizer/registration.php:935
+msgid "Footer Text"
+msgstr "Alt Bilgi Metni"
+
+#: inc/customizer/registration.php:937
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+
+#: inc/customizer/registration.php:952
+msgid "Show Menu"
+msgstr "Menüyü Göster"
+
+#: inc/customizer/registration.php:965
+msgid "Footer Socials"
+msgstr "Alt Bilgi Toplulukları"
+
+#: inc/customizer/registration.php:978
+msgid "Body"
+msgstr "Gövde"
+
+#: inc/customizer/registration.php:982
+msgid "Base Font Family"
+msgstr "Zemin Font Ailesi"
+
+#: inc/customizer/registration.php:988
+msgid "Secondary Font Family"
+msgstr "İKinci Font Ailesi"
+
+#: inc/customizer/registration.php:994 inc/customizer/registration.php:1015
+#: inc/customizer/registration.php:1044 inc/customizer/registration.php:1079
+#: inc/customizer/registration.php:1114 inc/customizer/registration.php:1149
+#: inc/customizer/registration.php:1184 inc/customizer/registration.php:1219
+msgid "Font Weight"
+msgstr "Font Yüksekliği"
+
+#: inc/customizer/registration.php:1000 inc/customizer/registration.php:1021
+#: inc/customizer/registration.php:1050 inc/customizer/registration.php:1085
+#: inc/customizer/registration.php:1120 inc/customizer/registration.php:1155
+#: inc/customizer/registration.php:1190 inc/customizer/registration.php:1225
+msgid "Font Size"
+msgstr "Font Boyutu"
+
+#: inc/customizer/registration.php:1011
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1058
+#: inc/customizer/registration.php:1093 inc/customizer/registration.php:1128
+#: inc/customizer/registration.php:1163 inc/customizer/registration.php:1198
+#: inc/customizer/registration.php:1233
+msgid "Line Height"
+msgstr "Çizgi Yüksekliği"
+
+#: inc/customizer/registration.php:1040
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/registration.php:1066 inc/customizer/registration.php:1101
+#: inc/customizer/registration.php:1136 inc/customizer/registration.php:1171
+#: inc/customizer/registration.php:1206 inc/customizer/registration.php:1241
+msgid "Text Transform"
+msgstr "Metin Dönüştür"
+
+#: inc/customizer/registration.php:1075
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/registration.php:1110
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/registration.php:1145
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/registration.php:1180
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/registration.php:1215
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/registration.php:1250
+msgid "Archive Pages"
+msgstr "Arşiv Sayfaları"
+
+#: inc/customizer/registration.php:1257
+msgid "Grid View"
+msgstr "Tablo Görünümü"
+
+#: inc/customizer/registration.php:1258
+msgid "List View"
+msgstr "Liste Görünümü"
+
+#: inc/customizer/registration.php:1267 inc/customizer/registration.php:1312
+#: inc/customizer/registration.php:1353
+msgid "Sidebar Type"
+msgstr "Kenar Çubuğu Türleri"
+
+#: inc/customizer/registration.php:1269 inc/customizer/registration.php:1314
+#: inc/customizer/registration.php:1355
+msgid "Wordpress Sidebars"
+msgstr "Wordpress Kenar Çubukları"
+
+#: inc/customizer/registration.php:1280 inc/customizer/registration.php:1325
+#: inc/customizer/registration.php:1366
+msgid "Wordpress Sidebar"
+msgstr "Wordpress Kenar Çubuğu"
+
+#: inc/customizer/registration.php:1293 inc/customizer/registration.php:1379
+msgid "Sidebar - Position"
+msgstr "Kenar Çubuğu-Pozisyon"
+
+#: inc/customizer/registration.php:1295 inc/customizer/registration.php:1381
+msgid "Left"
+msgstr "Sol"
+
+#: inc/customizer/registration.php:1296 inc/customizer/registration.php:1382
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/customizer/registration.php:1307
+msgid "Event Pages"
+msgstr "Etkinlik Sayfaları"
+
+#: inc/customizer/registration.php:1337
+msgid "Terms and Conditions Page Link"
+msgstr "Kapsam ve Kullanım Koşulları Sayfası Linki"
+
+#: inc/customizer/registration.php:1348
+msgid "Shop Pages"
+msgstr "Alışveriş Sayfaları"
+
+#: inc/customizer/registration.php:1390
+msgid "Products Per Page"
+msgstr "Her Sayfa için Ürünler"
+
+#: inc/customizer/registration.php:1401
+msgid "Google Map Api Settings"
+msgstr "Google Map Api Ayarları"
+
+#: inc/customizer/registration.php:1406
+msgid "Google Map API Key"
+msgstr "Google Map Apı Anahtarı"
+
+#: inc/customizer/registration.php:1408
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+"Google API'de yarattığınız api anahtarını buraya girin. Google API'lerdeki "
+"MAP API'yi şöyle aktive edebilirsiniz > Google Maps APIs > Google Maps "
+"JavaScript API."
+
+#: inc/customizer/registration.php:1423
+msgid "Google Recaptcha API Settings"
+msgstr "Google Recaptcha API Ayarları"
+
+#: inc/customizer/registration.php:1428
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: inc/customizer/registration.php:1433
+msgid "Public key"
+msgstr "Genel anahtar"
+
+#: inc/customizer/registration.php:1437
+msgid "Secret key"
+msgstr "Gizli anahtar"
+
+#: inc/customizer/registration.php:1455
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: partials/headers/l14-hs5.php:31
+msgid "Write us<a href=\"mailto:info@consulting.com\">info@consulting.com</a>"
+msgstr ""
+"Bize yazın<a href=\"mailto:info@consulting.com\">info@consulting.com</a>"
+
+#: partials/headers/l14-hs5.php:33
+msgid ""
+"<strong>212 386 5575</strong><span data-popup=\"request-call-back\">Request "
+"a call back</span>"
+msgstr ""
+"<strong>212 386 5575</strong><span data-popup=\"request-call-back\">Geri "
+"arama talep edin</span>"
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr "Tek sonuç gösterilmektedir"
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "Tüm sonuçlar<strong>%d</strong> gösteriliyor"
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+"<strong>%1$d&ndash;%2$d</strong> arasında <strong>%3$d</strong> sonuçlar "
+"gösteriliyor"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr "faturalama &amp; kargo"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr "fatura detayları"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "Bir hesap oluştur?"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Aşağıdaki bilgileri girerek bir hesap oluşturun. Eğer daha önceden giriş "
+"yaptıysanız lütfen sayfanın en üstünden giriş yapın."
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Önceden giriş yaptınız mı?"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr "Giriş yapmak için tıklayın"
+
+#: woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Eğer daha önce bizden alışveriş yaptıysanız, lütfen kutulara bilgilerinizi "
+"girin. Eğer yeni bir kullanıcıysanız, lütfen Faturalandırma &amp; Kargo "
+"bölümüne ilerleyin."
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr "Kuponunuz var mı?"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr "Kodunuzu girmek için tıklayın"
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "Kupon kodu"
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr "Kupon Uygula"
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr "ödeme"
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Üzgünüz, bulunduğunuz lokasyon için uygun bir ödeme seçeneği yok. Lütfen "
+"alternatifler ve detaylı bilgi için bize ulaşın."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Lütfen ödeme yöntemlerini görmek için yukarıda bilgilerinizi girin."
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Tarayacınız JavaScript desteklemediği ya da devre dışı olduğu için, "
+"<em>Hepsini Güncelle</em> butonuna sipariş vermeden önce tıkladığınıza emin "
+"olun. Eğer bunu atlarsanız, yukarı belirtilen tutardan daha fazla "
+"faturalandırabilirsiniz."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "Hepsini güncelle"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr "siparişiniz"
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr "Ürün"
+
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110
+#: woocommerce/myaccount/my-orders.php:28 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr "Toplam"
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "Ara toplam"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Ödeme sayfasına gidebilmek için giriş yapmalısınız."
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr "farklı bir adrese kargola?"
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr "Ek Bilgiler"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "Kullanıcı adı veya email"
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:95
+msgid "Password"
+msgstr "Şifre"
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:55
+msgid "Login"
+msgstr "Giriş"
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr "Şifremi unuttum?"
+
+#: woocommerce/global/quantity-input.php:27
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qty"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] "Uygulanamaz"
+msgstr[1] "Kategoriler:"
+
+#: woocommerce/single-product/related.php:27
+msgid "related products"
+msgstr "ilgili ürünler"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "Sipariş"
+
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr "Statü"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "yakın zamandaki siparişler"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s ürün için %s"
+msgstr[1] "%s ürün için %s "
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Öde"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "Görüntüle"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "İptal"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Bu adres ödeme sayfasında varsayılan adres olarak kullanılacak."
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "düzenle"
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "Daha önce böyle bir adres kaydetmediniz."
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr "giriş"
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Username or email address"
+msgstr "Kullanıcı adı veya email"
+
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Email address"
+msgstr "Email adresi"
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr "ürün adı"
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr "fiyat"
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr "miktar"
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr "toplam"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "Önsipariş için uygun"
+
+#: woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr "Fiyat"
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "Miktar"
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr "Bu ürünü çıkar"
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon"
+msgstr "Kupon"
+
+#: woocommerce/cart/cart.php:138
+msgid "update cart"
+msgstr "sepeti güncelle"
+
+#: woocommerce/cart/shipping-calculator.php:32
+msgid "Calculate Shipping"
+msgstr "Kargo hesapla"
+
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:61
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr "Eyalet/ Ülke"
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr "Şehir"
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr "Posta kodu"
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr "Hepsini güncelle"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "ödeme sayfasına ilerle"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Sepet Toplamı"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "Kargo"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "%s için hesaplanıyor"
+
+#: admin/includes/theme.php:183
+msgid "Install"
+msgstr "Yükle"
+
+#: admin/includes/theme.php:185
+msgid "Activate"
+msgstr "Aktive Et"
+
+#: admin/includes/admin_screens.php:32 admin/includes/admin_screens.php:33
+#: admin/includes/admin_screens.php:129
+msgid "Support"
+msgstr "Destek"
+
+#: admin/includes/admin_screens.php:42 admin/includes/admin_screens.php:43
+#: admin/includes/admin_screens.php:130
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: admin/includes/admin_screens.php:52 admin/includes/admin_screens.php:53
+msgid "Demo import"
+msgstr "Demo göster"
+
+#: admin/includes/admin_screens.php:62 admin/includes/admin_screens.php:63
+msgid "System status"
+msgstr "Sistem statüsü"
+
+#: admin/includes/admin_screens.php:121
+#, php-format
+msgid "Welcome to %s"
+msgstr "%s'e Hoşgeldiniz"
+
+#: admin/includes/admin_screens.php:123
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something "
+"beautiful. Please register your purchase to get automatic theme updates, "
+"import %1$s demos and install premium plugins. Read below for additional "
+"information. We hope you enjoy it! %s"
+msgstr ""
+"%s yüklendi ve kullanıma hazır. Güzel bir şey yaratmaya hazır olun. Lütfen "
+"satın almanızı kayıt ettirin; bu sayede otomatik güncellemeleri alıp, %1$s "
+"demolarını deneyebilir ve premium eklentileri indirebilirsiniz. Detaylı "
+"bilgi için aşağıdaki ek bilgileri okuyun. Umarız seversiniz! %s"
+
+#: admin/includes/admin_screens.php:123
+msgid "Watch Our Quick Guided Tour!"
+msgstr "Hızlı Turumuzu İzle!"
+
+#: admin/includes/admin_screens.php:128
+msgid "Product Registration"
+msgstr "Ürün Girişi"
+
+#: admin/includes/admin_screens.php:131
+msgid "Install Demos"
+msgstr "Demoları Yükle"
+
+#: admin/includes/admin_screens.php:132
+msgid "System Status"
+msgstr "Sistem Statüsü"
+
+#: admin/includes/admin_screens.php:133
+msgid "Theme Options"
+msgstr "Tema Opsiyonları"
+
+#: admin/screens/startup.php:21 admin/screens/install_demo.php:25
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Lütfen kayıt yaptırdığınız hesabın mevcut token'ı üzerinden temayı satın "
+"aldığınıza emin olun"
+
+#: admin/screens/startup.php:40
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"%s 'i seçtiğiniz için teşekkürler! %1$s demolara erişmek ve otomatik tema "
+"güncellemeleri için lütfen kayıt olun. Aşağıdaki adımları takip "
+"edebilirsiniz."
+
+#: admin/screens/startup.php:65
+msgid "Instructions For Generating A Token"
+msgstr "Bir Token Üretmek İçin Yönergeler"
+
+#: admin/screens/startup.php:67
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged "
+"in, you will be directed to login then directed back to the Create A Token "
+"Page."
+msgstr ""
+"Buna tıklayın<a href=\"%s\" target=\"_blank\">Kişisel bir token linki "
+"üretin</a>. <strong>ÖNEMLİ:</strong> %s'i aldığınız hesapla ThemeForest'a "
+"giriş yapmış olmalısınız. Eğer zaten giriş yaptıysanız yukarıdaki menüden "
+"doğru hesap olup olmadığını kontrol edin. Eğer giriş yapmadıysanız, Bir "
+"Token Üret sayfasına yönlendirileceksiniz."
+
+#: admin/screens/startup.php:68
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"<strong> için kutucukları işaretleyin ve token'ınıza bir isim verin. Envato "
+"kullanıcı adınızı görüntüleyip satın aldığını ürünleri yükleyin ve </strong> "
+"ve <strong> alışverişini onaylayın. Yaptığınız alışverişleri</strong> "
+"buradan izin alınması gereken bölümler için listeleyin. Kapsam ve Kullanım "
+"Koşulları'nı kabul etmek için kutuyu işaretleyin ve <strong> tıklayıp bir "
+"token butonu yaratın</strong>"
+
+#: admin/screens/startup.php:69
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Yeni sayfa kutudaki bir token numarası ile yüklenecek.Bu token numarasını "
+"kopyalayın ve kayıt sayfasına geri dönüp buradaki alana yapıştırın ve "
+"<strong> tıklayın</strong> Gönder butonu."
+
+#: admin/screens/startup.php:70
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"Başarılı işlem için yeşil bir işaret, eğer bir şeyler yanlış ise de bir hata "
+"mesajı göreceksiniz. Eğer hata varsa, adımları takip ettiğinizden emin olun."
+
+#: admin/screens/system_status.php:11 admin/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "Wordpress Dünyası"
+
+#: admin/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "AnaSayfa URL:"
+
+#: admin/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "Sitenizin ana sayfa URL'i."
+
+#: admin/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "Site URL'si:"
+
+#: admin/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "Sitenizin kaynak URL'i."
+
+#: admin/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "WP versiyonu:"
+
+#: admin/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "Sitenize uygulanmış Wordpress verisyonu."
+
+#: admin/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WP Multi Sitesi:"
+
+#: admin/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "WordPress Multi Site aktive mi değil mi."
+
+#: admin/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "WP Hafıza Limiti:"
+
+#: admin/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Sitenizin bir seferde kullanabileceği maksimum hafıza (RAM)"
+
+#: admin/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br /"
+"> To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</"
+"strong> file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+"%s - Bizim tavsiyemiz olan minimum bellek ayarı <strong>128 MB</strong>."
+"<br>Klasik demo veri almak için <strong>256 MB</strong> -in bellek sınırı "
+"gereklidir.<br>Lütfen bellek sınırı içinde <strong>wp-config.php</strong> "
+"dosya tanımlayın. Öğrenmek için buraya bakın: <a href=\"%s\" target=\"_blank"
+"\">PHP'ye ayrılan bellek arttırılıyor.</a>"
+
+#: admin/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"Geçerli bellek sınırınız yeterlidir, ancak klasik demo içeriğini aktarmanız "
+"gerekiyorsa, gereken bellek sınırı <strong> 256MB'dir. </Strong>"
+
+#: admin/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "WP Hata Ayıklama Modu:"
+
+#: admin/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "WordPress'in Hata Ayıklama Modunda olup olmadığını görüntüler."
+
+#: admin/screens/system_status.php:68
+msgid "Language:"
+msgstr "Dil:"
+
+#: admin/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "WordPress tarafından kullanılan geçerli dil. Varsayılan = Türkçe"
+
+#: admin/screens/system_status.php:75 admin/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "Sunucu Ortamı"
+
+#: admin/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "Sunucu Bilgisi:"
+
+#: admin/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Şu anda sitenizin kayıtlı olduğu web sunucusu hakkında bilgi."
+
+#: admin/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr "PHP Verisyonu:"
+
+#: admin/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr "PHP versiyonu sunucunuza yüklenmiştir."
+
+#: admin/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr "PHP Post Maksimum Boyutu:"
+
+#: admin/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr "Bir postun içerebileceği maksimum dosya boyutu."
+
+#: admin/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr "PHP Zaman Limiti:"
+
+#: admin/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"Zaman hatası vermeden önce (Sunucu aramalarından kaçınmak için) sitenizin "
+"tek bir operasyonda harcayacağı zaman ( saniye cinsinden)"
+
+#: admin/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - Maksimum çalışma süresini 180'e ayarlamanızı tavsiye ederiz. <br /> "
+"Klsik bir veri içeriği almak için, <strong>300</strong> saniye maksimum "
+"işlem süresi gerekmektedir.<br />Şuna bakın: <a href=\"%2$s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">Maksimum PHP'ye yükseltin</a>"
+
+#: admin/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"Mevcut zaman limiti yeterli değil, eğer demo içerik eklemeniz gerekiyorsa, "
+"gerekli zaman <strong>300</strong>."
+
+#: admin/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr "PHP Maksimum Input:"
+
+#: admin/screens/system_status.php:119 admin/screens/system_status.php:155
+#: admin/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Tekrar yüklemeyi engellemek için sunucunuzun kullanabileceği maksimum "
+"sayıdaki değişken."
+
+#: admin/screens/system_status.php:139 admin/screens/system_status.php:175
+#: admin/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - Önerilen Değer:%2$s.<br />POST verisi menüler gibimaksimum değer "
+"limitleri kesilecek. Şuna bakın:<a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Maksimum artan giriş artıyor. </a>"
+
+#: admin/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN Yüklendi:"
+
+#: admin/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin PHP yüklemeleri için gelişmiş bir koruma sistemidir. Bir yandan "
+"sunucularınızı PHP uygulamaları içinde iyi bilinen hatalara karşı korurken "
+"bir yandan bilinmeyen ama öngörülen zayıf noktalar PHP'in kendisi için de "
+"korur. Eğer sunucunuzu aktive ederseniz, Suhosin data limit gönderimlerini "
+"arttırabilmek için kurulum başlatır."
+
+#: admin/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin Maksimum Post Var:"
+
+#: admin/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosin Maksimum Talep Var:"
+
+#: admin/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhoin Maksimum Post Uzunluk Değeri:"
+
+#: admin/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr "POST isteğiyle kaydedilen bir değişkenin maksimum uzunluğunu tanımlar."
+
+#: admin/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%s - önerilen değer: %s.<br>Yazı Max değer uzunluğu sınırlama tema "
+"seçenekleri veri veritabanına kaydedilmesini yasaklayabilir. Bkz: <a href="
+"\"%s\" target=\"_blank\">Suhosin yapılandırma bilgilerini</a>."
+
+#: admin/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr "Zip Arşiv:"
+
+#: admin/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"ZipArşiv demoları alabilmek için gereklidir. Zip dosyalarını almak ve "
+"çıkarmak için özellikler silder'lar için kullanılır."
+
+#: admin/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr "MySQL Versiyonu:"
+
+#: admin/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Sunucunuzda yüklü olan MySQL versiyonu."
+
+#: admin/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr "Maksimum Yükleme Boyutu:"
+
+#: admin/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr "Wordpress yapınıza yüklenebilecek maksimum dosya boyutu."
+
+#: admin/screens/system_status.php:251 admin/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr "Aktif Eklentiler"
+
+#: admin/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr "Eklenti ana sayfayı ziyaret et"
+
+#: admin/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "%s tarafından"
+
+#: admin/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"Aldığınız her lisans için %s kadarı 6 aylık ücretsiz destek ile birlikte "
+"gelir. Bu destek ThemeForest araçlığıyla yapılan üyeliklerle uzatılabilir."
+
+#: admin/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "Bir Yardım Hesabı Oluşturun"
+
+#: admin/screens/support.php:30
+msgid "Ticket System"
+msgstr "Bilet Sistemi"
+
+#: admin/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"Gelişmiş bilet sistemimiz sayesinde mükemmel bir destek sunuyoruz. Bu "
+"servislere ulaşabilmek için lütfen ilk alışverişinizin kaydını tamamlayın."
+
+#: admin/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "Bilet gönder"
+
+#: admin/screens/support.php:47
+msgid "Documentation"
+msgstr "Dokümentasyon"
+
+#: admin/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"Online dokümentasyonumuz  %s'in tüm özelliklerini öğrenmek için oldukça "
+"faydalı bir kaynak."
+
+#: admin/screens/support.php:53
+msgid "Learn more"
+msgstr "Daha fazla öğren"
+
+#: admin/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "Video Eğitimleri"
+
+#: admin/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"Tema oluşturmadan önce eğitim videolarını izlemenizi tavsiye ederiz. Eğitim "
+"videolarımız %s'in farklı yönlerini öğrenmeniz için size yardımcı olacak."
+
+#: admin/screens/support.php:73
+msgid "Watch Videos"
+msgstr "Videoları İzle"
+
+#: admin/screens/support.php:84
+msgid "Community Forum"
+msgstr "Forum"
+
+#: admin/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Kullanıcı etkileşimi için forumlarımız doğru adresler. Başka bir %s "
+"kullanıcısına deneyimlerini paylaşması için forumdan ulaşabilirsiniz."
+
+#: admin/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "Forumumuzu ziyaret edin"
+
+#: inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr "---Varsayılan---"
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr "Ultra İtalik"
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr "Ultra Light İtalik"
+
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr "Light"
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr "Light İtalik"
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr "Kitap"
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr "Kitap İtalik"
+
+#: inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr "Normal"
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr "Normal İtalik"
+
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr "Medium italik"
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr "Yarın-Bold"
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr "Yarı-Bold İtalik"
+
+#: inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr "Bold"
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr "Bold İtalik"
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr "Ekstra Bold"
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr "Ekstra Bold İtalik"
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr "Ultra Bold"
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr "Ultra Bold İtalik"
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr "Büyük ilk harf"
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr "Küçük harf"
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr "Büyük harf"
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr "Normal"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "Ürün Tanımı"
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Bu ürün şu an stokta bulunmuyor."
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr "Temiz"
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Üzgünüz, bu ürün şu an geçersizdir. Lütfen farklı bir kombinasyon seçin."
+
+#. Name of the theme
+msgid "Consulting"
+msgstr "Danışmanlık"
+
+#. Description of the theme
+msgid ""
+"Consulting - Business and Finance WordPress theme. Using Consluting you can "
+"easily create a modern website with real content. Easily edit the real "
+"content and compose the page layout with drag &amp; drop page builder "
+"Consulting is the best ever finance, consulting, brokerage WordPress theme. "
+"It’s fully Responsive and Easy to Customize using intuitive Drag &amp; Drop "
+"Visual Composer and Theme Options panel in WordPress Customizer."
+msgstr ""
+"Danışmanlık- İş Dünyası ve Finans Wordpress teması. Danışmanlık'ı kullanarak "
+"gerçek bir içeriğe sahip modern bir web sitesi yaratabilirsiniz. drag &amp "
+"ile içeriği kolayca düzenleyebilir, bir sayfa düzeni oluşturabilirsiniz; "
+"Consulting bu konudaki en iyi finans, danışmanlık, broker Wordpress "
+"temasıdır. Tamamen mobil uyumlu ve kolayca özelleştirebilir yapıdadır. Drag "
+"&amp;  Görüntü Yaratacı'yı ve Wordpress Özelleştirme için yer alan Tema "
+"Opsiyon panelini kaydedin."
+
+#. URI of the theme
+msgid "http://consulting.stylemixthemes.com/"
+msgstr "http://consulting.stylemixthemes.com/"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Author URI of the theme
+msgid "http://stylemixthemes.com/"
+msgstr "http://stylemixthemes.com/"

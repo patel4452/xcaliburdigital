@@ -1,0 +1,107 @@
+body{
+  .steps_box {
+    margin-bottom: 46px;
+    .owl-controls {
+      position: absolute;
+      top: auto;
+      bottom: -77px;
+      left: 0;
+      width: 100%;
+      .owl-dots {
+        display: block;
+        text-align: center;
+        height: 10px;
+        .owl-dot {
+          display: inline-block;
+          vertical-align: top;
+          width: 10px;
+          height: 10px;
+          margin: 0 15px;
+          background-color: rgba($stm_base_color, 0.2);
+          border-radius: 50%;
+          &.active {
+            background-color: $stm_base_color;
+          }
+        }
+      }
+
+    }
+    .owl-stage-outer {
+      overflow: visible !important;
+      white-space: nowrap;
+      .owl-item {
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+      }
+    }
+    .owl-stage {
+      counter-reset: section;
+      &:before {
+        content: "";
+        position: absolute;
+        top: 25px;
+        left: 15px;
+        width: 5000px;
+        height: 1px;
+        background-color: $stm_secondary_color;
+        z-index: 0;
+      }
+      .owl-item {
+        cursor: pointer !important;
+        &:before {
+          display: block;
+          position: relative;
+          counter-increment: section;
+          content: counters(section,".") " ";
+          box-sizing: border-box;
+          margin-bottom: 48px;
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          line-height: 48px;
+          border: 2px solid $stm_secondary_color;
+          background-color: #ffffff;
+          border-radius: 50%;
+          transition: all 0.3s;
+          font-size: 22px;
+          color: $stm_secondary_color;
+          z-index: 1;
+        }
+        &:after {
+          content: "";
+          position: absolute;
+          top: 25px;
+          left: 15px;
+          width: 100%;
+          height: 1px;
+          background-color: $stm_secondary_color;
+          z-index: 0;
+        }
+        &:hover {
+          &:before {
+            background-color: $stm_secondary_color;
+            color: #ffffff;
+          }
+        }
+        .item {
+          display: block;
+          width: 400px;
+          white-space: normal;
+          .step_title {
+            margin-bottom: 12px;
+            line-height: 30px;
+            font-weight: 700;
+            font-size: 24px;
+            color: $stm_base_color;
+          }
+          .step_description {
+            font-size: 16px;
+            line-height: 24px;
+            padding-right: 45px;
+          }
+        }
+      }
+    }
+  }
+}

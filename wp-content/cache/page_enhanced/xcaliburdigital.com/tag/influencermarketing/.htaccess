@@ -1,0 +1,25 @@
+<IfModule mod_headers.c>
+    Header unset Link
+    <FilesMatch "\.(html|html_gzip|html_br)$">
+    Header add Link '</wp-content/cache/minify/e58d4.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/1fb96.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/71e8b.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/53d1d.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/c4840.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/0fef6.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/adbfe.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/9e386.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/63a69.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/b4041.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/f98e6.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/9a18a.js>; rel=preload; as=script'
+    Header add Link '</wp-content/cache/minify/baee5.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/cb64a.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/ca7ba.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/7cd2d.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/20915.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/4fc47.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/c53df.css>; rel=preload; as=style'
+    Header add Link '</wp-content/cache/minify/436c2.css>; rel=preload; as=style'
+    </FilesMatch>
+</IfModule>

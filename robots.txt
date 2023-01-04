@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /vr
+Disallow: /revamp
+Disallow: /documents

@@ -1,0 +1,3608 @@
+# Copyright (C) 2020 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inpulse/404.php:29
+msgid "404"
+msgstr ""
+
+#: inpulse/404.php:30
+msgid "Sorry We Can't Find That Page!"
+msgstr ""
+
+#: inpulse/404.php:31
+msgid "The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: inpulse/404.php:36, inpulse/search.php:79
+msgid "Take Me Home"
+msgstr ""
+
+#: inpulse/category.php:26
+msgid "Category:"
+msgstr ""
+
+#. translators: %s: post title
+#: inpulse/comments.php:37
+msgctxt "comments title"
+msgid "Comment <span class=\"number-comments\">(01)</span>"
+msgstr ""
+
+#: inpulse/comments.php:41
+msgctxt "comments title"
+msgid "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgid_plural "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inpulse/comments.php:72, inpulse/comments.php:72
+msgid "Name *"
+msgstr ""
+
+#: inpulse/comments.php:73, inpulse/comments.php:73
+msgid "Email *"
+msgstr ""
+
+#: inpulse/comments.php:74, inpulse/comments.php:74
+msgid "Website"
+msgstr ""
+
+#: inpulse/comments.php:76
+msgid "Your Comment"
+msgstr ""
+
+#: inpulse/functions.php:90, inpulse/functions.php:198, inpulse/core/class/dynamic-styles.php:91, inpulse/core/includes/metabox/metabox-config.php:111, inpulse/core/includes/metabox/metabox-config.php:215, inpulse/core/includes/metabox/metabox-config.php:227, inpulse/core/includes/metabox/metabox-config.php:239, inpulse/core/includes/metabox/metabox-config.php:251, inpulse/core/includes/metabox/metabox-config.php:274, inpulse/core/includes/metabox/metabox-config.php:444, inpulse/core/includes/metabox/metabox-config.php:545, inpulse/core/includes/metabox/metabox-config.php:665, inpulse/core/includes/metabox/metabox-config.php:844, inpulse/core/includes/metabox/metabox-config.php:1047, inpulse/core/includes/metabox/metabox-config.php:1153, inpulse/core/includes/metabox/metabox-config.php:1383, inpulse/core/includes/metabox/metabox-config.php:1788, inpulse/core/includes/metabox/metabox-config.php:1969, inpulse/core/includes/metabox/metabox-config.php:2084, inpulse/core/includes/metabox/metabox-config.php:2129, inpulse/core/includes/metabox/metabox-config.php:2239, inpulse/core/includes/redux/redux-config.php:4157, inpulse/core/includes/redux/redux-config.php:4377, inpulse/core/includes/redux/redux-config.php:4447, inpulse/core/includes/redux/redux-config.php:4962, inpulse/core/includes/redux/redux-config.php:5434, inpulse/core/includes/redux/redux-config.php:6014, inpulse/core/includes/redux/redux-config.php:6255
+msgid "Default"
+msgstr ""
+
+#: inpulse/functions.php:168
+msgid "Dropcap"
+msgstr ""
+
+#: inpulse/functions.php:171
+msgid "Dropcap Colored"
+msgstr ""
+
+#: inpulse/functions.php:177
+msgid "Dropcap Dark"
+msgstr ""
+
+#: inpulse/functions.php:185
+msgid "Highlighter"
+msgstr ""
+
+#: inpulse/functions.php:191
+msgid "Double Heading Font"
+msgstr ""
+
+#: inpulse/functions.php:196
+msgid "Font Weight"
+msgstr ""
+
+#: inpulse/functions.php:199
+msgid "Lightest (100)"
+msgstr ""
+
+#: inpulse/functions.php:200
+msgid "Lighter (200)"
+msgstr ""
+
+#: inpulse/functions.php:201
+msgid "Light (300)"
+msgstr ""
+
+#: inpulse/functions.php:202
+msgid "Normal (400)"
+msgstr ""
+
+#: inpulse/functions.php:203
+msgid "Medium (500)"
+msgstr ""
+
+#: inpulse/functions.php:204
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: inpulse/functions.php:205
+msgid "Bold (700)"
+msgstr ""
+
+#: inpulse/functions.php:206
+msgid "Bolder (800)"
+msgstr ""
+
+#: inpulse/functions.php:207
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: inpulse/functions.php:211
+msgid "List Style"
+msgstr ""
+
+#: inpulse/functions.php:213
+msgid "Check"
+msgstr ""
+
+#: inpulse/functions.php:214
+msgid "Plus"
+msgstr ""
+
+#: inpulse/functions.php:215
+msgid "Dash"
+msgstr ""
+
+#: inpulse/functions.php:216
+msgid "Slash"
+msgstr ""
+
+#: inpulse/functions.php:217
+msgid "No List Style"
+msgstr ""
+
+#: inpulse/image.php:85
+msgid "Pages:"
+msgstr ""
+
+#: inpulse/page.php:30, inpulse/template-full-width.php:17
+msgid "Read more!"
+msgstr ""
+
+#: inpulse/page.php:31, inpulse/template-full-width.php:18, inpulse/templates/post/post-hero.php:187, inpulse/templates/post/post-hero.php:264, inpulse/templates/post/post-standard.php:206, inpulse/templates/post/single/post-1.php:49, inpulse/templates/post/single/post-2.php:47, inpulse/templates/post/single/post-3.php:34
+msgid "Pages"
+msgstr ""
+
+#: inpulse/search.php:28
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inpulse/search.php:51
+msgid "Learn More"
+msgstr ""
+
+#: inpulse/search.php:66
+msgid "Nothing Found"
+msgstr ""
+
+#: inpulse/search.php:71
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: inpulse/search.php:73
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: inpulse/searchform.php:14
+msgctxt "placeholder"
+msgid "Start Typing &hellip;"
+msgstr ""
+
+#: inpulse/searchform.php:15, inpulse/templates/header/section-page_title.php:176, inpulse/core/includes/redux/redux-config.php:424, inpulse/core/includes/redux/redux-config.php:473, inpulse/core/includes/redux/redux-config.php:2891, inpulse/core/includes/redux/redux-config.php:2926, inpulse/core/includes/redux/redux-config.php:3223, inpulse/core/includes/redux/redux-config.php:3253, inpulse/core/includes/redux/redux-config.php:3287, inpulse/core/includes/redux/redux-config.php:3309
+msgid "Search"
+msgstr ""
+
+#: inpulse/single.php:183, inpulse/core/includes/metabox/metabox-config.php:864, inpulse/core/includes/redux/redux-config.php:4537, inpulse/core/includes/redux/redux-config.php:4544, inpulse/core/includes/redux/redux-config.php:5032
+msgid "Related Posts"
+msgstr ""
+
+#: inpulse/single.php:195, inpulse/templates/post/post-hero.php:43, inpulse/templates/post/post-medium_img.php:44, inpulse/templates/post/post-standard.php:43
+msgid "Read More"
+msgstr ""
+
+#: inpulse/single.php:200, inpulse/core/class/theme-helper.php:247
+msgid "Load More"
+msgstr ""
+
+#: inpulse/template-full-width.php:3
+msgid "Full Width Page"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:32
+msgid "Home"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:33
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:34
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:35
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:36
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:37
+msgid "Error 404"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:38
+msgid "Page %s"
+msgstr ""
+
+#: inpulse/templates/breadcrumbs.php:39
+msgid "Comment Page %s"
+msgstr ""
+
+#: inpulse/woocommerce/content-widget-reviews.php:46
+msgid "by %s"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:203
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:224
+msgid "verified owner"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:242
+msgid "Add a review"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:242
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:243
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:249, inpulse/core/includes/metabox/metabox-config.php:64, inpulse/core/includes/metabox/metabox-config.php:190
+msgid "Name"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:251
+msgid "Email"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:253
+msgid "Submit"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:264
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:268
+msgid "Your rating"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:269
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:270
+msgid "Perfect"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:271
+msgid "Good"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:272
+msgid "Average"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:273
+msgid "Not that bad"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:274
+msgid "Very poor"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:278
+msgid "Your review"
+msgstr ""
+
+#: inpulse/woocommerce/woocommerce-init.php:574
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:60
+msgid "Like"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:61
+msgid "Unlike"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:89
+msgid "Clear"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:90
+msgid "Clear color"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:92
+msgid "Select default color"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:93
+msgid "Select"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:94
+msgid "Color value"
+msgstr ""
+
+#: inpulse/core/class/dynamic-styles.php:123, inpulse/core/class/theme-verify.php:184, inpulse/core/class/theme-verify.php:296
+msgid "Thank you, your license has been validated"
+msgstr ""
+
+#: inpulse/core/class/single-post.php:834
+msgid "In:"
+msgstr ""
+
+#: inpulse/core/class/single-post.php:887
+msgid " View"
+msgstr ""
+
+#: inpulse/core/class/single-post.php:890
+msgid " Views"
+msgstr ""
+
+#: inpulse/core/class/single-post.php:935
+msgid "About"
+msgstr ""
+
+#: inpulse/core/class/theme-cat-meta.php:61, inpulse/core/class/theme-cat-meta.php:93
+msgid "Color"
+msgstr ""
+
+#: inpulse/core/class/theme-cat-meta.php:97, inpulse/core/class/theme-cat-meta.php:142, inpulse/core/class/walker-mega-menu.php:302, inpulse/core/includes/redux/redux-config.php:3940
+msgid "Background Image"
+msgstr ""
+
+#: inpulse/core/class/theme-cat-meta.php:101, inpulse/core/class/theme-cat-meta.php:110, inpulse/core/class/theme-cat-meta.php:128, inpulse/core/class/theme-cat-meta.php:153, inpulse/core/class/theme-cat-meta.php:171, inpulse/core/class/theme-cat-meta.php:195
+msgid "Add Image"
+msgstr ""
+
+#: inpulse/core/class/theme-cat-meta.php:102, inpulse/core/class/theme-cat-meta.php:111, inpulse/core/class/theme-cat-meta.php:129, inpulse/core/class/theme-cat-meta.php:154, inpulse/core/class/theme-cat-meta.php:172, inpulse/core/class/theme-cat-meta.php:196
+msgid "Remove Image"
+msgstr ""
+
+#: inpulse/core/class/theme-cat-meta.php:106, inpulse/core/class/theme-cat-meta.php:124, inpulse/core/class/theme-cat-meta.php:160, inpulse/core/class/theme-cat-meta.php:184
+msgid "Icon Image"
+msgstr ""
+
+#: inpulse/core/class/theme-helper.php:422
+msgid "Published in"
+msgstr ""
+
+#: inpulse/core/class/theme-helper.php:444
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inpulse/core/class/theme-helper.php:462
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inpulse/core/class/theme-likes.php:33
+msgid "Not permitted"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:59, inpulse/core/class/theme-panel.php:60
+msgid "WebGeniusLab"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:69, inpulse/core/class/theme-panel.php:70
+msgid "Welcome"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:78, inpulse/core/class/theme-panel.php:79
+msgid "Theme Plugins"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:88, inpulse/core/class/theme-panel.php:89
+msgid "Requirements"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:97, inpulse/core/class/theme-panel.php:98
+msgid "Activate Theme"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:105, inpulse/core/class/theme-panel.php:106
+msgid "Help Center"
+msgstr ""
+
+#: inpulse/core/class/theme-panel.php:113, inpulse/core/class/theme-panel.php:114, inpulse/core/includes/redux/redux-config.php:60, inpulse/core/includes/redux/redux-config.php:61
+msgid "Theme Options"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:44
+msgid "Main menu"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:69
+msgid "Add widget here to appear it in custom sidebar."
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:81
+msgid "Footer Column 1"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:85
+msgid "Footer Column 2"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:89
+msgid "Footer Column 3"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:93
+msgid "Footer Column 4"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:102
+msgid "This area will display in footer like a column. Add widget here to appear it in footer column."
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:112
+msgid "Shop Products"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:116
+msgid "Shop Single"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:120
+msgid "Shop Filter"
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:128
+msgid "This sidebar will display in WooCommerce Pages."
+msgstr ""
+
+#: inpulse/core/class/theme-support.php:138, inpulse/core/includes/metabox/metabox-config.php:1779, inpulse/core/includes/metabox/metabox-config.php:1784, inpulse/core/includes/redux/redux-config.php:410, inpulse/core/includes/redux/redux-config.php:460, inpulse/core/includes/redux/redux-config.php:2899, inpulse/core/includes/redux/redux-config.php:2940, inpulse/core/includes/redux/redux-config.php:3211, inpulse/core/includes/redux/redux-config.php:3241, inpulse/core/includes/redux/redux-config.php:5252
+msgid "Side Panel"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:79
+msgid " Theme is not activated! Please activate your copy and enjoy using all features of the %s theme"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:83
+msgid "Please activate the theme!"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:85
+msgid "Activate Now"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:126
+msgid "<strong>Your support period expired. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:128
+msgid "<strong>Your support period will be expired after %d days. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:135
+msgid "Remind Me Later"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:148
+msgid "Please enter a valid field"
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:158
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:165
+msgid "Purchase code is empty "
+msgstr ""
+
+#: inpulse/core/class/theme-verify.php:238
+msgid "Success"
+msgstr ""
+
+#: inpulse/core/class/walker-comment.php:42
+msgid "Pingback:"
+msgstr ""
+
+#: inpulse/core/class/walker-comment.php:42
+msgid "(Edit)"
+msgstr ""
+
+#: inpulse/core/class/walker-comment.php:61, inpulse/core/class/walker-mega-menu.php:572
+msgid "Edit"
+msgstr ""
+
+#: inpulse/core/class/walker-comment.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inpulse/core/class/walker-comment.php:70
+msgid "Reply"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:223
+msgid "All"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:255
+msgid "InPulse Mega Menu Settings:"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:255
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:259
+msgid "WGL Mega Menu Settings"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:266
+msgid "Enable The Mega Menu?"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:268
+msgid "Disable"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:270
+msgid "Posts - Vertical Sub-Categories Filter"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:271
+msgid "Posts - Horizontal Sub-Categories Filter"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:273
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:281
+msgid "Posts Count"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:289
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:305
+msgid "Upload"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:310
+msgid "Background Repeat"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:312
+msgid "No Repeat"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:313
+msgid "Repeat"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:314
+msgid "Repeat X"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:315
+msgid "Repeat Y"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:322
+msgid "Background Position X"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:324, inpulse/core/includes/metabox/metabox-config.php:314, inpulse/core/includes/metabox/metabox-config.php:1912, inpulse/core/includes/metabox/metabox-config.php:1941, inpulse/core/includes/redux/redux-config.php:2167, inpulse/core/includes/redux/redux-config.php:2210, inpulse/core/includes/redux/redux-config.php:2253, inpulse/core/includes/redux/redux-config.php:2296, inpulse/core/includes/redux/redux-config.php:2339, inpulse/core/includes/redux/redux-config.php:2382, inpulse/core/includes/redux/redux-config.php:2425, inpulse/core/includes/redux/redux-config.php:2468, inpulse/core/includes/redux/redux-config.php:2511, inpulse/core/includes/redux/redux-config.php:2554, inpulse/core/includes/redux/redux-config.php:2597, inpulse/core/includes/redux/redux-config.php:2640, inpulse/core/includes/redux/redux-config.php:3185, inpulse/core/includes/redux/redux-config.php:4729, inpulse/core/includes/redux/redux-config.php:4740, inpulse/core/includes/redux/redux-config.php:4824, inpulse/core/includes/redux/redux-config.php:5335, inpulse/core/includes/redux/redux-config.php:5357, inpulse/core/includes/redux/redux-config.php:6105, inpulse/core/includes/redux/redux-config.php:6125
+msgid "Right"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:325, inpulse/core/class/walker-mega-menu.php:336, inpulse/core/includes/metabox/metabox-config.php:313, inpulse/core/includes/metabox/metabox-config.php:1911, inpulse/core/includes/redux/redux-config.php:2166, inpulse/core/includes/redux/redux-config.php:2209, inpulse/core/includes/redux/redux-config.php:2252, inpulse/core/includes/redux/redux-config.php:2295, inpulse/core/includes/redux/redux-config.php:2338, inpulse/core/includes/redux/redux-config.php:2381, inpulse/core/includes/redux/redux-config.php:2424, inpulse/core/includes/redux/redux-config.php:2467, inpulse/core/includes/redux/redux-config.php:2510, inpulse/core/includes/redux/redux-config.php:2553, inpulse/core/includes/redux/redux-config.php:2596, inpulse/core/includes/redux/redux-config.php:2639, inpulse/core/includes/redux/redux-config.php:4728, inpulse/core/includes/redux/redux-config.php:4739, inpulse/core/includes/redux/redux-config.php:4823, inpulse/core/includes/redux/redux-config.php:5334, inpulse/core/includes/redux/redux-config.php:6104, inpulse/core/includes/redux/redux-config.php:6124
+msgid "Center"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:326, inpulse/core/includes/metabox/metabox-config.php:312, inpulse/core/includes/metabox/metabox-config.php:1910, inpulse/core/includes/metabox/metabox-config.php:1940, inpulse/core/includes/redux/redux-config.php:2165, inpulse/core/includes/redux/redux-config.php:2208, inpulse/core/includes/redux/redux-config.php:2251, inpulse/core/includes/redux/redux-config.php:2294, inpulse/core/includes/redux/redux-config.php:2337, inpulse/core/includes/redux/redux-config.php:2380, inpulse/core/includes/redux/redux-config.php:2423, inpulse/core/includes/redux/redux-config.php:2466, inpulse/core/includes/redux/redux-config.php:2509, inpulse/core/includes/redux/redux-config.php:2552, inpulse/core/includes/redux/redux-config.php:2595, inpulse/core/includes/redux/redux-config.php:2638, inpulse/core/includes/redux/redux-config.php:3184, inpulse/core/includes/redux/redux-config.php:4727, inpulse/core/includes/redux/redux-config.php:4738, inpulse/core/includes/redux/redux-config.php:4822, inpulse/core/includes/redux/redux-config.php:5333, inpulse/core/includes/redux/redux-config.php:5356, inpulse/core/includes/redux/redux-config.php:6103, inpulse/core/includes/redux/redux-config.php:6123
+msgid "Left"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:333
+msgid "Background Position Y"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:335, inpulse/core/includes/redux/redux-config.php:2176, inpulse/core/includes/redux/redux-config.php:2219, inpulse/core/includes/redux/redux-config.php:2262, inpulse/core/includes/redux/redux-config.php:2305, inpulse/core/includes/redux/redux-config.php:2348, inpulse/core/includes/redux/redux-config.php:2391, inpulse/core/includes/redux/redux-config.php:2434, inpulse/core/includes/redux/redux-config.php:2477, inpulse/core/includes/redux/redux-config.php:2520, inpulse/core/includes/redux/redux-config.php:2563, inpulse/core/includes/redux/redux-config.php:2606, inpulse/core/includes/redux/redux-config.php:2649
+msgid "Top"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:337, inpulse/core/includes/redux/redux-config.php:2178, inpulse/core/includes/redux/redux-config.php:2221, inpulse/core/includes/redux/redux-config.php:2264, inpulse/core/includes/redux/redux-config.php:2307, inpulse/core/includes/redux/redux-config.php:2350, inpulse/core/includes/redux/redux-config.php:2393, inpulse/core/includes/redux/redux-config.php:2436, inpulse/core/includes/redux/redux-config.php:2479, inpulse/core/includes/redux/redux-config.php:2522, inpulse/core/includes/redux/redux-config.php:2565, inpulse/core/includes/redux/redux-config.php:2608, inpulse/core/includes/redux/redux-config.php:2651
+msgid "Bottom"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:344
+msgid "Min Height"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:352
+msgid "Max Width"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:360
+msgid "Padding Left"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:367
+msgid "Padding Right"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:375
+msgid "Hide Mega Menu headings?"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: inpulse/core/class/walker-mega-menu.php:522
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: inpulse/core/class/walker-mega-menu.php:526
+msgid "%s (Pending)"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:540
+msgid "sub item"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:555
+msgid "Move up"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:568
+msgid "Move down"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:572
+msgid "Edit menu item"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:581, inpulse/core/includes/metabox/metabox-config.php:818
+msgid "URL"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:588
+msgid "Navigation Label"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:594
+msgid "Title Attribute"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:601, inpulse/core/includes/redux/redux-config.php:1393, inpulse/core/includes/redux/redux-config.php:1586
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:606
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:612
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:618, inpulse/core/includes/metabox/metabox-config.php:68, inpulse/core/includes/metabox/metabox-config.php:187, inpulse/core/includes/metabox/metabox-config.php:194
+msgid "Description"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:620
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:631
+msgid "Move"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:632
+msgid "Up one"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:633
+msgid "Down one"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:636
+msgid "To the top"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:648
+msgid "Original: %s"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:661
+msgid "Remove"
+msgstr ""
+
+#: inpulse/core/class/walker-mega-menu.php:662
+msgid "Cancel"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:26
+msgid "Activate your Licence"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:29
+msgid "Welcome and thank you for Choosing %s Theme!"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:31
+msgid "The %s theme needs to be activated to enable all features, import demo and Support."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:37
+msgid "How to find purchase code?"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:41, inpulse/core/dashboard/tpl-view-activate-theme.php:42
+msgid "E-mail address"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:46, inpulse/core/dashboard/tpl-view-activate-theme.php:47
+msgid "Enter Your Purchase Code"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:60, inpulse/core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:77
+msgid "Your theme's license is activated successfully."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:96
+msgid "Deactivate"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:104
+msgid "1 license  = 1 domain = 1 website"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-activate-theme.php:105
+msgid "You can always buy more licences for this product:"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:70
+msgid "Theme Config"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:79, inpulse/core/dashboard/tpl-view-status.php:300, inpulse/core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:83
+msgid "Author URL"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:97
+msgid "Server Settings"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:113
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:128
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:133
+msgid " You cannot upload images, themes and plugins that have a size bigger than this value: "
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:140, inpulse/core/dashboard/tpl-view-status.php:167, inpulse/core/dashboard/tpl-view-status.php:200, inpulse/core/dashboard/tpl-view-status.php:232, inpulse/core/dashboard/tpl-view-status.php:266, inpulse/core/dashboard/tpl-view-status.php:320
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:149
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:161
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:183
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:194
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:216
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:227
+msgid ". We recommend minimum value: %d. Max input vars limitation will truncate POST data such as menus."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:247
+msgid "MySql Version"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:251
+msgid "Max upload size"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:261
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:287
+msgid "WordPress Settings"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:292
+msgid "Home Url"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:296
+msgid "Site Url"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:304
+msgid "Memory Limit"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:315
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:345
+msgid "WP_DEBUG is enabled."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:346
+msgid " How to disable WP_DEBUG mode."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-status.php:349
+msgid "WP_DEBUG is disabled."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:30
+msgid "Need Help? WebGeniusLab Help Center Here"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:35
+msgid "Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/item_support_policy\">Support Policy</a> before submitting a ticket and make sure that your question related to our product issues."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:39
+msgid "If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:64
+msgid "Before submitting a ticket, please read the documentation. Probably, your issue already described."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:71
+msgid "Visit Documentation"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:93
+msgid "Video Tutorials"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:100
+msgid "There you can watch tutorial for main issues. How to import demo content? How to create a Mega Menu? etc.."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:107
+msgid "Watch Tutorials"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:129
+msgid "Support forum"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:136
+msgid "If you did not find an answer to your question, submit a ticket with well describe your issue."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:143
+msgid "Create a ticket"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-theme-helper.php:156
+msgid "Do You have some other questions? Need Customization? Pre-purchase questions? Ask it <a  target=\"_blank\"  href=\"mailto:webgeniuslab@gmail.com\">there!</a>"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:30
+msgid "Welcome to"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:35
+msgid "Version - "
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:40
+msgid "%s is already installed and ready to use! Let's build something impressive."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:54
+msgid "Just complete the steps below and you will be able to use all functionalities of %s theme by WebGeniusLab:"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:60
+msgid "Step 1"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:62
+msgid "Activate your license."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:65
+msgid "Important:"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:67
+msgid "one license  only for one website"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:72
+msgid "Step 2"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:75
+msgid "Check <a target=\"_blank\" href=\"%s\">requirements</a> to avoid errors with your WordPress."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:81
+msgid "Step 3"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:83
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:87
+msgid "Step 4"
+msgstr ""
+
+#: inpulse/core/dashboard/tpl-view-weclome.php:89
+msgid "Import demo content"
+msgstr ""
+
+#: inpulse/core/includes/default-options.php:26
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:334, inpulse/core/tgm/wgl-tgm.php:60
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:335, inpulse/core/tgm/wgl-tgm.php:61
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:337, inpulse/core/tgm/wgl-tgm.php:62
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:340, inpulse/core/tgm/wgl-tgm.php:63
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:341, inpulse/core/tgm/wgl-tgm.php:64
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:345, inpulse/core/tgm/wgl-tgm.php:65
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:349, inpulse/core/tgm/wgl-tgm.php:70
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:353
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:357, inpulse/core/tgm/wgl-tgm.php:67
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:361, inpulse/core/tgm/wgl-tgm.php:68
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:365, inpulse/core/tgm/wgl-tgm.php:72
+msgid "Begin installing plugins"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:369
+msgid "Begin updating plugins"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:373, inpulse/core/tgm/wgl-tgm.php:73
+msgid "Begin activating plugins"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:377, inpulse/core/tgm/wgl-tgm.php:74
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:378, inpulse/core/tgm/class-tgm-plugin-activation.php:897, inpulse/core/tgm/class-tgm-plugin-activation.php:2603, inpulse/core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:379, inpulse/core/tgm/class-tgm-plugin-activation.php:3229, inpulse/core/tgm/wgl-tgm.php:75
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:380, inpulse/core/tgm/class-tgm-plugin-activation.php:3022
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:382
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:384
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:386
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:1004
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:1004, inpulse/core/tgm/class-tgm-plugin-activation.php:1007
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:1007
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:1191, inpulse/core/tgm/class-tgm-plugin-activation.php:3018
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2052
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2412
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2458
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2462
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2466
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2470
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2552
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2673
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2678
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2684
+msgid "Activate %2$s"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3568
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3571
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3573
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3577
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3579
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3579, inpulse/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Show Details"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3579, inpulse/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Hide Details"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3582
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3585
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inpulse/core/tgm/class-tgm-plugin-activation.php:3590
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:15
+msgid "InPulse Core"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:24
+msgid "Elementor"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:29
+msgid "Revolution Slider"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:35
+msgid "WooCommerce"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:39
+msgid "Contact Form 7"
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:66
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:69
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:71
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: inpulse/core/tgm/wgl-tgm.php:76
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inpulse/templates/header/section-header.php:1307
+msgid "Type To Search"
+msgstr ""
+
+#: inpulse/templates/header/section-header.php:1482
+msgid "Logout"
+msgstr ""
+
+#: inpulse/templates/header/section-header.php:1484, inpulse/core/includes/redux/redux-config.php:407, inpulse/core/includes/redux/redux-config.php:456, inpulse/core/includes/redux/redux-config.php:2901, inpulse/core/includes/redux/redux-config.php:2942, inpulse/core/includes/redux/redux-config.php:3213, inpulse/core/includes/redux/redux-config.php:3243
+msgid "Login"
+msgstr ""
+
+#: inpulse/templates/header/section-header.php:1625
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: inpulse/templates/header/section-header.php:1651, inpulse/core/includes/redux/redux-config.php:406, inpulse/core/includes/redux/redux-config.php:455, inpulse/core/includes/redux/redux-config.php:2900, inpulse/core/includes/redux/redux-config.php:2941, inpulse/core/includes/redux/redux-config.php:3212, inpulse/core/includes/redux/redux-config.php:3242, inpulse/core/includes/redux/redux-config.php:6308
+msgid "Cart"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:170
+msgid " Tag"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:174
+msgid "Author:"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:178
+msgid "Error Page"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:181, inpulse/core/includes/redux/redux-config.php:5938
+msgid "Shop"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:183, inpulse/core/includes/redux/redux-config.php:4088, inpulse/core/includes/redux/redux-config.php:4596
+msgid "Archive"
+msgstr ""
+
+#: inpulse/templates/header/section-page_title.php:226
+msgid "No Posts"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:25, inpulse/woocommerce/cart/cart.php:58
+msgid "Product"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:27, inpulse/woocommerce/cart/cart.php:78
+msgid "Price"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:28, inpulse/woocommerce/cart/cart.php:84, inpulse/woocommerce/global/quantity-input.php:24, inpulse/woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:29, inpulse/woocommerce/cart/cart.php:106
+msgid "Total"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:73
+msgid "Available on backorder"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:118
+msgid "Remove this item"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:137, inpulse/woocommerce/cart/cart.php:137
+msgid "Update cart"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:154
+msgid "Enter Coupon"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:155
+msgid "Coupon code"
+msgstr ""
+
+#: inpulse/woocommerce/cart/cart.php:156, inpulse/woocommerce/cart/cart.php:156
+msgid "Apply coupon"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: inpulse/woocommerce/global/quantity-input.php:24
+msgid "%s quantity"
+msgstr ""
+
+#: inpulse/woocommerce/global/quantity-input.php:40
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inpulse/woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:46
+msgid "Team Options"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:51
+msgid "Member Department"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:57
+msgid "Member Info"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:72, inpulse/core/includes/redux/redux-config.php:1388, inpulse/core/includes/redux/redux-config.php:1581
+msgid "Link"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:78
+msgid "Social Icons"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:84
+msgid "Select an icon"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:89
+msgid "Info Background Image"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:102
+msgid "Portfolio Options"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:107, inpulse/core/includes/metabox/metabox-config.php:661, inpulse/core/includes/redux/redux-config.php:4375
+msgid "Featured Image"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:112, inpulse/core/includes/metabox/metabox-config.php:275, inpulse/core/includes/metabox/metabox-config.php:546, inpulse/core/includes/metabox/metabox-config.php:666, inpulse/core/includes/metabox/metabox-config.php:845, inpulse/core/includes/metabox/metabox-config.php:1048, inpulse/core/includes/metabox/metabox-config.php:1154, inpulse/core/includes/metabox/metabox-config.php:1789
+msgid "Custom"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:118, inpulse/core/includes/metabox/metabox-config.php:657, inpulse/core/includes/metabox/metabox-config.php:672
+msgid "Featured Image Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:122, inpulse/core/includes/metabox/metabox-config.php:217, inpulse/core/includes/metabox/metabox-config.php:229, inpulse/core/includes/metabox/metabox-config.php:241, inpulse/core/includes/metabox/metabox-config.php:253, inpulse/core/includes/metabox/metabox-config.php:446, inpulse/core/includes/metabox/metabox-config.php:676, inpulse/core/includes/metabox/metabox-config.php:846, inpulse/core/includes/metabox/metabox-config.php:1385, inpulse/core/includes/metabox/metabox-config.php:1971, inpulse/core/includes/metabox/metabox-config.php:2086, inpulse/core/includes/metabox/metabox-config.php:2241, inpulse/core/includes/redux/redux-config.php:4378
+msgid "Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:123, inpulse/core/includes/metabox/metabox-config.php:677, inpulse/core/includes/redux/redux-config.php:4379
+msgid "Replace"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:136, inpulse/core/includes/metabox/metabox-config.php:690, inpulse/core/includes/redux/redux-config.php:4386
+msgid "Featured Image Replace"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:150
+msgid "Show Title on single"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:156
+msgid "Add Custom Link for Portfolio Grid"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:160
+msgid "Custom Url for Portfolio Grid"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:172
+msgid "Open Custom Url in New Window"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:182
+msgid "Info"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:198
+msgid "Url"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:204
+msgid "Info Description"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:208
+msgid "Info description is shown in one row with a main info"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:211, inpulse/core/includes/redux/redux-config.php:4692
+msgid "Categories On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:216, inpulse/core/includes/metabox/metabox-config.php:228, inpulse/core/includes/metabox/metabox-config.php:240, inpulse/core/includes/metabox/metabox-config.php:252, inpulse/core/includes/metabox/metabox-config.php:445, inpulse/core/includes/metabox/metabox-config.php:1384, inpulse/core/includes/metabox/metabox-config.php:1970, inpulse/core/includes/metabox/metabox-config.php:2085, inpulse/core/includes/metabox/metabox-config.php:2240
+msgid "On"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:223
+msgid "Date On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:235, inpulse/core/includes/redux/redux-config.php:4979
+msgid "Tags On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:247
+msgid "Share Links On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:265
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:270, inpulse/core/includes/metabox/metabox-config.php:541
+msgid "Post Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:281, inpulse/core/includes/metabox/metabox-config.php:537
+msgid "Post Layout Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:290
+msgid "Post Content Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:294, inpulse/core/includes/metabox/metabox-config.php:556, inpulse/core/includes/redux/redux-config.php:4307, inpulse/core/includes/redux/redux-config.php:4810
+msgid "Title First"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:295, inpulse/core/includes/metabox/metabox-config.php:557, inpulse/core/includes/redux/redux-config.php:4308, inpulse/core/includes/redux/redux-config.php:4811
+msgid "Image First"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:296, inpulse/core/includes/metabox/metabox-config.php:558, inpulse/core/includes/redux/redux-config.php:4309, inpulse/core/includes/redux/redux-config.php:4812
+msgid "Overlay Image"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:297, inpulse/core/includes/redux/redux-config.php:4813
+msgid "Overlay Image with Info"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:308
+msgid "Alignment"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:325, inpulse/core/includes/metabox/metabox-config.php:571
+msgid "Spacing"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:349, inpulse/core/includes/redux/redux-config.php:4850
+msgid "Add Portfolio Parallax"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:360, inpulse/core/includes/metabox/metabox-config.php:1533
+msgid "Prallax Speed"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:376, inpulse/core/includes/metabox/metabox-config.php:606, inpulse/core/includes/metabox/metabox-config.php:1647, inpulse/core/includes/redux/redux-config.php:4334, inpulse/core/includes/redux/redux-config.php:4870
+msgid "Responsive Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:389, inpulse/core/includes/metabox/metabox-config.php:618, inpulse/core/includes/metabox/metabox-config.php:1666, inpulse/core/includes/redux/redux-config.php:3678, inpulse/core/includes/redux/redux-config.php:4341, inpulse/core/includes/redux/redux-config.php:4880
+msgid "Screen breakpoint"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:405, inpulse/core/includes/metabox/metabox-config.php:633, inpulse/core/includes/metabox/metabox-config.php:1694
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:435, inpulse/core/includes/metabox/metabox-config.php:476, inpulse/core/includes/redux/redux-config.php:5046
+msgid "Related Portfolio"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:441
+msgid "Portfolio Related"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:453
+msgid "Portfolio Related Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:463, inpulse/core/includes/redux/redux-config.php:5052
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:473, inpulse/core/includes/metabox/metabox-config.php:861, inpulse/core/includes/redux/redux-config.php:4543, inpulse/core/includes/redux/redux-config.php:5045
+msgid "Title"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:484, inpulse/core/includes/metabox/metabox-config.php:872
+msgid "Categories"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:496, inpulse/core/includes/metabox/metabox-config.php:884, inpulse/core/includes/redux/redux-config.php:3836, inpulse/core/includes/redux/redux-config.php:4559
+msgid "Columns"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:500, inpulse/core/includes/metabox/metabox-config.php:889
+msgid "2"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:501, inpulse/core/includes/metabox/metabox-config.php:890
+msgid "3"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:502, inpulse/core/includes/metabox/metabox-config.php:891
+msgid "4"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:513, inpulse/core/includes/metabox/metabox-config.php:902, inpulse/core/includes/redux/redux-config.php:4572, inpulse/core/includes/redux/redux-config.php:5071
+msgid "Number of Related Items"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:532
+msgid "Post Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:552
+msgid "Post Layout Type"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:594
+msgid "Apply Animation"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:708
+msgid "Post Format Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:714
+msgid "Standard Post( Enabled only Featured Image for this post format)"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:725
+msgid "Gallery Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:729
+msgid "Add Images"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:736
+msgid "Video Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:740
+msgid "Video Style"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:744
+msgid "Background Video"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:745
+msgid "Popup"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:751
+msgid "Start Video"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:762
+msgid "End Video"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:772, inpulse/core/includes/metabox/metabox-config.php:808
+msgid "oEmbed URL"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:778
+msgid "Quote Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:782
+msgid "Quote Text"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:787
+msgid "Author Name"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:792
+msgid "Author Position"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:797
+msgid "Author Avatar"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:804
+msgid "Audio Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:814
+msgid "Link Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:823
+msgid "Text"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:834
+msgid "Related Blog Post"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:840
+msgid "Related Options"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:852
+msgid "Related Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:888
+msgid "1"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:918
+msgid "Display items carousel for this blog post"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:937
+msgid "Page Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:942, inpulse/core/includes/redux/redux-config.php:5387
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:954
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:964, inpulse/core/includes/redux/redux-config.php:5407
+msgid "Page Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:978, inpulse/core/includes/redux/redux-config.php:5414
+msgid "Page Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:996, inpulse/core/includes/redux/redux-config.php:5425, inpulse/core/includes/redux/redux-config.php:6005
+msgid "Sticky Sidebar On?"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1006, inpulse/core/includes/redux/redux-config.php:5432, inpulse/core/includes/redux/redux-config.php:6012
+msgid "Sidebar Side Gap"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1038, inpulse/core/includes/metabox/metabox-config.php:1043
+msgid "Page Colors"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1055
+msgid "Colors Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1064, inpulse/core/includes/redux/redux-config.php:5686
+msgid "General Theme Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1077, inpulse/core/includes/redux/redux-config.php:5694
+msgid "Secondary Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1090, inpulse/core/includes/redux/redux-config.php:5702
+msgid "Body Background Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1103
+msgid "Scroll Up Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1112, inpulse/core/includes/redux/redux-config.php:208
+msgid "Button Background Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1125, inpulse/core/includes/redux/redux-config.php:200
+msgid "Button Arrow Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1144, inpulse/core/includes/metabox/metabox-config.php:1149, inpulse/core/includes/redux/redux-config.php:254, inpulse/core/includes/redux/redux-config.php:418, inpulse/core/includes/redux/redux-config.php:467, inpulse/core/includes/redux/redux-config.php:2911, inpulse/core/includes/redux/redux-config.php:2946, inpulse/core/includes/redux/redux-config.php:3220, inpulse/core/includes/redux/redux-config.php:3250, inpulse/core/includes/redux/redux-config.php:3285, inpulse/core/includes/redux/redux-config.php:3307
+msgid "Logo"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1161
+msgid "Logo Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1170, inpulse/core/includes/redux/redux-config.php:261
+msgid "Header Logo"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1182, inpulse/core/includes/redux/redux-config.php:266
+msgid "Enable Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1191, inpulse/core/includes/redux/redux-config.php:274
+msgid "Set Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1205, inpulse/core/includes/redux/redux-config.php:283
+msgid "Sticky Logo"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1217, inpulse/core/includes/redux/redux-config.php:288
+msgid "Enable Sticky Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1226, inpulse/core/includes/redux/redux-config.php:296
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1239, inpulse/core/includes/redux/redux-config.php:307
+msgid "Mobile Logo"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1251, inpulse/core/includes/metabox/metabox-config.php:1285, inpulse/core/includes/redux/redux-config.php:312
+msgid "Enable Mobile Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1260, inpulse/core/includes/metabox/metabox-config.php:1294, inpulse/core/includes/redux/redux-config.php:320
+msgid "Set Mobile Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1273, inpulse/core/includes/redux/redux-config.php:331
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1313, inpulse/core/includes/redux/redux-config.php:249
+msgid "Header"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1318, inpulse/core/includes/redux/redux-config.php:2673
+msgid "Header Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1322
+msgid "default"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1323
+msgid "custom"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1324
+msgid "hide"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1330, inpulse/core/includes/redux/redux-config.php:356, inpulse/core/includes/redux/redux-config.php:378
+msgid "Header Builder"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1345
+msgid "Menu "
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1358, inpulse/core/includes/redux/redux-config.php:2777
+msgid "Sticky Header"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1374, inpulse/core/includes/metabox/metabox-config.php:1380, inpulse/core/includes/metabox/metabox-config.php:1556, inpulse/core/includes/redux/redux-config.php:3470
+msgid "Page Title"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1392, inpulse/core/includes/redux/redux-config.php:3488
+msgid "Page Title Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1402, inpulse/core/includes/redux/redux-config.php:3495, inpulse/core/includes/redux/redux-config.php:4753, inpulse/core/includes/redux/redux-config.php:5192, inpulse/core/includes/redux/redux-config.php:6136
+msgid "Use Background?"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1413, inpulse/core/includes/metabox/metabox-config.php:2182, inpulse/core/includes/redux/redux-config.php:3501, inpulse/core/includes/redux/redux-config.php:4759, inpulse/core/includes/redux/redux-config.php:5203, inpulse/core/includes/redux/redux-config.php:5320, inpulse/core/includes/redux/redux-config.php:6142
+msgid "Background"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1429, inpulse/core/includes/metabox/metabox-config.php:1680, inpulse/core/includes/redux/redux-config.php:3521, inpulse/core/includes/redux/redux-config.php:3691
+msgid "Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1443, inpulse/core/includes/redux/redux-config.php:3557, inpulse/core/includes/redux/redux-config.php:4725, inpulse/core/includes/redux/redux-config.php:6101
+msgid "Title Alignment"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1447, inpulse/core/includes/metabox/metabox-config.php:1582
+msgid "left"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1448, inpulse/core/includes/metabox/metabox-config.php:1583
+msgid "center"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1449, inpulse/core/includes/metabox/metabox-config.php:1584
+msgid "right"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1460, inpulse/core/includes/redux/redux-config.php:3530, inpulse/core/includes/redux/redux-config.php:3708, inpulse/core/includes/redux/redux-config.php:4776, inpulse/core/includes/redux/redux-config.php:5216, inpulse/core/includes/redux/redux-config.php:6159
+msgid "Paddings Top/Bottom"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1481, inpulse/core/includes/redux/redux-config.php:3545, inpulse/core/includes/redux/redux-config.php:4791, inpulse/core/includes/redux/redux-config.php:5232, inpulse/core/includes/redux/redux-config.php:6174
+msgid "Margin Bottom"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1500
+msgid "Border Top Switch"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1509, inpulse/core/includes/redux/redux-config.php:6192
+msgid "Border Top Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1524, inpulse/core/includes/redux/redux-config.php:3593
+msgid "Parallax Switch"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1547, inpulse/core/includes/redux/redux-config.php:5185
+msgid "Custom Page Title"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1568, inpulse/core/includes/metabox/metabox-config.php:1739
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1578, inpulse/core/includes/redux/redux-config.php:3581
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1596
+msgid "Page Title Typography"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1605, inpulse/core/includes/metabox/metabox-config.php:1716, inpulse/core/includes/redux/redux-config.php:3624, inpulse/core/includes/redux/redux-config.php:3718
+msgid "Page Title Font"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1626, inpulse/core/includes/metabox/metabox-config.php:1750, inpulse/core/includes/redux/redux-config.php:3644, inpulse/core/includes/redux/redux-config.php:3746
+msgid "Page Title Breadcrumbs Font"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1657, inpulse/core/includes/redux/redux-config.php:3672
+msgid "Responsive Layout On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1796
+msgid "Side Panel Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1805, inpulse/core/includes/metabox/metabox-config.php:2125, inpulse/core/includes/redux/redux-config.php:3813, inpulse/core/includes/redux/redux-config.php:5259
+msgid "Content Type"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1809
+msgid "Widgets"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1810, inpulse/core/includes/metabox/metabox-config.php:2130
+msgid "Page"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1839, inpulse/core/includes/metabox/metabox-config.php:2159, inpulse/core/includes/metabox/metabox-config.php:2297, inpulse/core/includes/redux/redux-config.php:3907, inpulse/core/includes/redux/redux-config.php:4064, inpulse/core/includes/redux/redux-config.php:5286
+msgid "Paddings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1863, inpulse/core/includes/redux/redux-config.php:5298
+msgid "Title Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1877, inpulse/core/includes/metabox/metabox-config.php:2269, inpulse/core/includes/redux/redux-config.php:1425, inpulse/core/includes/redux/redux-config.php:1617, inpulse/core/includes/redux/redux-config.php:4044, inpulse/core/includes/redux/redux-config.php:5309
+msgid "Text Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1891, inpulse/core/includes/metabox/metabox-config.php:2283, inpulse/core/includes/redux/redux-config.php:607, inpulse/core/includes/redux/redux-config.php:775, inpulse/core/includes/redux/redux-config.php:1449, inpulse/core/includes/redux/redux-config.php:1641, inpulse/core/includes/redux/redux-config.php:3963, inpulse/core/includes/redux/redux-config.php:4052
+msgid "Background Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1906, inpulse/core/includes/redux/redux-config.php:5331
+msgid "Text Align"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1923, inpulse/core/includes/redux/redux-config.php:5344
+msgid "Width"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1936, inpulse/core/includes/redux/redux-config.php:5354
+msgid "Position"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1960, inpulse/core/includes/metabox/metabox-config.php:1965, inpulse/core/includes/redux/redux-config.php:5458
+msgid "Social Shares"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1978, inpulse/core/includes/redux/redux-config.php:5471
+msgid "Choose your share style."
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1982, inpulse/core/includes/redux/redux-config.php:175, inpulse/core/includes/redux/redux-config.php:5473
+msgid "Standard"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1983, inpulse/core/includes/redux/redux-config.php:5474
+msgid "Hovered"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:1995, inpulse/core/includes/redux/redux-config.php:5482
+msgid "Fixed Position On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2004
+msgid "Offset Top(in percentage)"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2015, inpulse/core/includes/redux/redux-config.php:5496
+msgid "Measurement units defined as \"percents\" while position fixed is enabled, and as \"pixels\" while position is off."
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2019, inpulse/core/includes/redux/redux-config.php:5505
+msgid "Facebook Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2029, inpulse/core/includes/redux/redux-config.php:5512
+msgid "Twitter Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2039, inpulse/core/includes/redux/redux-config.php:5519
+msgid "Linkedin Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2049, inpulse/core/includes/redux/redux-config.php:5526
+msgid "Pinterest Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2059, inpulse/core/includes/redux/redux-config.php:5533
+msgid "Tumblr Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2075, inpulse/core/includes/metabox/metabox-config.php:2080, inpulse/core/includes/redux/redux-config.php:3770
+msgid "Footer"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2092, inpulse/core/includes/redux/redux-config.php:3788
+msgid "Footer Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2102, inpulse/core/includes/redux/redux-config.php:3795
+msgid "Add Wave"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2111, inpulse/core/includes/redux/redux-config.php:3804
+msgid "Set Wave Height"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2199, inpulse/core/includes/redux/redux-config.php:3984
+msgid "Add Border Top"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2208, inpulse/core/includes/redux/redux-config.php:631, inpulse/core/includes/redux/redux-config.php:799, inpulse/core/includes/redux/redux-config.php:1473, inpulse/core/includes/redux/redux-config.php:1665
+msgid "Border Color"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2230, inpulse/core/includes/metabox/metabox-config.php:2235, inpulse/core/includes/redux/redux-config.php:4006
+msgid "Copyright"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2247, inpulse/core/includes/redux/redux-config.php:4024
+msgid "Copyright Settings"
+msgstr ""
+
+#: inpulse/core/includes/metabox/metabox-config.php:2256, inpulse/core/includes/redux/redux-config.php:4030
+msgid "Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:120
+msgid "General"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:127
+msgid "Use minify css/js files"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:128
+msgid "Recommended for site load speed."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:133
+msgid "Preloader Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:139
+msgid "Preloader On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:145
+msgid "Preloader Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:146
+msgid "Set Preloader Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:154
+msgid "Preloader Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:167
+msgid "Search Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:173
+msgid "Choose your search style."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:176
+msgid "Alternative"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:188
+msgid "Scroll Up Button Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:194
+msgid "Button On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:222, inpulse/core/includes/redux/redux-config.php:229, inpulse/core/includes/redux/redux-config.php:238
+msgid "Custom JS"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:230
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:239
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:336
+msgid "Enable Mobile Menu Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:344
+msgid "Set Mobile Menu Logo Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:363
+msgid "Header default preset"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:367
+msgid ""
+"Please choose preset to use this in all Pages. \n"
+"                    You also can choose for every page your custom header present in page's option select(page metabox)."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:373
+msgid "Custom Preset"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:383, inpulse/core/includes/redux/redux-config.php:432, inpulse/core/includes/redux/redux-config.php:2885, inpulse/core/includes/redux/redux-config.php:2920, inpulse/core/includes/redux/redux-config.php:3198, inpulse/core/includes/redux/redux-config.php:3228, inpulse/core/includes/redux/redux-config.php:3270, inpulse/core/includes/redux/redux-config.php:3292
+msgid "HTML 1"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:384, inpulse/core/includes/redux/redux-config.php:433, inpulse/core/includes/redux/redux-config.php:2886, inpulse/core/includes/redux/redux-config.php:2921, inpulse/core/includes/redux/redux-config.php:3199, inpulse/core/includes/redux/redux-config.php:3229, inpulse/core/includes/redux/redux-config.php:3271, inpulse/core/includes/redux/redux-config.php:3293
+msgid "HTML 2"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:385, inpulse/core/includes/redux/redux-config.php:434, inpulse/core/includes/redux/redux-config.php:2887, inpulse/core/includes/redux/redux-config.php:2922, inpulse/core/includes/redux/redux-config.php:3200, inpulse/core/includes/redux/redux-config.php:3230, inpulse/core/includes/redux/redux-config.php:3272, inpulse/core/includes/redux/redux-config.php:3294
+msgid "HTML 3"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:386, inpulse/core/includes/redux/redux-config.php:435, inpulse/core/includes/redux/redux-config.php:2888, inpulse/core/includes/redux/redux-config.php:2923, inpulse/core/includes/redux/redux-config.php:3201, inpulse/core/includes/redux/redux-config.php:3231, inpulse/core/includes/redux/redux-config.php:3273, inpulse/core/includes/redux/redux-config.php:3295
+msgid "HTML 4"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:387, inpulse/core/includes/redux/redux-config.php:436, inpulse/core/includes/redux/redux-config.php:2889, inpulse/core/includes/redux/redux-config.php:2924, inpulse/core/includes/redux/redux-config.php:3202, inpulse/core/includes/redux/redux-config.php:3232, inpulse/core/includes/redux/redux-config.php:3274, inpulse/core/includes/redux/redux-config.php:3296
+msgid "HTML 5"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:388, inpulse/core/includes/redux/redux-config.php:437, inpulse/core/includes/redux/redux-config.php:2890, inpulse/core/includes/redux/redux-config.php:2925, inpulse/core/includes/redux/redux-config.php:3203, inpulse/core/includes/redux/redux-config.php:3233, inpulse/core/includes/redux/redux-config.php:3275, inpulse/core/includes/redux/redux-config.php:3297
+msgid "HTML 6"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:389, inpulse/core/includes/redux/redux-config.php:438
+msgid "HTML 7"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:390, inpulse/core/includes/redux/redux-config.php:439
+msgid "HTML 8"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:391, inpulse/core/includes/redux/redux-config.php:440, inpulse/core/includes/redux/redux-config.php:2892, inpulse/core/includes/redux/redux-config.php:2927, inpulse/core/includes/redux/redux-config.php:3204, inpulse/core/includes/redux/redux-config.php:3234, inpulse/core/includes/redux/redux-config.php:3276, inpulse/core/includes/redux/redux-config.php:3298
+msgid "WPML"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:392, inpulse/core/includes/redux/redux-config.php:393, inpulse/core/includes/redux/redux-config.php:394, inpulse/core/includes/redux/redux-config.php:395, inpulse/core/includes/redux/redux-config.php:396, inpulse/core/includes/redux/redux-config.php:397, inpulse/core/includes/redux/redux-config.php:441, inpulse/core/includes/redux/redux-config.php:442, inpulse/core/includes/redux/redux-config.php:443, inpulse/core/includes/redux/redux-config.php:444, inpulse/core/includes/redux/redux-config.php:445, inpulse/core/includes/redux/redux-config.php:446, inpulse/core/includes/redux/redux-config.php:2893, inpulse/core/includes/redux/redux-config.php:2894, inpulse/core/includes/redux/redux-config.php:2895, inpulse/core/includes/redux/redux-config.php:2896, inpulse/core/includes/redux/redux-config.php:2897, inpulse/core/includes/redux/redux-config.php:2898, inpulse/core/includes/redux/redux-config.php:2928, inpulse/core/includes/redux/redux-config.php:2929, inpulse/core/includes/redux/redux-config.php:2930, inpulse/core/includes/redux/redux-config.php:2931, inpulse/core/includes/redux/redux-config.php:2932, inpulse/core/includes/redux/redux-config.php:2933
+msgid "|"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:398, inpulse/core/includes/redux/redux-config.php:447, inpulse/core/includes/redux/redux-config.php:2905, inpulse/core/includes/redux/redux-config.php:2936, inpulse/core/includes/redux/redux-config.php:3207, inpulse/core/includes/redux/redux-config.php:3237, inpulse/core/includes/redux/redux-config.php:3279, inpulse/core/includes/redux/redux-config.php:3301
+msgid "Spacer 3"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:399, inpulse/core/includes/redux/redux-config.php:448, inpulse/core/includes/redux/redux-config.php:2906, inpulse/core/includes/redux/redux-config.php:2937, inpulse/core/includes/redux/redux-config.php:3208, inpulse/core/includes/redux/redux-config.php:3238, inpulse/core/includes/redux/redux-config.php:3280, inpulse/core/includes/redux/redux-config.php:3302
+msgid "Spacer 4"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:400, inpulse/core/includes/redux/redux-config.php:449, inpulse/core/includes/redux/redux-config.php:2907, inpulse/core/includes/redux/redux-config.php:2938, inpulse/core/includes/redux/redux-config.php:3209, inpulse/core/includes/redux/redux-config.php:3239, inpulse/core/includes/redux/redux-config.php:3281, inpulse/core/includes/redux/redux-config.php:3303
+msgid "Spacer 5"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:401, inpulse/core/includes/redux/redux-config.php:450, inpulse/core/includes/redux/redux-config.php:2908, inpulse/core/includes/redux/redux-config.php:2939, inpulse/core/includes/redux/redux-config.php:3210, inpulse/core/includes/redux/redux-config.php:3240, inpulse/core/includes/redux/redux-config.php:3282, inpulse/core/includes/redux/redux-config.php:3304
+msgid "Spacer 6"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:402, inpulse/core/includes/redux/redux-config.php:451
+msgid "Spacer 7"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:403, inpulse/core/includes/redux/redux-config.php:452
+msgid "Spacer 8"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:404, inpulse/core/includes/redux/redux-config.php:405, inpulse/core/includes/redux/redux-config.php:453, inpulse/core/includes/redux/redux-config.php:454
+msgid "Button"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:408, inpulse/core/includes/redux/redux-config.php:457, inpulse/core/includes/redux/redux-config.php:2902, inpulse/core/includes/redux/redux-config.php:2943, inpulse/core/includes/redux/redux-config.php:3214, inpulse/core/includes/redux/redux-config.php:3244
+msgid "Wishlist"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:409, inpulse/core/includes/redux/redux-config.php:458, inpulse/core/includes/redux/redux-config.php:2904, inpulse/core/includes/redux/redux-config.php:2935, inpulse/core/includes/redux/redux-config.php:3206, inpulse/core/includes/redux/redux-config.php:3236, inpulse/core/includes/redux/redux-config.php:3278, inpulse/core/includes/redux/redux-config.php:3300
+msgid "Spacer 2"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:417, inpulse/core/includes/redux/redux-config.php:466, inpulse/core/includes/redux/redux-config.php:2903, inpulse/core/includes/redux/redux-config.php:2934, inpulse/core/includes/redux/redux-config.php:3205, inpulse/core/includes/redux/redux-config.php:3235, inpulse/core/includes/redux/redux-config.php:3277, inpulse/core/includes/redux/redux-config.php:3299
+msgid "Spacer 1"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:421, inpulse/core/includes/redux/redux-config.php:470, inpulse/core/includes/redux/redux-config.php:2915, inpulse/core/includes/redux/redux-config.php:2950, inpulse/core/includes/redux/redux-config.php:3217, inpulse/core/includes/redux/redux-config.php:3247, inpulse/core/includes/redux/redux-config.php:3286, inpulse/core/includes/redux/redux-config.php:3308, inpulse/core/includes/redux/redux-config.php:5836
+msgid "Menu"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:486
+msgid "Header Spacer 1 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:496
+msgid "Header Spacer 2 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:506
+msgid "Header Spacer 3 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:516
+msgid "Header Spacer 4 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:526
+msgid "Header Spacer 5 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:536
+msgid "Header Spacer 6 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:546
+msgid "Header Spacer 7 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:556
+msgid "Header Spacer 8 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:567, inpulse/core/includes/redux/redux-config.php:735
+msgid "Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:577
+msgid "Customize Search"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:583, inpulse/core/includes/redux/redux-config.php:751, inpulse/core/includes/redux/redux-config.php:1823, inpulse/core/includes/redux/redux-config.php:1851
+msgid "Icon Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:595, inpulse/core/includes/redux/redux-config.php:763
+msgid "Hover Icon Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:619, inpulse/core/includes/redux/redux-config.php:787, inpulse/core/includes/redux/redux-config.php:1461, inpulse/core/includes/redux/redux-config.php:1653
+msgid "Hover Background Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:643, inpulse/core/includes/redux/redux-config.php:811, inpulse/core/includes/redux/redux-config.php:1485, inpulse/core/includes/redux/redux-config.php:1677
+msgid "Hover Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:655
+msgid "Customize Sticky Search"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:661, inpulse/core/includes/redux/redux-config.php:829
+msgid "Sticky Icon Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:673, inpulse/core/includes/redux/redux-config.php:841
+msgid "Sticky Hover Icon Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:685, inpulse/core/includes/redux/redux-config.php:853, inpulse/core/includes/redux/redux-config.php:1527, inpulse/core/includes/redux/redux-config.php:1719
+msgid "Sticky Background Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:697, inpulse/core/includes/redux/redux-config.php:865, inpulse/core/includes/redux/redux-config.php:1539, inpulse/core/includes/redux/redux-config.php:1731
+msgid "Sticky Hover Background Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:709, inpulse/core/includes/redux/redux-config.php:877, inpulse/core/includes/redux/redux-config.php:1551, inpulse/core/includes/redux/redux-config.php:1743
+msgid "Sticky Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:721, inpulse/core/includes/redux/redux-config.php:889, inpulse/core/includes/redux/redux-config.php:1563, inpulse/core/includes/redux/redux-config.php:1755
+msgid "Sticky Hover Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:745
+msgid "Customize cart"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:823
+msgid "Customize Sticky cart"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:905, inpulse/core/includes/redux/redux-config.php:972, inpulse/core/includes/redux/redux-config.php:985, inpulse/core/includes/redux/redux-config.php:1052, inpulse/core/includes/redux/redux-config.php:1066, inpulse/core/includes/redux/redux-config.php:1133, inpulse/core/includes/redux/redux-config.php:1146, inpulse/core/includes/redux/redux-config.php:1213, inpulse/core/includes/redux/redux-config.php:1226, inpulse/core/includes/redux/redux-config.php:1293, inpulse/core/includes/redux/redux-config.php:1306, inpulse/core/includes/redux/redux-config.php:1371
+msgid "Delimiter Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:915, inpulse/core/includes/redux/redux-config.php:995, inpulse/core/includes/redux/redux-config.php:1076, inpulse/core/includes/redux/redux-config.php:1156, inpulse/core/includes/redux/redux-config.php:1236, inpulse/core/includes/redux/redux-config.php:1316
+msgid "Delimiter Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:923, inpulse/core/includes/redux/redux-config.php:956, inpulse/core/includes/redux/redux-config.php:1003, inpulse/core/includes/redux/redux-config.php:1036, inpulse/core/includes/redux/redux-config.php:1084, inpulse/core/includes/redux/redux-config.php:1117, inpulse/core/includes/redux/redux-config.php:1164, inpulse/core/includes/redux/redux-config.php:1197, inpulse/core/includes/redux/redux-config.php:1244, inpulse/core/includes/redux/redux-config.php:1277, inpulse/core/includes/redux/redux-config.php:1324, inpulse/core/includes/redux/redux-config.php:1357
+msgid "Delimiter Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:941, inpulse/core/includes/redux/redux-config.php:1021, inpulse/core/includes/redux/redux-config.php:1102, inpulse/core/includes/redux/redux-config.php:1182, inpulse/core/includes/redux/redux-config.php:1262, inpulse/core/includes/redux/redux-config.php:1342
+msgid "Delimiter Spacing"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:950, inpulse/core/includes/redux/redux-config.php:1030, inpulse/core/includes/redux/redux-config.php:1111, inpulse/core/includes/redux/redux-config.php:1191, inpulse/core/includes/redux/redux-config.php:1271, inpulse/core/includes/redux/redux-config.php:1351
+msgid "Customize Sticky Delimiter"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1382, inpulse/core/includes/redux/redux-config.php:1575
+msgid "Button Text"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1383, inpulse/core/includes/redux/redux-config.php:1576
+msgid "Get Ticket"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1399, inpulse/core/includes/redux/redux-config.php:1592
+msgid "Button Size"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1401, inpulse/core/includes/redux/redux-config.php:1594
+msgid "Small"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1402, inpulse/core/includes/redux/redux-config.php:1595
+msgid "Medium"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1403, inpulse/core/includes/redux/redux-config.php:1596
+msgid "Large"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1404, inpulse/core/includes/redux/redux-config.php:1597
+msgid "Extra Large"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1412, inpulse/core/includes/redux/redux-config.php:1604
+msgid "Button Border Radius"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1414, inpulse/core/includes/redux/redux-config.php:1606
+msgid "Value in pixels."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1419, inpulse/core/includes/redux/redux-config.php:1611
+msgid "Customize Button"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1437, inpulse/core/includes/redux/redux-config.php:1629
+msgid "Hover Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1497, inpulse/core/includes/redux/redux-config.php:1689
+msgid "Customize Sticky Button"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1503, inpulse/core/includes/redux/redux-config.php:1695
+msgid "Sticky Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1515, inpulse/core/includes/redux/redux-config.php:1707
+msgid "Sticky Hover Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1768, inpulse/core/includes/redux/redux-config.php:2966, inpulse/core/includes/redux/redux-config.php:3320
+msgid "HTML Element 1 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1775, inpulse/core/includes/redux/redux-config.php:2974, inpulse/core/includes/redux/redux-config.php:3330
+msgid "HTML Element 2 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1782, inpulse/core/includes/redux/redux-config.php:2982, inpulse/core/includes/redux/redux-config.php:3340
+msgid "HTML Element 3 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1789, inpulse/core/includes/redux/redux-config.php:2990, inpulse/core/includes/redux/redux-config.php:3350
+msgid "HTML Element 4 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1795, inpulse/core/includes/redux/redux-config.php:2998, inpulse/core/includes/redux/redux-config.php:3360
+msgid "HTML Element 5 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1802, inpulse/core/includes/redux/redux-config.php:3006, inpulse/core/includes/redux/redux-config.php:3370
+msgid "HTML Element 6 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1809
+msgid "HTML Element 7 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1816
+msgid "HTML Element 8 Editor"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1834, inpulse/core/includes/redux/redux-config.php:1865
+msgid "Background Icon"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1845
+msgid "Customize Sticky Icon"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1879
+msgid "Header Top Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1885
+msgid "Full Width Top Header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1886
+msgid "Set header content in full width top layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1894
+msgid "Header Top Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1902
+msgid "Header Top Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1907
+msgid "Header Top Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1918
+msgid "Header Top Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1919
+msgid "Set Top header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1930
+msgid "Set Header Top Bottom Border"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1938
+msgid "Header Top Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1951
+msgid "Header Top Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1970
+msgid "Header Middle Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1976
+msgid "Full Width Middle Header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1977
+msgid "Set header content in full width middle layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1985
+msgid "Header Middle Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:1995
+msgid "Header Middle Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2000
+msgid "Header Middle Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2011
+msgid "Header Middle Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2012
+msgid "Set Middle header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2023
+msgid "Set Header Middle Bottom Border"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2031
+msgid "Header Middle Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2044
+msgid "Header Middle Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2064
+msgid "Header Bottom Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2070
+msgid "Full Width Bottom Header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2071
+msgid "Set header content in full width bottom layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2079
+msgid "Header Bottom Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2089
+msgid "Header Bottom Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2094
+msgid "Header Bottom Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2105
+msgid "Header Bottom Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2106
+msgid "Set Bottom header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2117
+msgid "Set Header Bottom Border"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2125
+msgid "Header Bottom Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2138
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2157
+msgid "Top Left Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2163, inpulse/core/includes/redux/redux-config.php:2206, inpulse/core/includes/redux/redux-config.php:2249, inpulse/core/includes/redux/redux-config.php:2292, inpulse/core/includes/redux/redux-config.php:2335, inpulse/core/includes/redux/redux-config.php:2378, inpulse/core/includes/redux/redux-config.php:2421, inpulse/core/includes/redux/redux-config.php:2464, inpulse/core/includes/redux/redux-config.php:2507, inpulse/core/includes/redux/redux-config.php:2550, inpulse/core/includes/redux/redux-config.php:2593, inpulse/core/includes/redux/redux-config.php:2636
+msgid "Horizontal Align"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2174, inpulse/core/includes/redux/redux-config.php:2217, inpulse/core/includes/redux/redux-config.php:2260, inpulse/core/includes/redux/redux-config.php:2303, inpulse/core/includes/redux/redux-config.php:2346, inpulse/core/includes/redux/redux-config.php:2389, inpulse/core/includes/redux/redux-config.php:2432, inpulse/core/includes/redux/redux-config.php:2475, inpulse/core/includes/redux/redux-config.php:2518, inpulse/core/includes/redux/redux-config.php:2561, inpulse/core/includes/redux/redux-config.php:2604, inpulse/core/includes/redux/redux-config.php:2647
+msgid "Vertical Align"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2177, inpulse/core/includes/redux/redux-config.php:2220, inpulse/core/includes/redux/redux-config.php:2263, inpulse/core/includes/redux/redux-config.php:2306, inpulse/core/includes/redux/redux-config.php:2349, inpulse/core/includes/redux/redux-config.php:2392, inpulse/core/includes/redux/redux-config.php:2435, inpulse/core/includes/redux/redux-config.php:2478, inpulse/core/includes/redux/redux-config.php:2521, inpulse/core/includes/redux/redux-config.php:2564, inpulse/core/includes/redux/redux-config.php:2607, inpulse/core/includes/redux/redux-config.php:2650
+msgid "Middle"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2185, inpulse/core/includes/redux/redux-config.php:2228, inpulse/core/includes/redux/redux-config.php:2271, inpulse/core/includes/redux/redux-config.php:2314, inpulse/core/includes/redux/redux-config.php:2357, inpulse/core/includes/redux/redux-config.php:2400, inpulse/core/includes/redux/redux-config.php:2443, inpulse/core/includes/redux/redux-config.php:2486, inpulse/core/includes/redux/redux-config.php:2529, inpulse/core/includes/redux/redux-config.php:2572, inpulse/core/includes/redux/redux-config.php:2615, inpulse/core/includes/redux/redux-config.php:2658
+msgid "Display"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2187, inpulse/core/includes/redux/redux-config.php:2230, inpulse/core/includes/redux/redux-config.php:2273, inpulse/core/includes/redux/redux-config.php:2316, inpulse/core/includes/redux/redux-config.php:2359, inpulse/core/includes/redux/redux-config.php:2402, inpulse/core/includes/redux/redux-config.php:2445, inpulse/core/includes/redux/redux-config.php:2488, inpulse/core/includes/redux/redux-config.php:2531, inpulse/core/includes/redux/redux-config.php:2574, inpulse/core/includes/redux/redux-config.php:2617, inpulse/core/includes/redux/redux-config.php:2660
+msgid "Normal"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2188, inpulse/core/includes/redux/redux-config.php:2231, inpulse/core/includes/redux/redux-config.php:2274, inpulse/core/includes/redux/redux-config.php:2317, inpulse/core/includes/redux/redux-config.php:2360, inpulse/core/includes/redux/redux-config.php:2403, inpulse/core/includes/redux/redux-config.php:2446, inpulse/core/includes/redux/redux-config.php:2489, inpulse/core/includes/redux/redux-config.php:2532, inpulse/core/includes/redux/redux-config.php:2575, inpulse/core/includes/redux/redux-config.php:2618, inpulse/core/includes/redux/redux-config.php:2661
+msgid "Grow"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2200, inpulse/core/includes/redux/redux-config.php:2243
+msgid "Top Center Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2286
+msgid "Top Right Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2329
+msgid "Middle Left Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2372, inpulse/core/includes/redux/redux-config.php:2415, inpulse/core/includes/redux/redux-config.php:2544
+msgid "Middle Center Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2458
+msgid "Middle Right Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2501
+msgid "Bottom Left Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2587
+msgid "Bottom Center Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2630
+msgid "Bottom Right Column Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2679
+msgid "Header Bottom Shadow"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2685
+msgid "Over content"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2686
+msgid "Set Header preset to display over content."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2692
+msgid "Enable Lavalamp Marker"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2698
+msgid "Sub Menu Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2699, inpulse/core/includes/redux/redux-config.php:3121
+msgid "Set sub menu background color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2710
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2711, inpulse/core/includes/redux/redux-config.php:3147
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2718
+msgid "Sub Menu Bottom Border"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2726
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2739
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2753
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2770
+msgid "Header Sticky"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2783
+msgid "Sticky Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2790
+msgid "Sticky Header Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2791
+msgid "Set sticky header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2798
+msgid "Sticky Header Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2799
+msgid "Set sticky header background color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2812
+msgid "Sticky Header Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2822
+msgid "Choose your sticky style."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2824
+msgid "Show when scroll"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2825
+msgid "Show when scroll up"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2832
+msgid "Bottom Border On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2840
+msgid "Bottom Border Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2853
+msgid "Bottom Border Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2867
+msgid "Bottom Shadow On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2873
+msgid "Custom Sticky Header "
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2879
+msgid "Sticky Header Order"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2880
+msgid "Organize the layout of the sticky header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:2958
+msgid "Full Width Sticky Header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3015, inpulse/core/includes/redux/redux-config.php:3381
+msgid "Spacer 1 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3026, inpulse/core/includes/redux/redux-config.php:3396
+msgid "Spacer 2 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3037, inpulse/core/includes/redux/redux-config.php:3411
+msgid "Spacer 3 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3048, inpulse/core/includes/redux/redux-config.php:3426
+msgid "Spacer 4 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3059, inpulse/core/includes/redux/redux-config.php:3441
+msgid "Spacer 5 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3070, inpulse/core/includes/redux/redux-config.php:3456
+msgid "Spacer 6 Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3085
+msgid "Header Mobile"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3092
+msgid "Custom Mobile Header "
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3098
+msgid "Mobile Header Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3099
+msgid "Set mobile header background color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3111
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3112
+msgid "Set mobile header text color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3120
+msgid "Mobile Sub Menu Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3133
+msgid "Mobile Sub Menu Overlay"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3134
+msgid "Set sub menu overlay color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3146
+msgid "Mobile Sub Menu Text Color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3157
+msgid "Mobile Height"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3170
+msgid "Mobile Over Content"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3176
+msgid "Mobile Sticky"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3182
+msgid "Mobile Sub Menu Position"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3192
+msgid "Mobile Header Order"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3193, inpulse/core/includes/redux/redux-config.php:3265
+msgid "Organize the layout of the mobile header"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3264
+msgid "Mobile Drawer Content"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3475, inpulse/core/includes/redux/redux-config.php:3775, inpulse/core/includes/redux/redux-config.php:4011
+msgid "Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3482
+msgid "Page Title Switch"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3568, inpulse/core/includes/redux/redux-config.php:3739
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3574, inpulse/core/includes/redux/redux-config.php:4747
+msgid "Breadcrumbs Block On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3599, inpulse/core/includes/redux/redux-config.php:4860
+msgid "Parallax Speed"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3617, inpulse/core/includes/redux/redux-config.php:5712
+msgid "Typography"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3665
+msgid "Responsive"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3782
+msgid "Footer On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3823, inpulse/core/includes/redux/redux-config.php:5269
+msgid "Page Select"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3849, inpulse/core/includes/redux/redux-config.php:3878
+msgid "Columns Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3918
+msgid "Full Width On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3931
+msgid "Footer Styling"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3951
+msgid "Content Align"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3970
+msgid "Headings color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3977
+msgid "Content color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:3991
+msgid "Border color"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4018
+msgid "Copyright On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4082, inpulse/core/includes/redux/redux-config.php:4284
+msgid "Blog"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4098, inpulse/core/includes/redux/redux-config.php:4606
+msgid "Archive Page Title Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4110
+msgid "Blog Archive Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4130
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4137
+msgid "Blog Archive Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4148
+msgid "Blog Archive Sticky Sidebar On?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4155
+msgid "Blog Archive Sidebar Side Gap"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4174, inpulse/core/includes/redux/redux-config.php:4645
+msgid "Columns in Archive"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4186, inpulse/core/includes/redux/redux-config.php:4464
+msgid "Likes On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4192, inpulse/core/includes/redux/redux-config.php:4476, inpulse/core/includes/redux/redux-config.php:4985, inpulse/core/includes/redux/redux-config.php:6272
+msgid "Share On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4198
+msgid "Hide Media?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4204
+msgid "Hide Title?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4210
+msgid "Hide Content?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4216
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4222
+msgid "Number of character to show after trim."
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4229
+msgid "Hide Read More Button?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4235, inpulse/core/includes/redux/redux-config.php:4488, inpulse/core/includes/redux/redux-config.php:4997
+msgid "Hide all post-meta?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4241, inpulse/core/includes/redux/redux-config.php:4494
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4248, inpulse/core/includes/redux/redux-config.php:4501
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4255, inpulse/core/includes/redux/redux-config.php:4508
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4262, inpulse/core/includes/redux/redux-config.php:4515
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4270, inpulse/core/includes/redux/redux-config.php:4699, inpulse/core/includes/redux/redux-config.php:5109, inpulse/core/includes/redux/redux-config.php:6075
+msgid "Single"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4277
+msgid "Blog Post Title On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4283, inpulse/core/includes/redux/redux-config.php:5122
+msgid "Single Page Title Text"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4293, inpulse/core/includes/redux/redux-config.php:5096
+msgid "Single Page Title Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4305
+msgid "Blog Single Type"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4323
+msgid "Page Title Padding"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4361
+msgid "Single Responsive Padding"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4392
+msgid "Apply Animation?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4399
+msgid "Blog Single Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4419
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4427
+msgid "Blog Single Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4438
+msgid "Blog Single Sticky Sidebar On?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4445
+msgid "Blog Single Sidebar Side Gap"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4470
+msgid "Views On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4482
+msgid "Author Info On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4522
+msgid "Hide tags?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4530, inpulse/core/includes/redux/redux-config.php:6279
+msgid "Related"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4551, inpulse/core/includes/redux/redux-config.php:4671
+msgid "Select Categories"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4580
+msgid "Display items in the carousel"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4590
+msgid "Portfolio"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4618
+msgid "Portfolio Archive Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4638
+msgid "Portfolio Archive Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4657
+msgid "Portfolio Slug"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4663
+msgid "Filter On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4680
+msgid "Title On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4686
+msgid "Content On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4706, inpulse/core/includes/redux/redux-config.php:6082
+msgid "Post Title Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4712, inpulse/core/includes/redux/redux-config.php:6088
+msgid "Use Custom Post Title?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4718, inpulse/core/includes/redux/redux-config.php:6094
+msgid "Custom Post Title"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4719, inpulse/core/includes/redux/redux-config.php:5186, inpulse/core/includes/redux/redux-config.php:6095
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4736, inpulse/core/includes/redux/redux-config.php:6121
+msgid "Title Breadcrumbs Alignment"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4808
+msgid "Portfolio Single Type"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4820
+msgid "Content Alignment"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4837
+msgid "Portfolio Single Padding"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4901
+msgid "Portfolio Single Responsive Padding"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4915
+msgid "Portfolio Single Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4935
+msgid "Portfolio Single Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4942
+msgid "Portfolio Single Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4953
+msgid "Portfolio Single Sticky Sidebar On?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4960
+msgid "Portfolio Single Sidebar Side Gap"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:4991
+msgid "Post-meta likes On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5003
+msgid "Post-meta author On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5010
+msgid "Post-meta comments On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5017
+msgid "Post-meta categories On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5024
+msgid "Post-meta date On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5039
+msgid "Related Posts On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5059
+msgid "Related Columns"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5080, inpulse/core/includes/redux/redux-config.php:5123
+msgid "Team"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5087
+msgid "Team Slug"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5116
+msgid "Team Post Title On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5131
+msgid "Page 404"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5138
+msgid "404 Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5148
+msgid "Main Background"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5160
+msgid "Show Header?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5166
+msgid "Show Footer?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5172
+msgid "Show Page Title?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5178
+msgid "Use Custom Page Title?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5366
+msgid "Sidebars"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5374
+msgid "Add Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5375
+msgid "Register Sidebars"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5381
+msgid "Sidebar Page Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5465
+msgid "Show Social Share on Pages On/Off"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5495
+msgid "Offset Top"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5540
+msgid "Add Custom Share?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5548
+msgid "Custom Share Icon 1"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5554
+msgid "Custom Share Link 1"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5561
+msgid "Custom Share Icon 2"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5567
+msgid "Custom Share Link 2"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5574
+msgid "Custom Share Icon 3"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5580
+msgid "Custom Share Link 3"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5587
+msgid "Custom Share Icon 4"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5593
+msgid "Custom Share Link 4"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5600
+msgid "Custom Share Icon 5"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5606
+msgid "Custom Share Link 5"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5613
+msgid "Custom Share Icon 6"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5619
+msgid "Custom Share Link 6"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5626
+msgid "Custom Share Icon 7"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5632
+msgid "Custom Share Link 7"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5639
+msgid "Custom Share Icon 8"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5645
+msgid "Custom Share Link 8"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5652
+msgid "Custom Share Icon 9"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5658
+msgid "Custom Share Link 9"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5665
+msgid "Custom Share Icon 10"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5671
+msgid "Custom Share Link 10"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5679
+msgid "Color Options"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5721
+msgid "Content Font"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5739
+msgid "Headings Main Settings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5777
+msgid "Main Content"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5788
+msgid "Menu Font"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5803
+msgid "Submenu Font"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5848
+msgid "H1"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5858
+msgid "H2"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5868
+msgid "H3"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5878
+msgid "H4"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5888
+msgid "H5"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5898
+msgid "H6"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5928
+msgid "Headings"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5945
+msgid "Catalog"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5955
+msgid "Catalog Page Title Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5967
+msgid "Shop Catalog Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5987
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:5994
+msgid "Shop Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6031
+msgid "Shop Column"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6043
+msgid "Products per page"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6052
+msgid "Use Animation Shop?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6059
+msgid "Animation Style"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6061
+msgid "Fade In"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6062
+msgid "Slide Top"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6063
+msgid "Slide Bottom"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6064
+msgid "Slide Left"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6065
+msgid "Slide Right"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6066
+msgid "Zoom"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6112
+msgid "Breadcrumbs Display"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6186
+msgid "Enable Border Top?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6208
+msgid "Shop Single Sidebar Layout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6228
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6235
+msgid "Shop Single Sidebar Width"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6246
+msgid "Shop Single Sticky Sidebar On?"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6253
+msgid "Shop Single Sidebar Side Gap"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6286
+msgid "Related products column"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6298
+msgid "Related products per page"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6318
+msgid "Cart Page Title Background Image"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6331
+msgid "Checkout"
+msgstr ""
+
+#: inpulse/core/includes/redux/redux-config.php:6341
+msgid "Checkout Page Title Background Image"
+msgstr ""
