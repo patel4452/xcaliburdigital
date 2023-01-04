@@ -1,0 +1,2 @@
+2020-02-21T06:54:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 524288 bytes) in /home/xcaliburdigital/public_html/wp-content/themes/consulting/inc/visual_composer.php on line 2697
+

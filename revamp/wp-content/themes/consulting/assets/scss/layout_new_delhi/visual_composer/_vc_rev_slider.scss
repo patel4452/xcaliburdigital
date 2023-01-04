@@ -1,0 +1,114 @@
+.consulting-rev-title{
+  font-size: 48px;
+  line-height: 60px;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+
+.consulting-rev-title-2{
+  font-size: 36px;
+  line-height: 42px;
+  color: #243238;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+
+.consulting-rev-title-3{
+  font-size: 45px;
+  line-height: 45px;
+  color: #243238;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+
+.consulting-rev-title-icon{
+  font-size: 72px;
+  color: $stm_secondary_color;
+  padding-left: 1px;
+}
+
+.consulting-rev-text{
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  color: #fff;
+  line-height: 32px;
+  font-size: 24px;
+}
+
+.consulting-rev-text-2{
+  color: #243238;
+  line-height: 22px;
+  font-size: 14px;
+}
+
+.tp-caption{
+  .button{
+    transition: all .3s ease !important;
+    padding: 8px 39px 10px 18px !important;
+    margin-right: 16px;
+    text-transform: none;
+    border-radius: 4px;
+    i {
+      transition: all .3s ease !important;
+    }
+    &:hover {
+      color: #fff !important;
+    }
+  }
+}
+
+// Blue - Overlay
+.baseColorOverlay.tp-caption {
+  background: rgba( $stm_base_color, .5 ) !important;
+}
+
+body .tparrows{
+  opacity: 1;
+  &.tp-leftarrow{
+    &:before{
+      content: "\e9a7";
+      padding: 0 3px 0 0;
+      font-family: 'stm';
+    }
+  }
+  &.tp-rightarrow{
+    &:before{
+      content: "\e9a8";
+      padding: 0 0 0 3px;
+      font-family: 'stm';
+    }
+  }
+  &:before{
+    @include fa();
+    font-size: 19px;
+    line-height: 40px;
+    color: rgba($stm_base_color, 0.5);
+  }
+  &:hover {
+    &:before {
+      color: $stm_secondary_color;
+      opacity: 1 !important;
+    }
+  }
+}
+
+body{
+  .tp-bullets{
+    .tp-bullet{
+      width: 4px;
+      height: 4px;
+      background: $stm_secondary_color;
+      box-sizing: content-box;
+      margin: 2px;
+      padding: 0;
+      @include border-radius(50%);
+      &.selected{
+        background: $stm_base_color;
+        padding: 2px;
+        margin: 0;
+      }
+    }
+  }
+}

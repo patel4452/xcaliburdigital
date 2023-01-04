@@ -1,0 +1,212 @@
+.stm_services {
+  position: relative;
+  margin: 0 -15px;
+  font-size: 0;
+  .item {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    padding: 0 15px;
+    margin: 0 0 57px;
+    font-size: 14px;
+    .item_wr {
+      .item_thumbnail {
+        img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+        }
+        a{
+          position: relative;
+          display: block;
+          &:before{
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(#000, .6);
+            @include transition();
+            opacity: 0;
+            z-index: 1;
+          }
+          &:after{
+            content: "\e920";
+            @include theme_icons();
+            @include transition();
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -15px 0 0 -15px;
+            color: #fff;
+            font-size: 30px;
+            opacity: 0;
+            z-index: 1;
+          }
+          &:hover{
+            &:before, &:after{
+              opacity: 1;
+            }
+          }
+        }
+      }
+      .content {
+        font-size: 13px;
+        border: 3px solid #f2f2f2;
+        border-top: 0;
+        padding: 45px 38px;
+        @include transition();
+        @media only screen and (max-width: 768px) {
+          padding: 25px 18px;
+        }
+        h5 {
+          padding: 0;
+          margin: 0 0 9px;
+          line-height: 24px;
+          font-size: 18px;
+          a {
+            text-decoration: none !important;
+            color: $stm_base_color;
+            @include transition();
+            &:hover {
+              color: $stm_secondary_color;
+            }
+          }
+          &:before,
+          &:after {
+            display: none;
+          }
+        }
+        .category {
+          @include transition();
+          text-transform: capitalize;
+          margin-bottom: 12px;
+          font-weight: 400;
+          font-size: 13px;
+          color: $stm_secondary_color;
+          a {
+            color: $stm_secondary_color;
+          }
+          .stm_icon {
+            margin-left: 6px;
+            font-size: 12px;
+          }
+        }
+        p {
+          line-height: 18px;
+        }
+        .read_more {
+          text-transform: lowercase;
+          font-weight: 400;
+          font-size: 13px;
+          transition: color 0.2s linear;
+          color: #243238;
+          font-family: "Rajdhani", sans-serif;
+          .stm_icon {
+            margin: 2px 0 0 5px;
+            font-size: 12px;
+            vertical-align: middle;
+            color: $stm_third_color;
+          }
+          span {
+            vertical-align: middle;
+            line-height: 13px;
+          }
+          &:hover {
+            color: $stm_secondary_color;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+    &:hover {
+      .item_wr {
+        .item_thumbnail {
+          a{
+            &:before, &:after{
+              opacity: 1;
+            }
+          }
+        }
+        .content {
+          background-color: $stm_base_color;
+          border-color: $stm_base_color;
+          h5 {
+            a {
+              color: #fff;
+              &:hover {
+                color: $stm_secondary_color;
+              }
+            }
+          }
+          .category {
+            color: #fff;
+            a {
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+  }
+  &.cols_4 {
+    .item {
+      width: 25%;
+    }
+  }
+  &.cols_2 {
+    .item {
+      width: 50%;
+    }
+  }
+  &.cols_1 {
+    .item {
+      width: 100%;
+    }
+  }
+
+  &.style_2 {
+    .item {
+      position: relative;
+      transition: all 0.3s;
+      .item_wr {
+        background-color: #fff;
+      }
+      .content {
+        padding: 42px 26px 33px;
+        .category {
+          display: inline-block;
+          vertical-align: top;
+          padding: 1px 6px;
+          margin-bottom: 16px;
+          line-height: 14px;
+          text-transform: uppercase;
+          background-color: $stm_secondary_color;
+          font-weight: 600;
+          font-size: 12px;
+          color: #fff;
+          &:before,
+          &:after {
+            display: none;
+          }
+        }
+        h5 {
+          font-weight: 700;
+          font-size: 20px;
+          &:before {
+            display: none;
+          }
+        }
+      }
+      .item_thumbnail {
+        margin-bottom: 0;
+      }
+      &:hover {
+        margin-top: -10px;
+      }
+    }
+  }
+}
+

@@ -1,0 +1,1 @@
+èO_<?php exit; ?>a:1:{s:7:"content";a:1:{s:26:"_wpb_shortcodes_custom_css";a:1:{i:0;s:126:".vc_custom_1563350544559{background-color: #2f559a !important;}.vc_custom_1563415786708{background-color: #2f559a !important;}";}}}
